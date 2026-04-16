@@ -24,15 +24,13 @@ def write_csv(stocks):
     os.makedirs(DATA_DIR, exist_ok=True)
     with open(os.path.join(DATA_DIR, 'sectors.csv'), 'w', newline='', encoding='utf-8-sig') as f:
         w = csv.writer(f)
-        w.writerow(['代碼','名稱','產業','市場','題材(L2)','tech','supply','catalyst','momentum'])
+        w.writerow(['代碼','名稱','產業','市場','題材(L2)','tech','supply'])
         for s in stocks:
             tags = s.get('tags', {})
             w.writerow([s['code'], s['name'], s['sector'], s['market'],
                         ', '.join(s.get('themes',[])),
                         ', '.join(tags.get('tech',[])),
-                        ', '.join(tags.get('supply',[])),
-                        ', '.join(tags.get('catalyst',[])),
-                        ', '.join(tags.get('momentum',[]))])
+                        ', '.join(tags.get('supply',[]))])
 
 def write_by_sector(stocks):
     os.makedirs(VIEWS_DIR, exist_ok=True)
@@ -46,7 +44,7 @@ def write_by_sector(stocks):
         for s in sorted(lst, key=lambda x: x['code']):
             themes = ', '.join(s.get('themes',[])[:3])
             all_tags = []
-            for cat in ('tech','supply','catalyst','momentum'):
+            for cat in ('tech','supply'):
                 all_tags.extend(s.get('tags',{}).get(cat,[]))
             tags_str = ', '.join(all_tags[:5]) or '—'
             lines.append(f'| {s["code"]} | {s["name"]} | {s["market"]} | {themes} | {tags_str} |')
@@ -58,7 +56,7 @@ def write_by_tag(stocks):
     os.makedirs(VIEWS_DIR, exist_ok=True)
     tag_map = defaultdict(list)
     for s in stocks:
-        for cat in ('tech','supply','catalyst','momentum'):
+        for cat in ('tech','supply'):
             for t in s.get('tags',{}).get(cat,[]):
                 tag_map[f'{cat}/{t}'].append(s)
     if not tag_map:
