@@ -1,0 +1,21 @@
+code: '1301'
+name: 台塑
+market: TWSE
+sector: 塑膠工業
+themes:
+- AN
+- EVA
+- PE
+- PP
+- PVC
+- 其他化工產品
+- 化學工業
+- 化纖原料
+- 合成樹脂
+- 塑化原料
+- 鹼業
+tags:
+  tech: []
+  supply: []
+  catalyst: []
+  momentum: []

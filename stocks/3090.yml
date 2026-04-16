@@ -1,0 +1,16 @@
+code: '3090'
+name: 日電貿
+market: TWSE
+sector: 電子零組件業
+themes:
+- MLCC
+- 被動元件
+- 鋁質電解電容
+- 電子元件代理商
+- 電子通路
+- 電容
+tags:
+  tech: []
+  supply: []
+  catalyst: []
+  momentum: []

@@ -1,0 +1,20 @@
+name: Build views + data
+on:
+  push:
+    branches: [main]
+    paths: ['stocks/**']
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install pyyaml
+      - run: python scripts/build.py
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'auto: rebuild views + data from stocks/'
+          file_pattern: 'data/* views/*'

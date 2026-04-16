@@ -1,0 +1,18 @@
+code: '2204'
+name: 中華
+market: TWSE
+sector: 汽車工業
+themes:
+- 客貨車輛相關
+- 機車零組件
+- 汽機車零組件
+- 汽車服務相關
+- 汽車製造
+- 汽車銷售
+- 車輛整車
+- 電動機車
+tags:
+  tech: []
+  supply: []
+  catalyst: []
+  momentum: []
