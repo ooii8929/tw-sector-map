@@ -5,5 +5,8 @@ sector: 半導體業
 themes:
 - 半導體業
 tags:
-  tech: []
+  tech:
+  - CoWoS
+  - 先進封裝
   supply: []
+last_enriched: '2026-04-17'

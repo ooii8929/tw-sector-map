@@ -5,5 +5,12 @@ sector: 半導體業
 themes:
 - 半導體業
 tags:
-  tech: []
-  supply: []
+  tech:
+  - 先進封裝
+  - PLP
+  - 散熱
+  - PCB
+  - 封測
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

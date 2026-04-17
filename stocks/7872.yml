@@ -5,5 +5,9 @@ sector: 半導體業
 themes:
 - 半導體業
 tags:
-  tech: []
-  supply: []
+  tech:
+  - IC設計
+  supply:
+  - NVIDIA供應鏈
+  - AMD供應鏈
+last_enriched: '2026-04-17'

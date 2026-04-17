@@ -5,5 +5,9 @@ sector: 半導體業
 themes:
 - 半導體業
 tags:
-  tech: []
+  tech:
+  - 矽光子
+  - 伺服器
+  - 記憶體
   supply: []
+last_enriched: '2026-04-17'
