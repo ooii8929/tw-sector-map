@@ -9,5 +9,8 @@ themes:
 - 沙灘車
 - 車輛整車
 tags:
-  tech: []
+  tech:
+  - EV
+  - 風電
   supply: []
+last_enriched: '2026-04-17'

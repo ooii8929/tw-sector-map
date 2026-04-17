@@ -8,5 +8,8 @@ themes:
 - 太陽能系統運用
 - 電力
 tags:
-  tech: []
+  tech:
+  - 太陽能
+  - 儲能
   supply: []
+last_enriched: '2026-04-17'

@@ -7,5 +7,8 @@ themes:
 - 回收焚化／掩埋清運
 - 控股公司
 tags:
-  tech: []
-  supply: []
+  tech:
+  - 風電
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

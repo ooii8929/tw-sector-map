@@ -7,5 +7,9 @@ themes:
 - 電力公共事業
 - 電池
 tags:
-  tech: []
+  tech:
+  - 風電
+  - 儲能
+  - 電池
   supply: []
+last_enriched: '2026-04-17'

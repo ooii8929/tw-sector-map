@@ -7,5 +7,10 @@ themes:
 - 水資源設備／耗材
 - 污水處理
 tags:
-  tech: []
+  tech:
+  - 封測
+  - 風電
+  - 晶圓代工
+  - 記憶體
   supply: []
+last_enriched: '2026-04-17'

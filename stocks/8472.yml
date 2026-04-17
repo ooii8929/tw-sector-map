@@ -8,5 +8,7 @@ themes:
 - 電商平台
 - 食品飲料相關通路
 tags:
-  tech: []
+  tech:
+  - PCB
   supply: []
+last_enriched: '2026-04-17'

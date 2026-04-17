@@ -11,5 +11,8 @@ themes:
 - 電力
 - 電力公共事業
 tags:
-  tech: []
+  tech:
+  - 太陽能
+  - 儲能
   supply: []
+last_enriched: '2026-04-17'
