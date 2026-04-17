@@ -1,8 +1,8 @@
 # tw-sector-map
 
-台股產業 × 個股對照表 | 1952 stocks × 34 sectors × 822 themes × 3200+ L3 tags
+TWSE/TPEX sector & theme tag YAML dataset for Taiwan stocks
 
-> 給 AI 讀的台股知識圖譜 — 人維護，AI 消費
+台股產業分類 × 題材標籤 YAML 資料集 | 1952 stocks × 34 sectors × 822 themes × 3200+ L3 tags
 
 ## 資料結構
 
