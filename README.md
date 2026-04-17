@@ -102,3 +102,35 @@ python scripts/enrich_l3.py 30
 - [TWSE 證交所](https://isin.twse.com.tw/isin/C_public.jsp?strMode=2)
 - [TPEX 櫃買中心](https://isin.twse.com.tw/isin/C_public.jsp?strMode=4)
 - [MoneyDJ 題材分類](https://www.moneydj.com/Z/ZH/ZHA/ZHA.djhtm)
+
+## 應用：族群資金流向（Sector Flow）
+
+將三大法人每日買賣超按 L1/L2/L3 聚合，追蹤資金流向哪些產業、主題、技術標籤。
+
+### 聚合方式
+
+```
+institutional（個股每日三大法人）
+  JOIN sector_map_l1 → L1 資金流向（34 產業）
+  JOIN sector_map_l2 → L2 資金流向（~820 主題）
+  JOIN sector_map_l3 → L3 資金流向（~190 標籤）
+```
+
+### 各層級最佳用途
+
+| 層級 | 選股篩選 | 情報觀察 | 說明 |
+|------|----------|----------|------|
+| L1 | 🏆 最佳 | 太粗 | 粒度剛好，訊號穩定，適合量化策略 |
+| L2 | ❌ | 🏆 最佳 | 精確到子主題（晶圓代工 vs IC封裝），適合研究 |
+| L3 | ❌ | ✅ 有用 | 技術/供應鏈趨勢（tech:MLCC, supply:Intel供應鏈）|
+
+### 回測驗證（2024-01~2026-04）
+
+| 策略 | Sharpe | 說明 |
+|------|--------|------|
+| L1 交叉（Cross_L1_Mom15+Flow3d） | **1.34** | L1 產業連 3 天流入確認 + 動量 Top15 |
+| L3 加權（S1_L3TagBoost） | 1.33 | L1 篩選 + L3 hot tag 雙倍權重 |
+| L3 交叉 | 1.10 | L3 標籤太細，訊號雜訊大 |
+| L2 交叉 | 0.92 | 一股多主題，篩選器太寬鬆 |
+
+> 結論：法人買的是「產業」不是「標籤」。L1 大桶接大水最合適，L2/L3 適合觀察不適合選股。
