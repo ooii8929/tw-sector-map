@@ -2,7 +2,7 @@
 
 TWSE/TPEX sector & theme tag YAML dataset for Taiwan stocks
 
-台股產業分類 × 題材標籤 YAML 資料集 | 1952 stocks × 34 sectors × 822 themes × 3200+ L3 tags
+台股產業分類 × 題材標籤 YAML 資料集 | 2163 stocks × 34 sectors × 822 themes × 3200+ L3 tags
 
 ## 資料結構
 
@@ -30,10 +30,18 @@ tags:                         # L3 產業/產品標籤（人+AI 維護）
 
 | 層級 | 來源 | 說明 | 範例 |
 |------|------|------|------|
-| L1 `sector` | TWSE/TPEX 官方 | 34 大產業別 | 半導體業、光電業 |
+| L1 `sector` | TWSE/TPEX/ESB 官方 | 34 大產業別 | 半導體業、光電業 |
 | L2 `themes` | MoneyDJ | 800+ 題材分類 | 晶圓代工、MLCC |
 | L3 `tags` | 人+AI | 產品線 + 供應鏈 | CoWoS、Apple供應鏈 |
 
+
+### 市場涵蓋
+
+| 市場 | `market` | 檔數 | 說明 |
+|------|----------|------|------|
+| 上市 | `TWSE` | 1071 | 全部收錄 |
+| 上櫃 | `TPEX` | 881 | 全部收錄 |
+| 興櫃 | `ESB` | 211 | 日均量 > 50 張 |
 ### L3 Tag 規則
 
 只放跟**產業/產品**相關的標籤，不放動能、事件、籌碼。
@@ -101,6 +109,7 @@ python scripts/enrich_l3.py 30
 
 - [TWSE 證交所](https://isin.twse.com.tw/isin/C_public.jsp?strMode=2)
 - [TPEX 櫃買中心](https://isin.twse.com.tw/isin/C_public.jsp?strMode=4)
+- [ESB 興櫃](https://isin.twse.com.tw/isin/C_public.jsp?strMode=5)
 - [MoneyDJ 題材分類](https://www.moneydj.com/Z/ZH/ZHA/ZHA.djhtm)
 
 ## 應用：族群資金流向（Sector Flow）
@@ -124,13 +133,8 @@ institutional（個股每日三大法人）
 | L2 | ❌ | 🏆 最佳 | 精確到子主題（晶圓代工 vs IC封裝），適合研究 |
 | L3 | ❌ | ✅ 有用 | 技術/供應鏈趨勢（tech:MLCC, supply:Intel供應鏈）|
 
-### 回測驗證（2024-01~2026-04）
+## Changelog
 
-| 策略 | Sharpe | 說明 |
-|------|--------|------|
-| L1 交叉（Cross_L1_Mom15+Flow3d） | **1.34** | L1 產業連 3 天流入確認 + 動量 Top15 |
-| L3 加權（S1_L3TagBoost） | 1.33 | L1 篩選 + L3 hot tag 雙倍權重 |
-| L3 交叉 | 1.10 | L3 標籤太細，訊號雜訊大 |
-| L2 交叉 | 0.92 | 一股多主題，篩選器太寬鬆 |
-
-> 結論：法人買的是「產業」不是「標籤」。L1 大桶接大水最合適，L2/L3 適合觀察不適合選股。
+- **v3** (2026-04-17) — 新增 211 檔興櫃股票（ESB，日均量 > 50 張），總數 1952 → 2163
+- **v2** (2026-04-16) — 新增族群資金流向應用（Sector Flow），L3 enricher 覆蓋率 91.4%
+- **v1** (2026-04-15) — 初版，1952 檔上市櫃股票，L1 + L2 + L3 三層標籤
