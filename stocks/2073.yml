@@ -5,5 +5,7 @@ sector: 鋼鐵工業
 themes:
 - 線材盤元
 tags:
-  tech: []
+  tech:
+  - 線材
   supply: []
+last_enriched: '2026-04-17'

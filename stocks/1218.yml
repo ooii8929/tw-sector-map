@@ -8,5 +8,10 @@ themes:
 - 非酒精飲料
 - 飲料相關
 tags:
-  tech: []
+  tech:
+  - 大宗物資
+  - 油脂
+  - 飲料
+  - 酒類
   supply: []
+last_enriched: '2026-04-17'

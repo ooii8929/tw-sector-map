@@ -5,5 +5,7 @@ sector: 生技醫療業
 themes:
 - 手術與治療用醫材
 tags:
-  tech: []
+  tech:
+  - 醫材
   supply: []
+last_enriched: '2026-04-17'

@@ -8,5 +8,7 @@ themes:
 - 車床
 - 龍門機
 tags:
-  tech: []
+  tech:
+  - 工具機
   supply: []
+last_enriched: '2026-04-17'

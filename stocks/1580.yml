@@ -6,5 +6,8 @@ themes:
 - 烘焙及食品飲料機械
 - 產業機械
 tags:
-  tech: []
+  tech:
+  - 食品
+  - 烘焙
   supply: []
+last_enriched: '2026-04-17'

@@ -6,5 +6,7 @@ themes:
 - 汽機車零組件
 - 穿戴式裝置
 tags:
-  tech: []
+  tech:
+  - 汽機車零件
   supply: []
+last_enriched: '2026-04-17'

@@ -10,5 +10,7 @@ themes:
 - 電子通路
 - 電機
 tags:
-  tech: []
+  tech:
+  - 電子通路
   supply: []
+last_enriched: '2026-04-17'

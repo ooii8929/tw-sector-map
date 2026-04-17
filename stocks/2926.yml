@@ -10,5 +10,8 @@ themes:
 - 百貨業
 - 餐飲
 tags:
-  tech: []
+  tech:
+  - 餐飲
+  - 百貨零售
   supply: []
+last_enriched: '2026-04-17'

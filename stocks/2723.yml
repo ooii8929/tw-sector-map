@@ -9,5 +9,9 @@ themes:
 - 食品加工
 - 餐飲
 tags:
-  tech: []
+  tech:
+  - 食品
+  - 餐飲
+  - 烘焙
   supply: []
+last_enriched: '2026-04-17'

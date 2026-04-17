@@ -8,5 +8,7 @@ themes:
 - 租賃
 - 金融業
 tags:
-  tech: []
+  tech:
+  - 租賃
   supply: []
+last_enriched: '2026-04-17'

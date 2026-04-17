@@ -6,5 +6,7 @@ themes:
 - 其他醫療器材
 - 醫療耗材
 tags:
-  tech: []
+  tech:
+  - 醫療器材
   supply: []
+last_enriched: '2026-04-17'

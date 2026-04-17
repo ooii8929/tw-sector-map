@@ -9,5 +9,7 @@ themes:
 - 飼料
 - 麵粉
 tags:
-  tech: []
+  tech:
+  - 飼料
   supply: []
+last_enriched: '2026-04-17'

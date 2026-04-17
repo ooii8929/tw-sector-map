@@ -8,5 +8,7 @@ themes:
 - 網通設備
 - 衛星導航
 tags:
-  tech: []
+  tech:
+  - 網通設備
   supply: []
+last_enriched: '2026-04-17'

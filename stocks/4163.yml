@@ -7,5 +7,7 @@ themes:
 - 其他醫療器材
 - 金屬加工／製品
 tags:
-  tech: []
+  tech:
+  - 醫療器材
   supply: []
+last_enriched: '2026-04-17'

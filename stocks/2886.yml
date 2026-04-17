@@ -13,5 +13,10 @@ themes:
 - 金融業
 - 銀行
 tags:
-  tech: []
+  tech:
+  - 產險
+  - 證券
+  - 金控
+  - 銀行
   supply: []
+last_enriched: '2026-04-17'

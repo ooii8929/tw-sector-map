@@ -8,5 +8,8 @@ themes:
 - 食品加工
 - 食品生技
 tags:
-  tech: []
+  tech:
+  - 食品
+  - 保健食品
   supply: []
+last_enriched: '2026-04-17'

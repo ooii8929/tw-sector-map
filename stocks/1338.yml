@@ -5,5 +5,7 @@ sector: 汽車工業
 themes:
 - 汽車內裝
 tags:
-  tech: []
+  tech:
+  - 汽車內裝
   supply: []
+last_enriched: '2026-04-17'

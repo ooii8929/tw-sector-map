@@ -11,5 +11,10 @@ themes:
 - 運輸事業
 - 飯店
 tags:
-  tech: []
+  tech:
+  - 餐飲
+  - 水泥
+  - 貨櫃航運
+  - 飯店
   supply: []
+last_enriched: '2026-04-17'

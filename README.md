@@ -1,6 +1,6 @@
 # tw-sector-map
 
-台股產業 × 個股對照表 | 1900+ stocks × 34 sectors × 800+ themes
+台股產業 × 個股對照表 | 1952 stocks × 34 sectors × 822 themes × 3200+ L3 tags
 
 > 給 AI 讀的台股知識圖譜 — 人維護，AI 消費
 
@@ -58,7 +58,7 @@ data/            ← 自動生成，程式用
   sectors.csv
 scripts/
   build.py       ← YAML → JSON/MD/CSV
-  json2md.py     ← JSON → sectors.md（向下相容）
+  enrich_l3.py   ← 自動填充 L3 tags（CMoney + Google News）
 ```
 
 ## 如何貢獻
@@ -93,8 +93,8 @@ hbm_semi = [s for s in stocks
 # 從 YAML 重建所有輸出
 python scripts/build.py
 
-# 從 JSON 生成 sectors.md（向下相容）
-python scripts/json2md.py
+# 自動填充 L3 tags（需要網路）
+python scripts/enrich_l3.py 30
 ```
 
 ## 資料來源

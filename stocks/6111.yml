@@ -5,5 +5,7 @@ sector: 文化創意業
 themes:
 - 控股公司
 tags:
-  tech: []
+  tech:
+  - 控股
   supply: []
+last_enriched: '2026-04-17'

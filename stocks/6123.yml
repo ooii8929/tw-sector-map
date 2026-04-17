@@ -8,5 +8,8 @@ themes:
 - 電子元件代理商
 - 電子通路
 tags:
-  tech: []
+  tech:
+  - 軟體
+  - 電子通路
   supply: []
+last_enriched: '2026-04-17'

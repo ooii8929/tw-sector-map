@@ -8,5 +8,7 @@ themes:
 - 診斷與監測用醫材
 - 體溫計
 tags:
-  tech: []
+  tech:
+  - 醫材
   supply: []
+last_enriched: '2026-04-17'

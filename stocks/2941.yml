@@ -8,5 +8,8 @@ themes:
 - 成衣銷售／零售
 - 電商平台
 tags:
-  tech: []
+  tech:
+  - 成衣
+  - 電商
   supply: []
+last_enriched: '2026-04-17'

@@ -6,5 +6,7 @@ themes:
 - 家電
 - 電器銷售
 tags:
-  tech: []
+  tech:
+  - 家電
   supply: []
+last_enriched: '2026-04-17'

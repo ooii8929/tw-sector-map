@@ -9,5 +9,7 @@ themes:
 - 醫療管理服務
 - 醫藥流通
 tags:
-  tech: []
+  tech:
+  - 醫療器材
   supply: []
+last_enriched: '2026-04-17'

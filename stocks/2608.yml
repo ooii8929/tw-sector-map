@@ -8,5 +8,8 @@ themes:
 - 運輸事業
 - 陸運
 tags:
-  tech: []
+  tech:
+  - 倉儲
+  - 物流
   supply: []
+last_enriched: '2026-04-17'

@@ -8,5 +8,8 @@ themes:
 - 電器銷售
 - 電子通路
 tags:
-  tech: []
+  tech:
+  - 家電
+  - 電子通路
   supply: []
+last_enriched: '2026-04-17'

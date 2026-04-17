@@ -6,5 +6,8 @@ themes:
 - 非酒精飲料
 - 飲料相關
 tags:
-  tech: []
+  tech:
+  - 飲料
+  - 酒類
   supply: []
+last_enriched: '2026-04-17'

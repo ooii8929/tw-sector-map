@@ -11,5 +11,9 @@ themes:
 - 造紙業
 - 飯店
 tags:
-  tech: []
+  tech:
+  - 餐飲
+  - 造紙
+  - 飯店
   supply: []
+last_enriched: '2026-04-17'

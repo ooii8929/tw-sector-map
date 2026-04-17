@@ -8,5 +8,8 @@ themes:
 - 食品加工
 - 飼料
 tags:
-  tech: []
+  tech:
+  - 食品
+  - 飼料
   supply: []
+last_enriched: '2026-04-17'

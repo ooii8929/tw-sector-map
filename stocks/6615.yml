@@ -6,5 +6,7 @@ themes:
 - 生技服務
 - 生物科技
 tags:
-  tech: []
+  tech:
+  - 生技
   supply: []
+last_enriched: '2026-04-17'

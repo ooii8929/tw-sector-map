@@ -10,5 +10,9 @@ themes:
 - 營建
 - 食品加工
 tags:
-  tech: []
+  tech:
+  - 食品
+  - 保健食品
+  - 營建
   supply: []
+last_enriched: '2026-04-17'

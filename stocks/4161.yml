@@ -12,5 +12,9 @@ themes:
 - 食品生技
 - 體外診斷用醫材
 tags:
-  tech: []
+  tech:
+  - 美妝
+  - 醫材
+  - 食品
   supply: []
+last_enriched: '2026-04-17'

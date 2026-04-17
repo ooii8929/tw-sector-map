@@ -12,5 +12,9 @@ themes:
 - 衛生清潔用品
 - 造紙業
 tags:
-  tech: []
+  tech:
+  - 紙漿
+  - 清潔服務
+  - 造紙
   supply: []
+last_enriched: '2026-04-17'

@@ -8,5 +8,7 @@ themes:
 - 電子零件元件
 - 音響設備及零件
 tags:
-  tech: []
+  tech:
+  - 家電
   supply: []
+last_enriched: '2026-04-17'

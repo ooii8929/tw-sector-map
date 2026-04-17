@@ -10,5 +10,7 @@ themes:
 - 醫藥流通
 - 體外診斷用醫材
 tags:
-  tech: []
+  tech:
+  - 醫材
   supply: []
+last_enriched: '2026-04-17'

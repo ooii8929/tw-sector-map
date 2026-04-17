@@ -9,5 +9,9 @@ themes:
 - 預拌混凝土
 - 高爐水泥
 tags:
-  tech: []
+  tech:
+  - 水泥
+  - 預拌混凝土
+  - 高爐水泥
   supply: []
+last_enriched: '2026-04-17'

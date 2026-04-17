@@ -6,5 +6,7 @@ themes:
 - 手術與治療用醫材
 - 放射治療設備
 tags:
-  tech: []
+  tech:
+  - 醫材
   supply: []
+last_enriched: '2026-04-17'

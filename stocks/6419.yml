@@ -6,5 +6,7 @@ themes:
 - 安全監控
 - 工業電腦
 tags:
-  tech: []
+  tech:
+  - 工業電腦
   supply: []
+last_enriched: '2026-04-17'

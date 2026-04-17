@@ -10,5 +10,8 @@ themes:
 - 電子零件元件
 - 電腦系統業
 tags:
-  tech: []
+  tech:
+  - 工業電腦
+  - 汽機車零件
   supply: []
+last_enriched: '2026-04-17'

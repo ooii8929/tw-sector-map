@@ -10,5 +10,8 @@ themes:
 - 美妝保養品
 - 電商平台
 tags:
-  tech: []
+  tech:
+  - 美妝
+  - 電商
   supply: []
+last_enriched: '2026-04-17'

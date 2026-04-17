@@ -6,5 +6,8 @@ themes:
 - 散裝航運
 - 運輸事業
 tags:
-  tech: []
+  tech:
+  - 航運
+  - 散裝航運
   supply: []
+last_enriched: '2026-04-17'

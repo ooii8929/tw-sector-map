@@ -6,5 +6,7 @@ themes:
 - 自行車
 - 車輛整車
 tags:
-  tech: []
+  tech:
+  - 自行車
   supply: []
+last_enriched: '2026-04-17'

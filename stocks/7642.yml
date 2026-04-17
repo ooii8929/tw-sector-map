@@ -5,5 +5,7 @@ sector: 電機機械
 themes:
 - 家電
 tags:
-  tech: []
+  tech:
+  - 家電
   supply: []
+last_enriched: '2026-04-17'

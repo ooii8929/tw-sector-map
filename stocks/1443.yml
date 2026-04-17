@@ -9,5 +9,8 @@ themes:
 - 貿易
 - 運輸事業
 tags:
-  tech: []
+  tech:
+  - 倉儲
+  - 物流
   supply: []
+last_enriched: '2026-04-17'

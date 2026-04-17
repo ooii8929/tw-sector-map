@@ -6,5 +6,7 @@ themes:
 - 建材
 - 電梯
 tags:
-  tech: []
+  tech:
+  - 電梯
   supply: []
+last_enriched: '2026-04-17'

@@ -11,5 +11,7 @@ themes:
 - 自行車零件
 - 金屬加工／製品
 tags:
-  tech: []
+  tech:
+  - 自行車
   supply: []
+last_enriched: '2026-04-17'

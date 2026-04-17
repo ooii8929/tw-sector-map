@@ -9,5 +9,8 @@ themes:
 - 金融其他
 - 金融業
 tags:
-  tech: []
+  tech:
+  - 證券
+  - 金控
   supply: []
+last_enriched: '2026-04-17'
