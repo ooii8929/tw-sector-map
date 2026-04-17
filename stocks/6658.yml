@@ -6,5 +6,13 @@ themes:
 - PCB相關設備
 - 設備儀器商
 tags:
-  tech: []
+  tech:
+  - CPO
+  - AI伺服器
+  - 先進封裝
+  - 伺服器
+  - PCB
+  - PLP
+  - 面板
   supply: []
+last_enriched: '2026-04-17'

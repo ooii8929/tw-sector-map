@@ -7,5 +7,12 @@ themes:
 - LED驅動IC
 - 類比IC
 tags:
-  tech: []
+  tech:
+  - Micro LED
+  - 車用電子
+  - IC設計
+  - 面板
+  - LED
+  - Mini LED
   supply: []
+last_enriched: '2026-04-17'

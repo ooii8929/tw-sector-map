@@ -5,5 +5,8 @@ sector: 生技醫療業
 themes:
 - 設備儀器商
 tags:
-  tech: []
-  supply: []
+  tech:
+  - 記憶體
+  supply:
+  - 三星供應鏈
+last_enriched: '2026-04-17'

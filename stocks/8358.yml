@@ -6,5 +6,10 @@ themes:
 - 印刷電路板相關
 - 銅箔
 tags:
-  tech: []
+  tech:
+  - EV
+  - PCB
+  - AI伺服器
+  - 伺服器
   supply: []
+last_enriched: '2026-04-17'

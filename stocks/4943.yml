@@ -8,4 +8,6 @@ themes:
 - 電聲產品
 tags:
   tech: []
-  supply: []
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

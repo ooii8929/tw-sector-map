@@ -13,5 +13,10 @@ themes:
 - 電力
 - 電力設備
 tags:
-  tech: []
+  tech:
+  - 太陽能
+  - 電池
+  - 風電
+  - 儲能
   supply: []
+last_enriched: '2026-04-17'

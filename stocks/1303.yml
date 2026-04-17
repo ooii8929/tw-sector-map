@@ -24,5 +24,10 @@ themes:
 - 銅箔
 - 銅箔基板
 tags:
-  tech: []
+  tech:
+  - AI伺服器
+  - 伺服器
+  - 面板
+  - PA功率放大器
   supply: []
+last_enriched: '2026-04-17'

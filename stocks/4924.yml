@@ -8,5 +8,9 @@ themes:
 - 生物科技
 - 電子零件元件
 tags:
-  tech: []
+  tech:
+  - 散熱
+  - FPC
+  - 電池
   supply: []
+last_enriched: '2026-04-17'

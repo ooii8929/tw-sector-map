@@ -12,5 +12,11 @@ themes:
 - 觸控IC
 - 高速傳輸介面IC
 tags:
-  tech: []
+  tech:
+  - Micro LED
+  - IC設計
+  - 面板
+  - LED
+  - 車用電子
   supply: []
+last_enriched: '2026-04-17'

@@ -6,5 +6,10 @@ themes:
 - 樞紐
 - 電子零件元件
 tags:
-  tech: []
+  tech:
+  - 光通訊
+  - AI伺服器
+  - 伺服器
+  - 散熱
   supply: []
+last_enriched: '2026-04-17'

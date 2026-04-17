@@ -8,5 +8,10 @@ themes:
 - 射頻前端晶片
 - 砷化鎵相關
 tags:
-  tech: []
+  tech:
+  - IC設計
+  - PA功率放大器
+  - 射頻
+  - GaAs
   supply: []
+last_enriched: '2026-04-17'

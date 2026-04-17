@@ -7,5 +7,12 @@ themes:
 - 印刷電路板相關
 - 軟板
 tags:
-  tech: []
-  supply: []
+  tech:
+  - 低軌衛星
+  - 伺服器
+  - PCB
+  - HDI
+  - FPC
+  supply:
+  - Meta供應鏈
+last_enriched: '2026-04-17'

@@ -6,5 +6,9 @@ themes:
 - 消費性電子產品
 - 視訊轉換相關
 tags:
-  tech: []
+  tech:
+  - 光通訊
+  - CPO
+  - 低軌衛星
   supply: []
+last_enriched: '2026-04-17'

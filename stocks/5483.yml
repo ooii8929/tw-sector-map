@@ -8,5 +8,8 @@ themes:
 - 太陽能矽晶圓
 - 矽晶圓
 tags:
-  tech: []
+  tech:
+  - 太陽能
+  - 低軌衛星
   supply: []
+last_enriched: '2026-04-17'

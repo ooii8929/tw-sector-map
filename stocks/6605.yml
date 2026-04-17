@@ -6,5 +6,7 @@ themes:
 - 汽機車零組件
 - 車燈
 tags:
-  tech: []
+  tech:
+  - EV
   supply: []
+last_enriched: '2026-04-17'

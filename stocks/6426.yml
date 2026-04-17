@@ -6,5 +6,13 @@ themes:
 - 光纖零組件
 - 光通訊
 tags:
-  tech: []
+  tech:
+  - 矽光子
+  - 光通訊
+  - CPO
+  - 低軌衛星
+  - 資料中心
+  - 1.6T
+  - 光纖
   supply: []
+last_enriched: '2026-04-17'

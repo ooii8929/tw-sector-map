@@ -8,5 +8,9 @@ themes:
 - 設備儀器商
 - 軟體業
 tags:
-  tech: []
+  tech:
+  - Micro LED
+  - 光通訊
+  - LED
   supply: []
+last_enriched: '2026-04-17'

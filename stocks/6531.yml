@@ -8,5 +8,10 @@ themes:
 - SRAM記憶體IC
 - 設計IP
 tags:
-  tech: []
+  tech:
+  - IC設計
+  - 記憶體
+  - 先進封裝
+  - DRAM
   supply: []
+last_enriched: '2026-04-17'

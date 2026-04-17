@@ -14,5 +14,8 @@ themes:
 - 車用金屬成型
 - 車用鑄件
 tags:
-  tech: []
-  supply: []
+  tech:
+  - 車用電子
+  supply:
+  - Apple供應鏈
+last_enriched: '2026-04-17'

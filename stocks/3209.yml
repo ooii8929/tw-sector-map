@@ -11,5 +11,10 @@ themes:
 - 電子通路
 - 類比IC
 tags:
-  tech: []
+  tech:
+  - AI伺服器
+  - 伺服器
+  - 光通訊
+  - IC設計
   supply: []
+last_enriched: '2026-04-17'

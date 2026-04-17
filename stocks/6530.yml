@@ -6,5 +6,11 @@ themes:
 - 光纖主動元件
 - 光通訊
 tags:
-  tech: []
+  tech:
+  - 光通訊
+  - CPO
+  - 資料中心
+  - 矽光子
+  - 光纖
   supply: []
+last_enriched: '2026-04-17'

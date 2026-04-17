@@ -10,5 +10,8 @@ themes:
 - 電力設備
 - 面板零組件
 tags:
-  tech: []
+  tech:
+  - LED
+  - 面板
   supply: []
+last_enriched: '2026-04-17'

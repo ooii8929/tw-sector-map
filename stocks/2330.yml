@@ -6,5 +6,9 @@ themes:
 - IC製造
 - 晶圓代工
 tags:
-  tech: []
+  tech:
+  - IC設計
+  - 記憶體
+  - 晶圓代工
   supply: []
+last_enriched: '2026-04-17'

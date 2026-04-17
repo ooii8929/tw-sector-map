@@ -10,5 +10,9 @@ themes:
 - 影音IC
 - 記憶卡IC
 tags:
-  tech: []
+  tech:
+  - 車用電子
+  - IC設計
+  - 記憶體
   supply: []
+last_enriched: '2026-04-17'

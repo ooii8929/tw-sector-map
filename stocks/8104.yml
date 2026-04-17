@@ -8,5 +8,13 @@ themes:
 - 電池
 - 面板業
 tags:
-  tech: []
+  tech:
+  - AI伺服器
+  - 伺服器
+  - 面板
+  - 儲能
+  - 電池
+  - OLED
+  - LED
   supply: []
+last_enriched: '2026-04-17'

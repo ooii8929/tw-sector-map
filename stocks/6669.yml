@@ -8,5 +8,11 @@ themes:
 - 伺服器
 - 電腦系統業
 tags:
-  tech: []
-  supply: []
+  tech:
+  - 光通訊
+  - 散熱
+  - AI伺服器
+  - 伺服器
+  supply:
+  - Meta供應鏈
+last_enriched: '2026-04-17'

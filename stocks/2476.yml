@@ -6,5 +6,12 @@ themes:
 - 模具沖壓
 - 電子零件元件
 tags:
-  tech: []
+  tech:
+  - AI伺服器
+  - EV
+  - 伺服器
+  - 儲能
+  - 電池
+  - 車用電子
   supply: []
+last_enriched: '2026-04-17'

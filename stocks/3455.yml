@@ -9,5 +9,12 @@ themes:
 - 設備儀器商
 - 面板設備
 tags:
-  tech: []
+  tech:
+  - CPO
+  - AI伺服器
+  - 先進封裝
+  - 伺服器
+  - PCB
+  - 面板
   supply: []
+last_enriched: '2026-04-17'

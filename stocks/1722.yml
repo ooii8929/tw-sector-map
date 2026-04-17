@@ -10,5 +10,7 @@ themes:
 - 肥料
 - 資產股
 tags:
-  tech: []
+  tech:
+  - 記憶體
   supply: []
+last_enriched: '2026-04-17'

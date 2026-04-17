@@ -9,5 +9,11 @@ themes:
 - 網路通訊IC
 - 衛星導航晶片組
 tags:
-  tech: []
+  tech:
+  - 光通訊
+  - 低軌衛星
+  - IC設計
+  - 光纖
+  - 射頻
   supply: []
+last_enriched: '2026-04-17'

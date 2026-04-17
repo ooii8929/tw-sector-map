@@ -12,5 +12,9 @@ themes:
 - 軟體通路／代理
 - 面板設備
 tags:
-  tech: []
-  supply: []
+  tech:
+  - 先進封裝
+  - 面板
+  supply:
+  - Tesla供應鏈
+last_enriched: '2026-04-17'

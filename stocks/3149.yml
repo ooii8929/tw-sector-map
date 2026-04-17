@@ -10,5 +10,9 @@ themes:
 - 車用玻璃
 - 面板零組件
 tags:
-  tech: []
+  tech:
+  - 面板
+  - CoWoS
+  - 車用電子
   supply: []
+last_enriched: '2026-04-17'

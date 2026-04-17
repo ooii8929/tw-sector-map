@@ -8,5 +8,7 @@ themes:
 - 洗腎器具
 - 醫療耗材
 tags:
-  tech: []
+  tech:
+  - CDMO
   supply: []
+last_enriched: '2026-04-17'

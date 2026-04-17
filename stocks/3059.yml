@@ -17,5 +17,11 @@ themes:
 - 診斷與監測用醫材
 - 車用電子
 tags:
-  tech: []
+  tech:
+  - ADAS
+  - 車用電子
+  - 記憶體
+  - IC設計
+  - 光學鏡頭
   supply: []
+last_enriched: '2026-04-17'

@@ -10,5 +10,10 @@ themes:
 - 生物辨識IC
 - 觸控IC
 tags:
-  tech: []
+  tech:
+  - OLED
+  - IC設計
+  - 面板
+  - LED
   supply: []
+last_enriched: '2026-04-17'

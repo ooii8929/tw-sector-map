@@ -6,5 +6,11 @@ themes:
 - IC基板
 - 封測服務與材料
 tags:
-  tech: []
+  tech:
+  - CoWoS
+  - 先進封裝
+  - PCB
+  - 封測
+  - 面板
   supply: []
+last_enriched: '2026-04-17'

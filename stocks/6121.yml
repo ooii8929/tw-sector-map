@@ -7,5 +7,11 @@ themes:
 - 消費用電池
 - 電池
 tags:
-  tech: []
-  supply: []
+  tech:
+  - EV
+  - 車用電子
+  - 儲能
+  - 電池
+  supply:
+  - Tesla供應鏈
+last_enriched: '2026-04-17'

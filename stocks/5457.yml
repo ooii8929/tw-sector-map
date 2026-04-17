@@ -9,5 +9,8 @@ themes:
 - 電子零件元件
 - 電腦系統業
 tags:
-  tech: []
+  tech:
+  - 低軌衛星
+  - 連接器
   supply: []
+last_enriched: '2026-04-17'

@@ -6,5 +6,7 @@ themes:
 - 封測服務與材料
 - 測試用板卡
 tags:
-  tech: []
+  tech:
+  - 封測
   supply: []
+last_enriched: '2026-04-17'

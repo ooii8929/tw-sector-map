@@ -8,5 +8,10 @@ themes:
 - 流通業
 - 食品飲料相關通路
 tags:
-  tech: []
-  supply: []
+  tech:
+  - EV
+  - 儲能
+  supply:
+  - Apple供應鏈
+  - Meta供應鏈
+last_enriched: '2026-04-17'

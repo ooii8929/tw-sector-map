@@ -9,5 +9,11 @@ themes:
 - 電子零件元件
 - 電感
 tags:
-  tech: []
+  tech:
+  - 車用電子
+  - 被動元件
+  - AI伺服器
+  - 伺服器
+  - 散熱
   supply: []
+last_enriched: '2026-04-17'

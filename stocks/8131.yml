@@ -9,5 +9,13 @@ themes:
 - IC測試
 - 電子零件元件
 tags:
-  tech: []
+  tech:
+  - CoWoS
+  - DDR5
+  - 先進封裝
+  - 伺服器
+  - 封測
+  - 記憶體
+  - DRAM
   supply: []
+last_enriched: '2026-04-17'

@@ -6,5 +6,11 @@ themes:
 - 散熱模組
 - 散熱風扇馬達
 tags:
-  tech: []
-  supply: []
+  tech:
+  - AI伺服器
+  - 伺服器
+  - 散熱
+  - 液冷散熱
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

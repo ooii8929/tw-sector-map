@@ -6,5 +6,12 @@ themes:
 - 電子零件元件
 - 電源供應器
 tags:
-  tech: []
-  supply: []
+  tech:
+  - AI伺服器
+  - EV
+  - 伺服器
+  - 散熱
+  - 電源供應器
+  supply:
+  - Tesla供應鏈
+last_enriched: '2026-04-17'

@@ -10,5 +10,11 @@ themes:
 - 印刷電路板相關
 - 封測服務與材料
 tags:
-  tech: []
+  tech:
+  - IC載板
+  - 低軌衛星
+  - PCB
+  - ABF載板
+  - 封測
   supply: []
+last_enriched: '2026-04-17'

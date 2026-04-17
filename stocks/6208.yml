@@ -8,5 +8,9 @@ themes:
 - 產業機械
 - 設備儀器商
 tags:
-  tech: []
+  tech:
+  - CoWoS
+  - CPO
+  - 先進封裝
   supply: []
+last_enriched: '2026-04-17'

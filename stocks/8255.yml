@@ -7,5 +7,14 @@ themes:
 - 分離式元件
 - 車用電子
 tags:
-  tech: []
-  supply: []
+  tech:
+  - AI伺服器
+  - EV
+  - 車用電子
+  - 伺服器
+  - 800G
+  - 資料中心
+  supply:
+  - NVIDIA供應鏈
+  - Tesla供應鏈
+last_enriched: '2026-04-17'

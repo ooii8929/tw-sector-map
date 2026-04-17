@@ -8,5 +8,7 @@ themes:
 - 航天機械零組件
 - 航天軍工
 tags:
-  tech: []
+  tech:
+  - 低軌衛星
   supply: []
+last_enriched: '2026-04-17'

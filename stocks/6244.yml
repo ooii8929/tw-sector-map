@@ -7,5 +7,10 @@ themes:
 - 太陽能電池
 - 太陽能電池模組
 tags:
-  tech: []
+  tech:
+  - 太陽能
+  - 低軌衛星
+  - 先進封裝
+  - 電池
   supply: []
+last_enriched: '2026-04-17'

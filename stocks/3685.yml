@@ -5,5 +5,9 @@ sector: 電機機械
 themes:
 - 汽機車零組件
 tags:
-  tech: []
+  tech:
+  - 車用電子
+  - PCB
+  - 太陽能
   supply: []
+last_enriched: '2026-04-17'

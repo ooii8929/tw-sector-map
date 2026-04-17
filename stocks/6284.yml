@@ -8,5 +8,11 @@ themes:
 - 網通設備
 - 電子零件元件
 tags:
-  tech: []
+  tech:
+  - 車用電子
+  - 被動元件
+  - 5G
+  - AI伺服器
+  - 伺服器
   supply: []
+last_enriched: '2026-04-17'

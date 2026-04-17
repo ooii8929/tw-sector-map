@@ -8,5 +8,8 @@ themes:
 - 連接線材
 - 電子零件元件
 tags:
-  tech: []
+  tech:
+  - 面板
+  - LED
   supply: []
+last_enriched: '2026-04-17'

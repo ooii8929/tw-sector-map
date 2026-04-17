@@ -8,5 +8,8 @@ themes:
 - 數位看板
 - 顯示器
 tags:
-  tech: []
+  tech:
+  - 面板
+  - LED
   supply: []
+last_enriched: '2026-04-17'

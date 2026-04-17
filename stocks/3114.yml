@@ -9,5 +9,7 @@ themes:
 - 電子通路
 - 電子零件元件
 tags:
-  tech: []
+  tech:
+  - 連接器
   supply: []
+last_enriched: '2026-04-17'

@@ -5,5 +5,7 @@ sector: 其他電子業
 themes:
 - 電子其他
 tags:
-  tech: []
+  tech:
+  - 電池
   supply: []
+last_enriched: '2026-04-17'

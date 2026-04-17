@@ -9,5 +9,9 @@ themes:
 - 正極材料
 - 電池材料相關
 tags:
-  tech: []
-  supply: []
+  tech:
+  - EV
+  - 電池
+  supply:
+  - Tesla供應鏈
+last_enriched: '2026-04-17'

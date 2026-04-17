@@ -9,5 +9,9 @@ themes:
 - 電子零件元件
 - 電線電纜
 tags:
-  tech: []
+  tech:
+  - AI伺服器
+  - 伺服器
+  - 連接器
   supply: []
+last_enriched: '2026-04-17'

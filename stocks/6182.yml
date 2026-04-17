@@ -6,5 +6,7 @@ themes:
 - IC製造
 - 矽晶圓
 tags:
-  tech: []
+  tech:
+  - GaN
   supply: []
+last_enriched: '2026-04-17'

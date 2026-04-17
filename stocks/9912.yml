@@ -6,5 +6,7 @@ themes:
 - LCD顯示器
 - 顯示器
 tags:
-  tech: []
+  tech:
+  - 面板
   supply: []
+last_enriched: '2026-04-17'

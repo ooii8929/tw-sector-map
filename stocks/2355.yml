@@ -6,5 +6,11 @@ themes:
 - 印刷電路板
 - 印刷電路板相關
 tags:
-  tech: []
+  tech:
+  - 低軌衛星
+  - 伺服器
+  - PCB
+  - EV
+  - 車用電子
   supply: []
+last_enriched: '2026-04-17'

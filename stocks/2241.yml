@@ -5,5 +5,9 @@ sector: 汽車工業
 themes:
 - 汽機車零組件
 tags:
-  tech: []
+  tech:
+  - EV
+  - 散熱
+  - 伺服器
   supply: []
+last_enriched: '2026-04-17'

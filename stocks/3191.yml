@@ -6,5 +6,9 @@ themes:
 - 變壓器
 - 電子零件元件
 tags:
-  tech: []
+  tech:
+  - AI伺服器
+  - 伺服器
+  - 資料中心
   supply: []
+last_enriched: '2026-04-17'

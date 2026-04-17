@@ -9,5 +9,8 @@ themes:
 - 車用充電相關
 - 電力設備
 tags:
-  tech: []
+  tech:
+  - 面板
+  - 車用電子
   supply: []
+last_enriched: '2026-04-17'

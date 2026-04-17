@@ -6,5 +6,11 @@ themes:
 - 電力設備
 - 電氣零件與設備
 tags:
-  tech: []
-  supply: []
+  tech:
+  - EV
+  - 儲能
+  - AI伺服器
+  - 伺服器
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

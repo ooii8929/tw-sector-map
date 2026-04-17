@@ -6,5 +6,11 @@ themes:
 - IC設計
 - MCU
 tags:
-  tech: []
+  tech:
+  - AI伺服器
+  - 伺服器
+  - IC設計
+  - EV
+  - 散熱
   supply: []
+last_enriched: '2026-04-17'

@@ -6,5 +6,8 @@ themes:
 - 連接器
 - 電子零件元件
 tags:
-  tech: []
+  tech:
+  - 車用電子
+  - 連接器
   supply: []
+last_enriched: '2026-04-17'

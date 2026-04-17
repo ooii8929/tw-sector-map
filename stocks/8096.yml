@@ -7,5 +7,11 @@ themes:
 - 電子元件代理商
 - 電子通路
 tags:
-  tech: []
-  supply: []
+  tech:
+  - 資料中心
+  - 晶圓代工
+  - 記憶體
+  supply:
+  - NVIDIA供應鏈
+  - 三星供應鏈
+last_enriched: '2026-04-17'

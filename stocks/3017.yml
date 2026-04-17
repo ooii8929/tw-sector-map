@@ -12,5 +12,11 @@ themes:
 - 筆記型電腦用散熱模組
 - 電子零件元件
 tags:
-  tech: []
-  supply: []
+  tech:
+  - AI伺服器
+  - 伺服器
+  - 散熱
+  - 液冷散熱
+  supply:
+  - Meta供應鏈
+last_enriched: '2026-04-17'

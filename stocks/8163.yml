@@ -8,5 +8,10 @@ themes:
 - 週邊產品
 - 鍵盤
 tags:
-  tech: []
+  tech:
+  - EV
+  - 車用電子
+  - 散熱
+  - 被動元件
   supply: []
+last_enriched: '2026-04-17'

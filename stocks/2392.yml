@@ -15,5 +15,16 @@ themes:
 - 電池
 - 電源供應器
 tags:
-  tech: []
-  supply: []
+  tech:
+  - AI伺服器
+  - EV
+  - 伺服器
+  - 儲能
+  - 電池
+  - 車用電子
+  - 連接器
+  - 電源供應器
+  - 鋰電池
+  supply:
+  - Tesla供應鏈
+last_enriched: '2026-04-17'

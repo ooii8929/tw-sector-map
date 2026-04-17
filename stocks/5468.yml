@@ -9,5 +9,10 @@ themes:
 - 網路通訊IC
 - 電池保護IC
 tags:
-  tech: []
+  tech:
+  - 光通訊
+  - IC設計
+  - LED
+  - 電池
   supply: []
+last_enriched: '2026-04-17'

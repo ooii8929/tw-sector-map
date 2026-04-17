@@ -6,5 +6,10 @@ themes:
 - 網路交換器
 - 網通設備
 tags:
-  tech: []
+  tech:
+  - 光通訊
+  - CPO
+  - 800G
+  - 1.6T
   supply: []
+last_enriched: '2026-04-17'

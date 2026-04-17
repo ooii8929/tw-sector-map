@@ -10,5 +10,9 @@ themes:
 - 資產股
 - 車輛整車
 tags:
-  tech: []
-  supply: []
+  tech:
+  - EV
+  - 車用電子
+  supply:
+  - Tesla供應鏈
+last_enriched: '2026-04-17'

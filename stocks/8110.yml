@@ -7,5 +7,14 @@ themes:
 - IC封裝測試
 - IC測試
 tags:
-  tech: []
+  tech:
+  - CoWoS
+  - 封測
+  - DRAM
+  - NAND Flash
+  - 記憶體
+  - AI伺服器
+  - 伺服器
+  - 散熱
   supply: []
+last_enriched: '2026-04-17'

@@ -8,5 +8,7 @@ themes:
 - 機上盒晶片
 - 消費性IC
 tags:
-  tech: []
+  tech:
+  - IC設計
   supply: []
+last_enriched: '2026-04-17'

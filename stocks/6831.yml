@@ -7,5 +7,10 @@ themes:
 - 其他散熱零件
 - 散熱模組
 tags:
-  tech: []
+  tech:
+  - AI伺服器
+  - 伺服器
+  - 散熱
+  - 液冷散熱
   supply: []
+last_enriched: '2026-04-17'

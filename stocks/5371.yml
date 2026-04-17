@@ -8,5 +8,9 @@ themes:
 - 面板零組件
 - 顯示器
 tags:
-  tech: []
+  tech:
+  - OLED
+  - 面板
+  - LED
   supply: []
+last_enriched: '2026-04-17'

@@ -6,5 +6,9 @@ themes:
 - LED
 - LED散熱基板
 tags:
-  tech: []
+  tech:
+  - 車用電子
+  - LED
+  - 散熱
   supply: []
+last_enriched: '2026-04-17'

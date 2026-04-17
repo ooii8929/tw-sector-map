@@ -11,5 +11,8 @@ themes:
 - 金屬建材
 - 電池
 tags:
-  tech: []
+  tech:
+  - EV
+  - 電池
   supply: []
+last_enriched: '2026-04-17'

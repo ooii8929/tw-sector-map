@@ -11,5 +11,8 @@ themes:
 - 記憶卡IC
 - 集線器IC
 tags:
-  tech: []
+  tech:
+  - IC設計
+  - 記憶體
   supply: []
+last_enriched: '2026-04-17'

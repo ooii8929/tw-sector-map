@@ -12,5 +12,7 @@ themes:
 - 電感
 - 電晶體
 tags:
-  tech: []
+  tech:
+  - 被動元件
   supply: []
+last_enriched: '2026-04-17'

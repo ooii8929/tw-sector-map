@@ -10,5 +10,13 @@ themes:
 - 封測服務與材料
 - 金、錫凸塊
 tags:
-  tech: []
+  tech:
+  - CoWoS
+  - OLED
+  - 封測
+  - LED
+  - 矽光子
+  - 記憶體
+  - 面板
   supply: []
+last_enriched: '2026-04-17'

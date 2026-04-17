@@ -8,5 +8,8 @@ themes:
 - 設備儀器商
 - 雷射鑽孔機、鑽頭
 tags:
-  tech: []
+  tech:
+  - PCB
+  - 先進封裝
   supply: []
+last_enriched: '2026-04-17'

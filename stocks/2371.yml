@@ -25,5 +25,8 @@ themes:
 - 電氣開關設備
 - 電線電纜
 tags:
-  tech: []
+  tech:
+  - 資料中心
+  - 車用電子
   supply: []
+last_enriched: '2026-04-17'

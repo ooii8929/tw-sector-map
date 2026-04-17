@@ -7,5 +7,11 @@ themes:
 - 無線網路設備系統(WLAN)
 - 網通設備
 tags:
-  tech: []
+  tech:
+  - CPO
+  - 低軌衛星
+  - ADAS
+  - 資料中心
+  - 1.6T
   supply: []
+last_enriched: '2026-04-17'

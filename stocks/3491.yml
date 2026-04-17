@@ -7,5 +7,9 @@ themes:
 - 網通設備
 - 通訊設備零組件
 tags:
-  tech: []
+  tech:
+  - 光通訊
+  - CPO
+  - 低軌衛星
   supply: []
+last_enriched: '2026-04-17'

@@ -9,5 +9,7 @@ themes:
 - 嵌入式晶片
 - 網路通訊IC
 tags:
-  tech: []
+  tech:
+  - IC設計
   supply: []
+last_enriched: '2026-04-17'

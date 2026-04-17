@@ -8,5 +8,8 @@ themes:
 - 觸控IC
 - 高速傳輸介面IC
 tags:
-  tech: []
-  supply: []
+  tech:
+  - IC設計
+  supply:
+  - Apple供應鏈
+last_enriched: '2026-04-17'

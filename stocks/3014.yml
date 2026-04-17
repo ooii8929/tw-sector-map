@@ -13,5 +13,11 @@ themes:
 - 觸控IC
 - 高速傳輸介面IC
 tags:
-  tech: []
+  tech:
+  - ADAS
+  - IC設計
+  - DRAM
+  - 記憶體
+  - 車用電子
   supply: []
+last_enriched: '2026-04-17'

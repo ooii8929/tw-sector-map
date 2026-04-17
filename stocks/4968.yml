@@ -8,5 +8,10 @@ themes:
 - 射頻前端模組
 - 射頻開關
 tags:
-  tech: []
+  tech:
+  - WiFi
+  - IC設計
+  - 低軌衛星
+  - 射頻
   supply: []
+last_enriched: '2026-04-17'

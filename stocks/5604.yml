@@ -6,5 +6,8 @@ themes:
 - 地產
 - 物業投資發展
 tags:
-  tech: []
-  supply: []
+  tech:
+  - CPO
+  supply:
+  - Apple供應鏈
+last_enriched: '2026-04-17'

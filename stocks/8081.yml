@@ -8,5 +8,10 @@ themes:
 - 電源管理IC
 - 類比IC
 tags:
-  tech: []
+  tech:
+  - IC設計
+  - DDR5
+  - 記憶體
+  - LED
   supply: []
+last_enriched: '2026-04-17'

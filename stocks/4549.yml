@@ -6,5 +6,11 @@ themes:
 - 產業機械
 - 自動化設備
 tags:
-  tech: []
-  supply: []
+  tech:
+  - 伺服器
+  - 液冷散熱
+  - 散熱
+  supply:
+  - Apple供應鏈
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

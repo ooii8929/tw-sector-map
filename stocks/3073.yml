@@ -7,5 +7,10 @@ themes:
 - 電力
 - 風力發電
 tags:
-  tech: []
+  tech:
+  - 光通訊
+  - 記憶體
+  - 風電
+  - 太陽能
   supply: []
+last_enriched: '2026-04-17'

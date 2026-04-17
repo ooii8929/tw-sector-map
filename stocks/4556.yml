@@ -6,5 +6,8 @@ themes:
 - 水資源
 - 水資源設備／耗材
 tags:
-  tech: []
+  tech:
+  - PCB
+  - 晶圓代工
   supply: []
+last_enriched: '2026-04-17'

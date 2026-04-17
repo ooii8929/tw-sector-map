@@ -10,5 +10,11 @@ themes:
 - 封測用設備
 - 設備儀器商
 tags:
-  tech: []
+  tech:
+  - 先進封裝
+  - 面板
+  - 太陽能
+  - 封測
+  - LED
   supply: []
+last_enriched: '2026-04-17'

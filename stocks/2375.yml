@@ -9,5 +9,11 @@ themes:
 - 被動元件
 - 鋁質電解電容
 tags:
-  tech: []
+  tech:
+  - EV
+  - 被動元件
+  - AI伺服器
+  - 伺服器
+  - 散熱
   supply: []
+last_enriched: '2026-04-17'

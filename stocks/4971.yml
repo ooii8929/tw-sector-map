@@ -7,5 +7,12 @@ themes:
 - 光通訊元件磊晶
 - 砷化鎵相關
 tags:
-  tech: []
+  tech:
+  - 光通訊
+  - CPO
+  - ADAS
+  - 低軌衛星
+  - InP
+  - GaAs
   supply: []
+last_enriched: '2026-04-17'

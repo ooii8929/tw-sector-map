@@ -8,5 +8,11 @@ themes:
 - 光纖被動元件
 - 光通訊
 tags:
-  tech: []
+  tech:
+  - 光通訊
+  - LED
+  - 800G
+  - 被動元件
+  - 光纖
   supply: []
+last_enriched: '2026-04-17'

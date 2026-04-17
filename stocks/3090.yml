@@ -10,5 +10,12 @@ themes:
 - 電子通路
 - 電容
 tags:
-  tech: []
-  supply: []
+  tech:
+  - MLCC
+  - EV
+  - 被動元件
+  - AI伺服器
+  - 伺服器
+  supply:
+  - 三星供應鏈
+last_enriched: '2026-04-17'

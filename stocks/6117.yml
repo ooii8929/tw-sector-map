@@ -9,5 +9,9 @@ themes:
 - 電子零件元件
 - 電腦系統業
 tags:
-  tech: []
-  supply: []
+  tech:
+  - AI伺服器
+  - 伺服器
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

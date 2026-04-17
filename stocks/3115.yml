@@ -7,5 +7,10 @@ themes:
 - 鋁
 - 非鐵金屬
 tags:
-  tech: []
+  tech:
+  - 矽光子
+  - AI伺服器
+  - 伺服器
+  - PCB
   supply: []
+last_enriched: '2026-04-17'

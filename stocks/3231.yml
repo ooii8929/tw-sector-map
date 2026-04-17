@@ -9,5 +9,11 @@ themes:
 - 電子製造服務
 - 電腦系統業
 tags:
-  tech: []
-  supply: []
+  tech:
+  - AI伺服器
+  - 伺服器
+  - PCB
+  supply:
+  - NVIDIA供應鏈
+  - Meta供應鏈
+last_enriched: '2026-04-17'

@@ -8,5 +8,9 @@ themes:
 - 電子通路
 - 電池
 tags:
-  tech: []
+  tech:
+  - 車用電子
+  - 電池
+  - 鋰電池
   supply: []
+last_enriched: '2026-04-17'

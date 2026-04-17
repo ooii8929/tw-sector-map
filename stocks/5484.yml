@@ -6,5 +6,9 @@ themes:
 - 安全監控
 - 工業電腦
 tags:
-  tech: []
-  supply: []
+  tech:
+  - 光學鏡頭
+  supply:
+  - NVIDIA供應鏈
+  - 高通供應鏈
+last_enriched: '2026-04-17'

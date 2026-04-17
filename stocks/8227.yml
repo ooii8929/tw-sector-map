@@ -6,5 +6,8 @@ themes:
 - ASIC
 - IC設計
 tags:
-  tech: []
+  tech:
+  - 伺服器
+  - IC設計
   supply: []
+last_enriched: '2026-04-17'

@@ -13,5 +13,10 @@ themes:
 - 電競週邊
 - 電腦系統業
 tags:
-  tech: []
-  supply: []
+  tech:
+  - 散熱
+  - 伺服器
+  supply:
+  - AMD供應鏈
+  - Meta供應鏈
+last_enriched: '2026-04-17'

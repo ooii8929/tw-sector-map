@@ -8,5 +8,11 @@ themes:
 - 面板業
 - 面板零組件
 tags:
-  tech: []
-  supply: []
+  tech:
+  - OLED
+  - 面板
+  - LED
+  - 先進封裝
+  supply:
+  - Apple供應鏈
+last_enriched: '2026-04-17'

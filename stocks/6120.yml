@@ -8,5 +8,9 @@ themes:
 - 面板業
 - 面板零組件
 tags:
-  tech: []
+  tech:
+  - 面板
+  - Micro LED
+  - LED
   supply: []
+last_enriched: '2026-04-17'

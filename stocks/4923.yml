@@ -6,5 +6,11 @@ themes:
 - 分離式元件
 - 電晶體
 tags:
-  tech: []
-  supply: []
+  tech:
+  - HBM
+  - 記憶體
+  - 被動元件
+  - DRAM
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

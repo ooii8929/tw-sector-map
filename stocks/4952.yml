@@ -12,5 +12,8 @@ themes:
 - 車用電子
 - 電子零件元件
 tags:
-  tech: []
+  tech:
+  - IC設計
+  - 車用電子
   supply: []
+last_enriched: '2026-04-17'

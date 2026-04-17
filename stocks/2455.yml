@@ -7,5 +7,14 @@ themes:
 - 光通訊元件磊晶
 - 砷化鎵相關
 tags:
-  tech: []
-  supply: []
+  tech:
+  - 光通訊
+  - CPO
+  - AI伺服器
+  - 伺服器
+  - 矽光子
+  - GaAs
+  supply:
+  - Apple供應鏈
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

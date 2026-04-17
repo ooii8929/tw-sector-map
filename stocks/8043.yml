@@ -9,5 +9,8 @@ themes:
 - 電子通路
 - 電感
 tags:
-  tech: []
+  tech:
+  - 被動元件
+  - MLCC
   supply: []
+last_enriched: '2026-04-17'

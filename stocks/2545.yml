@@ -6,5 +6,8 @@ themes:
 - 地產
 - 營建
 tags:
-  tech: []
-  supply: []
+  tech:
+  - 伺服器
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

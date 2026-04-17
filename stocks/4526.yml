@@ -9,5 +9,8 @@ themes:
 - 車床
 - 雷射鑽孔機、鑽頭
 tags:
-  tech: []
+  tech:
+  - 低軌衛星
+  - PCB
   supply: []
+last_enriched: '2026-04-17'

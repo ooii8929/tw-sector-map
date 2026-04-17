@@ -8,5 +8,8 @@ themes:
 - 類比IC
 - 馬達IC
 tags:
-  tech: []
+  tech:
+  - IC設計
+  - LED
   supply: []
+last_enriched: '2026-04-17'

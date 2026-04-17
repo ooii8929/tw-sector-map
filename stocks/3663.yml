@@ -8,5 +8,8 @@ themes:
 - 其他半導體耗材
 - 回收焚化／掩埋清運
 tags:
-  tech: []
+  tech:
+  - 先進封裝
+  - PLP
   supply: []
+last_enriched: '2026-04-17'

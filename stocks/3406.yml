@@ -8,5 +8,10 @@ themes:
 - 光學元件
 - 光學鏡片／頭
 tags:
-  tech: []
-  supply: []
+  tech:
+  - 光學鏡頭
+  - 矽光子
+  - LED
+  supply:
+  - Apple供應鏈
+last_enriched: '2026-04-17'

@@ -8,5 +8,8 @@ themes:
 - 半導體化學品
 - 研磨液／墊
 tags:
-  tech: []
+  tech:
+  - CoWoS
+  - 先進封裝
   supply: []
+last_enriched: '2026-04-17'

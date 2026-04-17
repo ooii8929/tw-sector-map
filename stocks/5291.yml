@@ -8,5 +8,10 @@ themes:
 - 產業機械
 - 自行車零件
 tags:
-  tech: []
+  tech:
+  - 伺服器
+  - PCB
+  - LED
+  - 低軌衛星
   supply: []
+last_enriched: '2026-04-17'

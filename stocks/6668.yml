@@ -8,5 +8,9 @@ themes:
 - 模具
 - 機械零組件
 tags:
-  tech: []
-  supply: []
+  tech:
+  - 車用電子
+  - 光學鏡頭
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

@@ -6,5 +6,11 @@ themes:
 - 光學元件
 - 光學鏡片／頭
 tags:
-  tech: []
-  supply: []
+  tech:
+  - CPO
+  - 光學鏡頭
+  - 矽光子
+  - 光通訊
+  supply:
+  - Apple供應鏈
+last_enriched: '2026-04-17'

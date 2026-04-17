@@ -6,5 +6,9 @@ themes:
 - 接取設備
 - 網通設備
 tags:
-  tech: []
+  tech:
+  - 光通訊
+  - CPO
+  - 5G
   supply: []
+last_enriched: '2026-04-17'

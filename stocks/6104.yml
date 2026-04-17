@@ -7,5 +7,7 @@ themes:
 - USB IC
 - 集線器IC
 tags:
-  tech: []
+  tech:
+  - IC設計
   supply: []
+last_enriched: '2026-04-17'

@@ -6,5 +6,8 @@ themes:
 - 被動元件
 - 電阻
 tags:
-  tech: []
+  tech:
+  - 車用電子
+  - 被動元件
   supply: []
+last_enriched: '2026-04-17'

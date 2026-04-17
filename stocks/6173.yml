@@ -8,5 +8,9 @@ themes:
 - 被動元件
 - 被動元件上游
 tags:
-  tech: []
+  tech:
+  - 被動元件
+  - MLCC
+  - EV
   supply: []
+last_enriched: '2026-04-17'

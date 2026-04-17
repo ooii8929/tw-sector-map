@@ -6,5 +6,11 @@ themes:
 - 印刷電路板
 - 印刷電路板相關
 tags:
-  tech: []
+  tech:
+  - 矽光子
+  - CPO
+  - 伺服器
+  - PCB
+  - HDI
   supply: []
+last_enriched: '2026-04-17'

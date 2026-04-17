@@ -8,5 +8,10 @@ themes:
 - 封測用設備
 - 設備儀器商
 tags:
-  tech: []
+  tech:
+  - PCB
+  - CoWoS
+  - 先進封裝
+  - 封測
   supply: []
+last_enriched: '2026-04-17'

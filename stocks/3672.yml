@@ -6,5 +6,9 @@ themes:
 - 光纖設備
 - 光通訊
 tags:
-  tech: []
+  tech:
+  - 光通訊
+  - CPO
+  - 光纖
   supply: []
+last_enriched: '2026-04-17'

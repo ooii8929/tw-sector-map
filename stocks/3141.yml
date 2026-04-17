@@ -8,5 +8,10 @@ themes:
 - 觸控IC
 - 馬達IC
 tags:
-  tech: []
+  tech:
+  - OLED
+  - IC設計
+  - 面板
+  - LED
   supply: []
+last_enriched: '2026-04-17'

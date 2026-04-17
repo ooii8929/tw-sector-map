@@ -11,5 +11,15 @@ themes:
 - 分離式元件
 - 電晶體
 tags:
-  tech: []
+  tech:
+  - 光通訊
+  - CPO
+  - LED
+  - Micro LED
+  - 矽光子
+  - 先進封裝
+  - PLP
+  - PCB
+  - 光纖
   supply: []
+last_enriched: '2026-04-17'

@@ -8,5 +8,9 @@ themes:
 - SSD控制IC
 - 記憶卡IC
 tags:
-  tech: []
+  tech:
+  - IC設計
+  - NAND Flash
+  - 記憶體
   supply: []
+last_enriched: '2026-04-17'

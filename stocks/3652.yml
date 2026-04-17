@@ -8,5 +8,7 @@ themes:
 - 條碼掃描器
 - 自動資料收集產品
 tags:
-  tech: []
+  tech:
+  - 射頻
   supply: []
+last_enriched: '2026-04-17'

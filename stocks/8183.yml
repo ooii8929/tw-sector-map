@@ -6,5 +6,9 @@ themes:
 - 電子製造服務
 - 電腦系統業
 tags:
-  tech: []
+  tech:
+  - AI伺服器
+  - 伺服器
+  - PCB
   supply: []
+last_enriched: '2026-04-17'

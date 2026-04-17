@@ -8,5 +8,15 @@ themes:
 - 光通訊
 - 光通訊元件磊晶
 tags:
-  tech: []
-  supply: []
+  tech:
+  - 矽光子
+  - 光通訊
+  - CPO
+  - AI伺服器
+  - 伺服器
+  - 低軌衛星
+  - 800G
+  - 光纖
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

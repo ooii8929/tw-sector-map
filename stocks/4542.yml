@@ -7,5 +7,9 @@ themes:
 - 半導體製程設備
 - 設備儀器商
 tags:
-  tech: []
+  tech:
+  - AI伺服器
+  - 伺服器
+  - PCB
   supply: []
+last_enriched: '2026-04-17'

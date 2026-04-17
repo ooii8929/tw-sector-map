@@ -8,5 +8,10 @@ themes:
 - IC設計
 - 類比IC
 tags:
-  tech: []
+  tech:
+  - IC設計
+  - 記憶體
+  - 低軌衛星
+  - DRAM
   supply: []
+last_enriched: '2026-04-17'

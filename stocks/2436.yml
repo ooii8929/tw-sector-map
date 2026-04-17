@@ -13,5 +13,14 @@ themes:
 - 類比IC
 - 馬達IC
 tags:
-  tech: []
-  supply: []
+  tech:
+  - ADAS
+  - IC設計
+  - 射頻
+  - AI伺服器
+  - 伺服器
+  - 散熱
+  - LED
+  supply:
+  - Apple供應鏈
+last_enriched: '2026-04-17'

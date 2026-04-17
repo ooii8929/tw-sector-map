@@ -10,5 +10,13 @@ themes:
 - 數位相機
 - 晶圓代工
 tags:
-  tech: []
+  tech:
+  - 光通訊
+  - CPO
+  - 車用電子
+  - LED
+  - 矽光子
+  - 先進封裝
+  - 晶圓代工
   supply: []
+last_enriched: '2026-04-17'

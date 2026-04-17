@@ -6,5 +6,11 @@ themes:
 - 半導體製程設備
 - 設備儀器商
 tags:
-  tech: []
-  supply: []
+  tech:
+  - CoWoS
+  - 2nm
+  - 先進封裝
+  - 散熱
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

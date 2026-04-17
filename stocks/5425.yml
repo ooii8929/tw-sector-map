@@ -8,5 +8,8 @@ themes:
 - 印表機
 - 週邊產品
 tags:
-  tech: []
-  supply: []
+  tech:
+  - 車用電子
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

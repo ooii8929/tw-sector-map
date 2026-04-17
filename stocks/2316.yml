@@ -8,5 +8,11 @@ themes:
 - 電子製造服務
 - 電腦系統業
 tags:
-  tech: []
-  supply: []
+  tech:
+  - ABF載板
+  - 伺服器
+  - PCB
+  - 封測
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

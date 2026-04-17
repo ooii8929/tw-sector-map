@@ -9,5 +9,8 @@ themes:
 - 手機面板驅動IC
 - 類比IC
 tags:
-  tech: []
+  tech:
+  - IC設計
+  - 面板
   supply: []
+last_enriched: '2026-04-17'

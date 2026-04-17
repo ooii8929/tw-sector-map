@@ -6,5 +6,10 @@ themes:
 - 偏光板
 - 面板零組件
 tags:
-  tech: []
+  tech:
+  - OLED
+  - 車用電子
+  - 面板
+  - LED
   supply: []
+last_enriched: '2026-04-17'

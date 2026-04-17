@@ -13,5 +13,11 @@ themes:
 - 車用電子
 - 電腦系統業
 tags:
-  tech: []
-  supply: []
+  tech:
+  - AI伺服器
+  - 伺服器
+  - 資料中心
+  - 車用電子
+  supply:
+  - Meta供應鏈
+last_enriched: '2026-04-17'

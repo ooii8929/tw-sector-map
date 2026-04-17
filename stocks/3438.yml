@@ -7,5 +7,7 @@ themes:
 - MCU
 - 電源管理IC
 tags:
-  tech: []
+  tech:
+  - IC設計
   supply: []
+last_enriched: '2026-04-17'

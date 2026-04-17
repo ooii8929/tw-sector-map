@@ -6,5 +6,9 @@ themes:
 - 印刷電路板
 - 印刷電路板相關
 tags:
-  tech: []
+  tech:
+  - ABF載板
+  - 伺服器
+  - PCB
   supply: []
+last_enriched: '2026-04-17'

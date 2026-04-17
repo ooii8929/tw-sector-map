@@ -8,5 +8,8 @@ themes:
 - 太陽能電池模組
 - 電力
 tags:
-  tech: []
+  tech:
+  - 太陽能
+  - 電池
   supply: []
+last_enriched: '2026-04-17'

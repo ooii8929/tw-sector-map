@@ -10,5 +10,12 @@ themes:
 - LED磊晶
 - 控股公司
 tags:
-  tech: []
-  supply: []
+  tech:
+  - 光通訊
+  - CPO
+  - InP
+  - Micro LED
+  - LED
+  supply:
+  - 微軟供應鏈
+last_enriched: '2026-04-17'

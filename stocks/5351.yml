@@ -8,5 +8,13 @@ themes:
 - SRAM記憶體IC
 - 高速傳輸介面IC
 tags:
-  tech: []
-  supply: []
+  tech:
+  - ADAS
+  - IC設計
+  - 記憶體
+  - 低軌衛星
+  - 封測
+  - DRAM
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

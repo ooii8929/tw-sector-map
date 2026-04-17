@@ -7,5 +7,11 @@ themes:
 - IC製造
 - 非揮發性記憶體
 tags:
-  tech: []
-  supply: []
+  tech:
+  - DRAM
+  - NAND Flash
+  - 記憶體
+  - 面板
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

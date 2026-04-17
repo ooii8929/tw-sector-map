@@ -6,5 +6,8 @@ themes:
 - 被動元件
 - 鋁質電解電容
 tags:
-  tech: []
+  tech:
+  - EV
+  - 被動元件
   supply: []
+last_enriched: '2026-04-17'

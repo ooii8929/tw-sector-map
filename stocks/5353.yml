@@ -9,5 +9,13 @@ themes:
 - 設備儀器商
 - 車用電子
 tags:
-  tech: []
+  tech:
+  - 光通訊
+  - CPO
+  - AI伺服器
+  - 伺服器
+  - 光纖
+  - 5G
+  - 車用電子
   supply: []
+last_enriched: '2026-04-17'

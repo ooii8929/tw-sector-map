@@ -6,5 +6,10 @@ themes:
 - 印刷電路板相關
 - 玻纖布
 tags:
-  tech: []
+  tech:
+  - PCB
+  - 低軌衛星
+  - AI伺服器
+  - 伺服器
   supply: []
+last_enriched: '2026-04-17'

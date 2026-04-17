@@ -8,5 +8,10 @@ themes:
 - 石英元件
 - 被動元件
 tags:
-  tech: []
+  tech:
+  - AI伺服器
+  - 伺服器
+  - 被動元件
+  - 石英振盪器
   supply: []
+last_enriched: '2026-04-17'

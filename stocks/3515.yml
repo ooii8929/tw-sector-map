@@ -6,5 +6,10 @@ themes:
 - 主機板
 - 電腦系統業
 tags:
-  tech: []
-  supply: []
+  tech:
+  - AI伺服器
+  - 伺服器
+  - 散熱
+  supply:
+  - AMD供應鏈
+last_enriched: '2026-04-17'

@@ -6,5 +6,9 @@ themes:
 - 電子零件元件
 - 電源供應器
 tags:
-  tech: []
+  tech:
+  - AI伺服器
+  - 伺服器
+  - 電源供應器
   supply: []
+last_enriched: '2026-04-17'

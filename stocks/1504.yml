@@ -18,5 +18,9 @@ themes:
 - 電力設備
 - 電機
 tags:
-  tech: []
+  tech:
+  - EV
+  - 資料中心
+  - 車用電子
   supply: []
+last_enriched: '2026-04-17'

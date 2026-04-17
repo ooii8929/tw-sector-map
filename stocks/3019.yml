@@ -11,5 +11,10 @@ themes:
 - 數位相機
 - 數位相機組裝
 tags:
-  tech: []
-  supply: []
+  tech:
+  - 光學鏡頭
+  - 矽光子
+  - 車用電子
+  supply:
+  - Tesla供應鏈
+last_enriched: '2026-04-17'

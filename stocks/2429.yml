@@ -6,5 +6,12 @@ themes:
 - 玻璃基板加工
 - 面板零組件
 tags:
-  tech: []
+  tech:
+  - ABF載板
+  - AI伺服器
+  - 伺服器
+  - PCB
+  - LED
+  - 面板
   supply: []
+last_enriched: '2026-04-17'

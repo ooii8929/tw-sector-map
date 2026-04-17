@@ -8,5 +8,13 @@ themes:
 - 汽機車零組件
 - 汽車內裝
 tags:
-  tech: []
+  tech:
+  - ADAS
+  - 車用電子
+  - 封測
+  - 記憶體
+  - AI伺服器
+  - 伺服器
+  - 散熱
   supply: []
+last_enriched: '2026-04-17'

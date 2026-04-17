@@ -11,5 +11,12 @@ themes:
 - 電源供應器
 - 電腦系統業
 tags:
-  tech: []
+  tech:
+  - AI伺服器
+  - 車用電子
+  - 伺服器
+  - 被動元件
+  - 電源供應器
+  - 毫米波
   supply: []
+last_enriched: '2026-04-17'

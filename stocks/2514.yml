@@ -8,5 +8,8 @@ themes:
 - 營建
 - 營造工程
 tags:
-  tech: []
-  supply: []
+  tech:
+  - LED
+  supply:
+  - 三星供應鏈
+last_enriched: '2026-04-17'

@@ -6,5 +6,8 @@ themes:
 - 背光模組
 - 面板零組件
 tags:
-  tech: []
+  tech:
+  - 面板
+  - LED
   supply: []
+last_enriched: '2026-04-17'

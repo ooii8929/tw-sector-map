@@ -6,5 +6,12 @@ themes:
 - 印刷電路板相關
 - 軟板基板
 tags:
-  tech: []
+  tech:
+  - ABF載板
+  - AI伺服器
+  - 伺服器
+  - PCB
+  - 光通訊
+  - FPC
   supply: []
+last_enriched: '2026-04-17'

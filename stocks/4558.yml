@@ -9,4 +9,8 @@ themes:
 - 非鐵金屬
 tags:
   tech: []
-  supply: []
+  supply:
+  - Apple供應鏈
+  - Google供應鏈
+  - Meta供應鏈
+last_enriched: '2026-04-17'

@@ -14,5 +14,11 @@ themes:
 - 網路通訊IC
 - 集線器IC
 tags:
-  tech: []
-  supply: []
+  tech:
+  - ADAS
+  - 車用電子
+  - IC設計
+  - 記憶體
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

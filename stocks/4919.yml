@@ -14,5 +14,12 @@ themes:
 - 消費性IC
 - 類比IC
 tags:
-  tech: []
+  tech:
+  - ADAS
+  - 車用電子
+  - IC設計
+  - 記憶體
+  - AI伺服器
+  - 伺服器
   supply: []
+last_enriched: '2026-04-17'

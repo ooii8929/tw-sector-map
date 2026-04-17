@@ -18,5 +18,8 @@ themes:
 - 電氣開關設備
 - 電氣零件與設備
 tags:
-  tech: []
+  tech:
+  - 資料中心
+  - 車用電子
   supply: []
+last_enriched: '2026-04-17'

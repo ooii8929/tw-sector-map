@@ -8,5 +8,9 @@ themes:
 - 網通設備
 - 電信設備
 tags:
-  tech: []
+  tech:
+  - 光通訊
+  - CPO
+  - 光纖
   supply: []
+last_enriched: '2026-04-17'

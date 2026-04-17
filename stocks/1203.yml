@@ -10,5 +10,8 @@ themes:
 - 速食麵
 - 食品加工
 tags:
-  tech: []
-  supply: []
+  tech:
+  - 車用電子
+  supply:
+  - Tesla供應鏈
+last_enriched: '2026-04-17'

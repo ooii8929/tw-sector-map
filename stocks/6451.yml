@@ -7,5 +7,14 @@ themes:
 - IC封裝測試
 - IC測試
 tags:
-  tech: []
-  supply: []
+  tech:
+  - CoWoS
+  - 矽光子
+  - 光通訊
+  - CPO
+  - AI伺服器
+  - 伺服器
+  - 封測
+  supply:
+  - 博通供應鏈
+last_enriched: '2026-04-17'

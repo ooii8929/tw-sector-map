@@ -9,5 +9,8 @@ themes:
 - 工業電腦
 - 電池
 tags:
-  tech: []
+  tech:
+  - 儲能
+  - 電池
   supply: []
+last_enriched: '2026-04-17'

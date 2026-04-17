@@ -17,5 +17,9 @@ themes:
 - 電腦系統業
 - 顯示器
 tags:
-  tech: []
+  tech:
+  - 記憶體
+  - AI伺服器
+  - 伺服器
   supply: []
+last_enriched: '2026-04-17'

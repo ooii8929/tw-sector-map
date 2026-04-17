@@ -6,5 +6,8 @@ themes:
 - IC設計
 - 影音IC
 tags:
-  tech: []
-  supply: []
+  tech:
+  - IC設計
+  supply:
+  - Google供應鏈
+last_enriched: '2026-04-17'

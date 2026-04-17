@@ -5,5 +5,9 @@ sector: 其他電子業
 themes:
 - 設備儀器商
 tags:
-  tech: []
+  tech:
+  - CPO
+  - AI伺服器
+  - 伺服器
   supply: []
+last_enriched: '2026-04-17'

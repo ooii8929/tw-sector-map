@@ -5,5 +5,8 @@ sector: 汽車工業
 themes:
 - 汽車內裝
 tags:
-  tech: []
+  tech:
+  - LED
+  - 車用電子
   supply: []
+last_enriched: '2026-04-17'

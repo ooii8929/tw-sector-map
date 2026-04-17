@@ -8,5 +8,10 @@ themes:
 - 模具沖壓
 - 電子零件元件
 tags:
-  tech: []
+  tech:
+  - Micro LED
+  - 車用電子
+  - LED
+  - 散熱
   supply: []
+last_enriched: '2026-04-17'

@@ -7,5 +7,9 @@ themes:
 - 電子其他
 - 面板零組件
 tags:
-  tech: []
-  supply: []
+  tech:
+  - 光學鏡頭
+  - 面板
+  supply:
+  - Apple供應鏈
+last_enriched: '2026-04-17'

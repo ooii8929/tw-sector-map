@@ -10,5 +10,11 @@ themes:
 - 電子元件代理商
 - 電子通路
 tags:
-  tech: []
+  tech:
+  - MLCC
+  - EV
+  - 被動元件
+  - AI伺服器
+  - 伺服器
   supply: []
+last_enriched: '2026-04-17'

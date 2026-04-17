@@ -7,5 +7,10 @@ themes:
 - IC封裝測試
 - IC測試
 tags:
-  tech: []
+  tech:
+  - CoWoS
+  - 封測
+  - 記憶體
+  - 先進封裝
   supply: []
+last_enriched: '2026-04-17'

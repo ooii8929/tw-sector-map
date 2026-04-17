@@ -18,5 +18,10 @@ themes:
 - 網路通訊IC
 - 衛星導航晶片組
 tags:
-  tech: []
-  supply: []
+  tech:
+  - 矽光子
+  - IC設計
+  supply:
+  - Apple供應鏈
+  - Google供應鏈
+last_enriched: '2026-04-17'

@@ -9,5 +9,16 @@ themes:
 - LED散熱基板
 - 封測服務與材料
 tags:
-  tech: []
+  tech:
+  - CoWoS
+  - 光通訊
+  - AI伺服器
+  - 伺服器
+  - PCB
+  - 封測
+  - 射頻
+  - 800G
+  - 散熱
+  - LED
   supply: []
+last_enriched: '2026-04-17'

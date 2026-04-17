@@ -6,5 +6,10 @@ themes:
 - 網通設備
 - 資安設備
 tags:
-  tech: []
+  tech:
+  - AI伺服器
+  - 伺服器
+  - 散熱
+  - 液冷散熱
   supply: []
+last_enriched: '2026-04-17'

@@ -6,5 +6,11 @@ themes:
 - 封測服務與材料
 - 探針、探針卡
 tags:
-  tech: []
+  tech:
+  - AI伺服器
+  - 伺服器
+  - PCB
+  - 連接器
+  - 封測
   supply: []
+last_enriched: '2026-04-17'

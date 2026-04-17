@@ -7,5 +7,8 @@ themes:
 - 化學工業
 - 合成樹脂
 tags:
-  tech: []
+  tech:
+  - 5G
+  - PCB
   supply: []
+last_enriched: '2026-04-17'

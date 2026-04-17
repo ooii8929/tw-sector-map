@@ -8,5 +8,7 @@ themes:
 - 電氣開關設備
 - 電池
 tags:
-  tech: []
+  tech:
+  - 電池
   supply: []
+last_enriched: '2026-04-17'

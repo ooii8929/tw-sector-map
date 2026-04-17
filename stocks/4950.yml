@@ -7,5 +7,7 @@ themes:
 - 合金鋼
 - 特殊鋼
 tags:
-  tech: []
+  tech:
+  - 面板
   supply: []
+last_enriched: '2026-04-17'

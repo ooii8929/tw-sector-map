@@ -10,5 +10,10 @@ themes:
 - 網通設備
 - 資安設備
 tags:
-  tech: []
+  tech:
+  - CPO
+  - AI伺服器
+  - 伺服器
+  - 光纖
   supply: []
+last_enriched: '2026-04-17'

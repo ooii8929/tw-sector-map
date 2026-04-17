@@ -6,5 +6,8 @@ themes:
 - 光學膜
 - 面板零組件
 tags:
-  tech: []
+  tech:
+  - 面板
+  - 被動元件
   supply: []
+last_enriched: '2026-04-17'

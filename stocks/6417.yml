@@ -6,5 +6,9 @@ themes:
 - RFID相關
 - 網通設備
 tags:
-  tech: []
+  tech:
+  - 車用電子
+  - 被動元件
+  - 射頻
   supply: []
+last_enriched: '2026-04-17'

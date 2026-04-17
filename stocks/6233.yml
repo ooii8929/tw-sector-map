@@ -9,5 +9,8 @@ themes:
 - 其他IC
 - 馬達IC
 tags:
-  tech: []
+  tech:
+  - IC設計
+  - 射頻
   supply: []
+last_enriched: '2026-04-17'

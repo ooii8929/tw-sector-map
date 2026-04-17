@@ -6,5 +6,8 @@ themes:
 - 太陽能
 - 太陽能導電漿
 tags:
-  tech: []
+  tech:
+  - 太陽能
+  - 電池
   supply: []
+last_enriched: '2026-04-17'

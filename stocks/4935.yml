@@ -7,5 +7,7 @@ themes:
 - 電子零件元件
 - 面板零組件
 tags:
-  tech: []
+  tech:
+  - 面板
   supply: []
+last_enriched: '2026-04-17'

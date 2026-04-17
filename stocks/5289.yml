@@ -10,5 +10,10 @@ themes:
 - 週邊產品
 - 電子零件元件
 tags:
-  tech: []
+  tech:
+  - ADAS
+  - 記憶體
+  - 矽光子
+  - DRAM
   supply: []
+last_enriched: '2026-04-17'

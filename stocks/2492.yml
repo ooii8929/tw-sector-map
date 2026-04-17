@@ -8,5 +8,9 @@ themes:
 - 被動元件
 - 電容
 tags:
-  tech: []
+  tech:
+  - MLCC
+  - EV
+  - 被動元件
   supply: []
+last_enriched: '2026-04-17'

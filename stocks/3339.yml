@@ -7,5 +7,10 @@ themes:
 - LED晶粒
 - LED磊晶
 tags:
-  tech: []
+  tech:
+  - 矽光子
+  - 記憶體
+  - LED
+  - 光通訊
   supply: []
+last_enriched: '2026-04-17'

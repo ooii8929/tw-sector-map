@@ -15,5 +15,9 @@ themes:
 - 電機
 - 電氣開關設備
 tags:
-  tech: []
-  supply: []
+  tech:
+  - 資料中心
+  - 電池
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

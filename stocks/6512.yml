@@ -6,5 +6,8 @@ themes:
 - 消費性電子產品
 - 視訊轉換相關
 tags:
-  tech: []
-  supply: []
+  tech:
+  - 資料中心
+  supply:
+  - 微軟供應鏈
+last_enriched: '2026-04-17'

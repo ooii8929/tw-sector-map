@@ -7,5 +7,8 @@ themes:
 - TN／STN LCD
 - 面板業
 tags:
-  tech: []
+  tech:
+  - PCB
+  - 面板
   supply: []
+last_enriched: '2026-04-17'

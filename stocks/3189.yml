@@ -8,5 +8,9 @@ themes:
 - 輔助與彌補用醫材
 - 隱形眼鏡
 tags:
-  tech: []
+  tech:
+  - ABF載板
+  - IC載板
+  - 封測
   supply: []
+last_enriched: '2026-04-17'

@@ -6,5 +6,10 @@ themes:
 - 連接線材
 - 電子零件元件
 tags:
-  tech: []
-  supply: []
+  tech:
+  - AI伺服器
+  - 伺服器
+  supply:
+  - NVIDIA供應鏈
+  - 微軟供應鏈
+last_enriched: '2026-04-17'

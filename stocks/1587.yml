@@ -6,5 +6,12 @@ themes:
 - 汽機車零組件
 - 車用冷卻系統
 tags:
-  tech: []
+  tech:
+  - EV
+  - 散熱
+  - AI伺服器
+  - 車用電子
+  - 伺服器
+  - 液冷散熱
   supply: []
+last_enriched: '2026-04-17'

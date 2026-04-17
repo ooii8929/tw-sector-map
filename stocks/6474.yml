@@ -13,5 +13,7 @@ themes:
 - 電子通路
 - 類比IC
 tags:
-  tech: []
+  tech:
+  - IC設計
   supply: []
+last_enriched: '2026-04-17'

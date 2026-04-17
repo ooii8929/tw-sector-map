@@ -7,5 +7,11 @@ themes:
 - 機車零組件
 - 汽機車零組件
 tags:
-  tech: []
-  supply: []
+  tech:
+  - EV
+  - 車用電子
+  supply:
+  - Apple供應鏈
+  - Tesla供應鏈
+  - Meta供應鏈
+last_enriched: '2026-04-17'

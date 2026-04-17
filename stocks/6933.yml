@@ -8,5 +8,10 @@ themes:
 - 軟體業
 - 電腦系統業
 tags:
-  tech: []
-  supply: []
+  tech:
+  - AI伺服器
+  - 伺服器
+  - 液冷散熱
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

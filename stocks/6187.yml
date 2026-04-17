@@ -6,5 +6,13 @@ themes:
 - 封測用設備
 - 設備儀器商
 tags:
-  tech: []
-  supply: []
+  tech:
+  - CoWoS
+  - 2nm
+  - CPO
+  - 先進封裝
+  - 記憶體
+  - 封測
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

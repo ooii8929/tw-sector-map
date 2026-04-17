@@ -6,5 +6,8 @@ themes:
 - 建材
 - 釉料
 tags:
-  tech: []
+  tech:
+  - EV
+  - PCB
   supply: []
+last_enriched: '2026-04-17'

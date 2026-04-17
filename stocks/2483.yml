@@ -13,5 +13,11 @@ themes:
 - 電機
 - 電氣零件與設備
 tags:
-  tech: []
+  tech:
+  - 先進封裝
+  - 車用電子
+  - 散熱
+  - 封測
+  - 連接器
   supply: []
+last_enriched: '2026-04-17'

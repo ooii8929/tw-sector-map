@@ -8,5 +8,12 @@ themes:
 - 手機零組件
 - 手機面板驅動IC
 tags:
-  tech: []
+  tech:
+  - IC設計
+  - OLED
+  - CPO
+  - 車用電子
+  - LED
+  - 面板
   supply: []
+last_enriched: '2026-04-17'

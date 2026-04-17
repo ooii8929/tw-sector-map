@@ -9,5 +9,8 @@ themes:
 - 自動化設備
 - 電子零件元件
 tags:
-  tech: []
+  tech:
+  - 散熱
+  - 均熱片
   supply: []
+last_enriched: '2026-04-17'

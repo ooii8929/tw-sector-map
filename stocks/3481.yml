@@ -9,5 +9,13 @@ themes:
 - 觸控面板
 - 面板業
 tags:
-  tech: []
-  supply: []
+  tech:
+  - 先進封裝
+  - PLP
+  - 面板
+  - 矽光子
+  - OLED
+  - LED
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

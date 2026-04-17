@@ -9,5 +9,11 @@ themes:
 - 自行車零件
 - 金屬加工／製品
 tags:
-  tech: []
+  tech:
+  - AI伺服器
+  - 伺服器
+  - 散熱
+  - 車用電子
+  - 液冷散熱
   supply: []
+last_enriched: '2026-04-17'

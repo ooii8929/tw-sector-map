@@ -6,5 +6,7 @@ themes:
 - 機殼表面處理
 - 電子零件元件
 tags:
-  tech: []
+  tech:
+  - SiC
   supply: []
+last_enriched: '2026-04-17'

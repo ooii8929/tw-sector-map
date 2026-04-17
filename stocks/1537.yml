@@ -7,5 +7,7 @@ themes:
 - 鉛酸蓄電池
 - 電池
 tags:
-  tech: []
+  tech:
+  - 電池
   supply: []
+last_enriched: '2026-04-17'

@@ -6,5 +6,10 @@ themes:
 - 廠務工程
 - 電子其他
 tags:
-  tech: []
-  supply: []
+  tech:
+  - CoWoS
+  - 2nm
+  - 封測
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

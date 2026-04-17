@@ -6,4 +6,6 @@ themes:
 - 工業電腦
 tags:
   tech: []
-  supply: []
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

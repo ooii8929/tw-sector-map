@@ -11,4 +11,6 @@ themes:
 - 電子支付
 tags:
   tech: []
-  supply: []
+  supply:
+  - Apple供應鏈
+last_enriched: '2026-04-17'

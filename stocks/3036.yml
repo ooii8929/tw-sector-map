@@ -6,5 +6,13 @@ themes:
 - IC零組件通路商
 - 電子通路
 tags:
-  tech: []
+  tech:
+  - AI伺服器
+  - ADAS
+  - 車用電子
+  - 伺服器
+  - 資料中心
+  - 記憶體
+  - 先進封裝
   supply: []
+last_enriched: '2026-04-17'

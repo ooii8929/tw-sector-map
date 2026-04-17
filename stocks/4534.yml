@@ -6,5 +6,8 @@ themes:
 - 傳產其他
 - 金屬加工／製品
 tags:
-  tech: []
+  tech:
+  - 記憶體
+  - 連接器
   supply: []
+last_enriched: '2026-04-17'

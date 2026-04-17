@@ -10,5 +10,9 @@ themes:
 - 網通設備
 - 醫療耗材
 tags:
-  tech: []
+  tech:
+  - 矽光子
+  - 光通訊
+  - CPO
   supply: []
+last_enriched: '2026-04-17'

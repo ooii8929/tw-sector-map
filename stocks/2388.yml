@@ -13,5 +13,9 @@ themes:
 - 顯示器
 - 高速傳輸介面IC
 tags:
-  tech: []
-  supply: []
+  tech:
+  - IC設計
+  - 車用電子
+  supply:
+  - AMD供應鏈
+last_enriched: '2026-04-17'

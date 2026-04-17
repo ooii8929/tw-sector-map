@@ -6,5 +6,8 @@ themes:
 - IC設計
 - 電源管理IC
 tags:
-  tech: []
+  tech:
+  - WiFi
+  - IC設計
   supply: []
+last_enriched: '2026-04-17'

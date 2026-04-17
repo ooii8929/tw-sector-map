@@ -10,5 +10,10 @@ themes:
 - 被動元件
 - 電子零件元件
 tags:
-  tech: []
+  tech:
+  - 車用電子
+  - 被動元件
+  - 低軌衛星
+  - MLCC
   supply: []
+last_enriched: '2026-04-17'

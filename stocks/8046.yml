@@ -8,5 +8,12 @@ themes:
 - 印刷電路板相關
 - 封測服務與材料
 tags:
-  tech: []
+  tech:
+  - ABF載板
+  - IC載板
+  - AI伺服器
+  - 伺服器
+  - 記憶體
+  - 封測
   supply: []
+last_enriched: '2026-04-17'

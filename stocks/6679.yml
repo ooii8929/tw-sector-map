@@ -9,5 +9,8 @@ themes:
 - 感測元件
 - 類比IC
 tags:
-  tech: []
+  tech:
+  - 車用電子
+  - IC設計
   supply: []
+last_enriched: '2026-04-17'

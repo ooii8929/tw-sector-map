@@ -9,5 +9,14 @@ themes:
 - 連接器
 - 電子零件元件
 tags:
-  tech: []
-  supply: []
+  tech:
+  - AI伺服器
+  - EV
+  - 車用電子
+  - 伺服器
+  - 儲能
+  - 電池
+  - 連接器
+  supply:
+  - Tesla供應鏈
+last_enriched: '2026-04-17'

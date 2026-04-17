@@ -8,5 +8,13 @@ themes:
 - 光通訊IC
 - 無線網路IC
 tags:
-  tech: []
+  tech:
+  - CPO
+  - 低軌衛星
+  - AI伺服器
+  - 伺服器
+  - IC設計
+  - 射頻
+  - 光通訊
   supply: []
+last_enriched: '2026-04-17'

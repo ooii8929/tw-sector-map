@@ -6,5 +6,10 @@ themes:
 - LED
 - LED封裝
 tags:
-  tech: []
-  supply: []
+  tech:
+  - EV
+  - 車用電子
+  - LED
+  supply:
+  - Tesla供應鏈
+last_enriched: '2026-04-17'

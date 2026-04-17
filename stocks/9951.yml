@@ -5,5 +5,7 @@ sector: 電機機械
 themes:
 - 汽車內裝
 tags:
-  tech: []
+  tech:
+  - 車用電子
   supply: []
+last_enriched: '2026-04-17'

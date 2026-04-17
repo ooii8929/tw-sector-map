@@ -10,5 +10,9 @@ themes:
 - 消費性電子產品
 - 週邊產品
 tags:
-  tech: []
-  supply: []
+  tech:
+  - 光學鏡頭
+  - CPO
+  supply:
+  - Apple供應鏈
+last_enriched: '2026-04-17'

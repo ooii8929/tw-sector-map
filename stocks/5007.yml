@@ -6,5 +6,11 @@ themes:
 - 線材盤元
 - 螺絲螺帽
 tags:
-  tech: []
+  tech:
+  - HBM
+  - AI伺服器
+  - 伺服器
+  - 晶圓代工
+  - 記憶體
   supply: []
+last_enriched: '2026-04-17'

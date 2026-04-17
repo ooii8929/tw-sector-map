@@ -10,5 +10,7 @@ themes:
 - 產業機械
 - 雷射鑽孔機、鑽頭
 tags:
-  tech: []
+  tech:
+  - 伺服器
   supply: []
+last_enriched: '2026-04-17'

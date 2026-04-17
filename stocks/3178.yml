@@ -10,5 +10,9 @@ themes:
 - 面板設備
 - 飛機零件／製造
 tags:
-  tech: []
+  tech:
+  - CoWoS
+  - 先進封裝
+  - 面板
   supply: []
+last_enriched: '2026-04-17'

@@ -10,5 +10,13 @@ themes:
 - 設備儀器商
 - 面板設備
 tags:
-  tech: []
+  tech:
+  - 面板
+  - LED
+  - 光通訊
+  - AI伺服器
+  - 先進封裝
+  - 伺服器
+  - 記憶體
   supply: []
+last_enriched: '2026-04-17'

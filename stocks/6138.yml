@@ -8,5 +8,10 @@ themes:
 - 電源管理IC
 - 馬達IC
 tags:
-  tech: []
+  tech:
+  - ADAS
+  - 車用電子
+  - IC設計
+  - 記憶體
   supply: []
+last_enriched: '2026-04-17'

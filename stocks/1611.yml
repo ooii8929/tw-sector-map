@@ -8,5 +8,8 @@ themes:
 - 家電
 - 照明
 tags:
-  tech: []
+  tech:
+  - 電池
+  - LED
   supply: []
+last_enriched: '2026-04-17'

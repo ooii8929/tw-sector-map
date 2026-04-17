@@ -13,5 +13,8 @@ themes:
 - 面板業
 - 面板零組件
 tags:
-  tech: []
-  supply: []
+  tech:
+  - 面板
+  supply:
+  - 微軟供應鏈
+last_enriched: '2026-04-17'

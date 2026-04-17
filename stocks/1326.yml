@@ -21,5 +21,9 @@ themes:
 - 芳香烴
 - 酚
 tags:
-  tech: []
+  tech:
+  - 封測
+  - 面板
+  - 電池
   supply: []
+last_enriched: '2026-04-17'

@@ -6,5 +6,9 @@ themes:
 - IC設計
 - LCD驅動IC
 tags:
-  tech: []
+  tech:
+  - 車用電子
+  - 面板
+  - IC設計
   supply: []
+last_enriched: '2026-04-17'

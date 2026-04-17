@@ -9,5 +9,10 @@ themes:
 - 車用電子
 - 通訊設備零組件
 tags:
-  tech: []
-  supply: []
+  tech:
+  - 低軌衛星
+  - 800G
+  - 車用電子
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

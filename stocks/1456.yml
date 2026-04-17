@@ -6,5 +6,9 @@ themes:
 - 地產
 - 營建
 tags:
-  tech: []
-  supply: []
+  tech:
+  - 車用電子
+  supply:
+  - Tesla供應鏈
+  - 三星供應鏈
+last_enriched: '2026-04-17'

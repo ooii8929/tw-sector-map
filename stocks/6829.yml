@@ -9,5 +9,8 @@ themes:
 - 面板設備
 - 飛機零件／製造
 tags:
-  tech: []
+  tech:
+  - CPO
+  - 面板
   supply: []
+last_enriched: '2026-04-17'

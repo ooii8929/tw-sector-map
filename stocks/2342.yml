@@ -6,5 +6,8 @@ themes:
 - IC製造
 - 晶圓代工
 tags:
-  tech: []
+  tech:
+  - 車用電子
+  - 晶圓代工
   supply: []
+last_enriched: '2026-04-17'

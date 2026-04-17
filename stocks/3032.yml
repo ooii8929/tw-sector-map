@@ -10,5 +10,9 @@ themes:
 - 電源供應器
 - 電競週邊
 tags:
-  tech: []
+  tech:
+  - AI伺服器
+  - 伺服器
+  - 電源供應器
   supply: []
+last_enriched: '2026-04-17'

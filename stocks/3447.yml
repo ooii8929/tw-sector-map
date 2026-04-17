@@ -9,5 +9,8 @@ themes:
 - 網通設備
 - 視訊轉換相關
 tags:
-  tech: []
+  tech:
+  - 光通訊
+  - 5G
   supply: []
+last_enriched: '2026-04-17'

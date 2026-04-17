@@ -8,5 +8,9 @@ themes:
 - 螺絲螺帽
 - 飯店
 tags:
-  tech: []
-  supply: []
+  tech:
+  - 儲能
+  supply:
+  - NVIDIA供應鏈
+  - AMD供應鏈
+last_enriched: '2026-04-17'

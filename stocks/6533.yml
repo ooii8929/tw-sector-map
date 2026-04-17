@@ -6,5 +6,9 @@ themes:
 - IC設計
 - 設計IP
 tags:
-  tech: []
-  supply: []
+  tech:
+  - 記憶體
+  - IC設計
+  supply:
+  - Meta供應鏈
+last_enriched: '2026-04-17'

@@ -9,5 +9,7 @@ themes:
 - 通訊服務
 - 電信／數據服務
 tags:
-  tech: []
+  tech:
+  - 5G
   supply: []
+last_enriched: '2026-04-17'

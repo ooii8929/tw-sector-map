@@ -9,5 +9,10 @@ themes:
 - 電子元件代理商
 - 電子通路
 tags:
-  tech: []
+  tech:
+  - AI伺服器
+  - 伺服器
+  - 液冷散熱
+  - 散熱
   supply: []
+last_enriched: '2026-04-17'

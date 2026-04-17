@@ -9,5 +9,8 @@ themes:
 - 電力
 - 類比IC
 tags:
-  tech: []
+  tech:
+  - IC設計
+  - 太陽能
   supply: []
+last_enriched: '2026-04-17'

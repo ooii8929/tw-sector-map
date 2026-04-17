@@ -6,5 +6,8 @@ themes:
 - 電子零件元件
 - 音響設備及零件
 tags:
-  tech: []
-  supply: []
+  tech:
+  - 車用電子
+  supply:
+  - Tesla供應鏈
+last_enriched: '2026-04-17'

@@ -6,5 +6,12 @@ themes:
 - 光纖光纜
 - 光通訊
 tags:
-  tech: []
-  supply: []
+  tech:
+  - 儲能
+  - 矽光子
+  - 光通訊
+  - 低軌衛星
+  - 光纖
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

@@ -7,5 +7,10 @@ themes:
 - IC封裝測試
 - IC測試
 tags:
-  tech: []
-  supply: []
+  tech:
+  - CoWoS
+  - 2nm
+  - 封測
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

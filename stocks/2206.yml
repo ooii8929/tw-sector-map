@@ -11,5 +11,7 @@ themes:
 - 車輛整車
 - 電動機車
 tags:
-  tech: []
+  tech:
+  - EV
   supply: []
+last_enriched: '2026-04-17'

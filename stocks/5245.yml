@@ -6,5 +6,10 @@ themes:
 - OLED
 - 面板業
 tags:
-  tech: []
-  supply: []
+  tech:
+  - 面板
+  - OLED
+  - LED
+  supply:
+  - Apple供應鏈
+last_enriched: '2026-04-17'

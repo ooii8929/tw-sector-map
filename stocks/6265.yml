@@ -9,5 +9,8 @@ themes:
 - 電子通路
 - 非揮發性記憶體
 tags:
-  tech: []
+  tech:
+  - 記憶體
+  - DRAM
   supply: []
+last_enriched: '2026-04-17'

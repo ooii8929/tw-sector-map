@@ -7,5 +7,9 @@ themes:
 - 電力電纜
 - 電線電纜
 tags:
-  tech: []
+  tech:
+  - AI伺服器
+  - 伺服器
+  - 電池
   supply: []
+last_enriched: '2026-04-17'

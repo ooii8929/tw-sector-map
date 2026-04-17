@@ -8,5 +8,9 @@ themes:
 - 太陽能系統運用
 - 電子通路
 tags:
-  tech: []
+  tech:
+  - 資料中心
+  - 太陽能
+  - 電池
   supply: []
+last_enriched: '2026-04-17'
