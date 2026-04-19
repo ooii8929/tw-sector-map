@@ -12,13 +12,15 @@ themes:
 tags:
   tech:
   - IC載板
+  - AI伺服器
   - 伺服器
   - PCB
   - 光通訊
-  - AI伺服器
+  - CPO
   - ABF載板
   - FPC
   - 封測
   supply:
   - Apple供應鏈
-last_enriched: '2026-04-17'
+  - NVIDIA供應鏈
+last_enriched: '2026-04-19'

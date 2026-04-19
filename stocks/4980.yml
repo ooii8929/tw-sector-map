@@ -5,5 +5,11 @@ sector: 電子零組件業
 themes:
 - 電子零組件業
 tags:
-  tech: []
-  supply: []
+  tech:
+  - Micro LED
+  - LED
+  supply:
+  - Apple供應鏈
+  - Google供應鏈
+  - Meta供應鏈
+last_enriched: '2026-04-19'

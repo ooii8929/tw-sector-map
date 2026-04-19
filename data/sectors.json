@@ -17791,7 +17791,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3711",
@@ -17901,7 +17901,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3716",
@@ -19712,7 +19712,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "4543",
@@ -19752,7 +19752,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "4549",
@@ -21234,7 +21234,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "4915",
@@ -21250,11 +21250,12 @@
     "tags": {
       "tech": [
         "電池",
-        "車用電子"
+        "車用電子",
+        "記憶體"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "4916",
@@ -21383,7 +21384,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "4930",
@@ -21532,13 +21533,11 @@
         "AI伺服器",
         "伺服器",
         "PCB",
-        "先進封裝",
-        "FPC",
-        "記憶體"
+        "FPC"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "4942",
@@ -21573,7 +21572,7 @@
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "4946",
@@ -21732,19 +21731,21 @@
     "tags": {
       "tech": [
         "IC載板",
+        "AI伺服器",
         "伺服器",
         "PCB",
         "光通訊",
-        "AI伺服器",
+        "CPO",
         "ABF載板",
         "FPC",
         "封測"
       ],
       "supply": [
-        "Apple供應鏈"
+        "Apple供應鏈",
+        "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "4960",
@@ -22015,9 +22016,17 @@
       "電子零組件業"
     ],
     "tags": {
-      "tech": [],
-      "supply": []
-    }
+      "tech": [
+        "Micro LED",
+        "LED"
+      ],
+      "supply": [
+        "Apple供應鏈",
+        "Google供應鏈",
+        "Meta供應鏈"
+      ]
+    },
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "4987",
@@ -22045,15 +22054,11 @@
     "tags": {
       "tech": [
         "EV",
-        "PCB",
-        "低軌衛星",
-        "AI伺服器",
-        "伺服器",
-        "800G"
+        "PCB"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "4991",
@@ -22553,7 +22558,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "5228",
@@ -22571,7 +22576,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "5230",
@@ -23060,7 +23065,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "5292",
@@ -23202,9 +23207,11 @@
         "電源供應器",
         "鋰電池"
       ],
-      "supply": []
+      "supply": [
+        "NVIDIA供應鏈"
+      ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "5310",
@@ -23336,7 +23343,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "5340",
@@ -23355,7 +23362,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "5344",
@@ -23502,7 +23509,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "5356",
@@ -23585,7 +23592,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "5386",
@@ -23828,7 +23835,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "5443",
@@ -23927,7 +23934,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "5460",
@@ -23944,7 +23951,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "5464",
@@ -23964,7 +23971,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "5465",
@@ -24029,7 +24036,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "5471",
@@ -24085,7 +24092,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "5478",
