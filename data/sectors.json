@@ -14700,7 +14700,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3339",
@@ -14785,7 +14785,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3356",
@@ -14826,7 +14826,7 @@
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3360",
@@ -14969,7 +14969,7 @@
         "Apple供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3379",
@@ -15050,7 +15050,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3402",
@@ -15207,7 +15207,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3434",
@@ -15526,11 +15526,12 @@
     ],
     "tags": {
       "tech": [
-        "車用電子"
+        "車用電子",
+        "儲能"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3485",
@@ -15624,7 +15625,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3494",
@@ -15704,7 +15705,7 @@
         "Tesla供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3504",
@@ -15768,7 +15769,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3512",
@@ -15864,7 +15865,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3521",
@@ -15939,7 +15940,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3527",
@@ -16077,7 +16078,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3535",
@@ -16117,7 +16118,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3540",
@@ -16234,7 +16235,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3550",
@@ -16253,7 +16254,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3551",
@@ -16565,9 +16566,15 @@
       "電子零組件業"
     ],
     "tags": {
-      "tech": [],
-      "supply": []
-    }
+      "tech": [
+        "PLP"
+      ],
+      "supply": [
+        "NVIDIA供應鏈",
+        "AMD供應鏈"
+      ]
+    },
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3587",
@@ -16665,7 +16672,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3594",
@@ -16769,11 +16776,12 @@
       "tech": [
         "連接器",
         "光通訊",
-        "資料中心"
+        "資料中心",
+        "光纖"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3607",
@@ -16792,7 +16800,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3609",
@@ -16811,7 +16819,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3611",
@@ -16938,7 +16946,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3625",
@@ -17030,7 +17038,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3632",
@@ -17082,7 +17090,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3646",
@@ -17101,7 +17109,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3652",
@@ -17139,13 +17147,12 @@
         "伺服器",
         "散熱",
         "均熱片",
-        "被動元件",
         "GPU",
         "封測"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3661",
@@ -17476,13 +17483,12 @@
       "tech": [
         "光通訊",
         "CPO",
-        "伺服器",
         "1.6T",
         "連接器"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3691",
