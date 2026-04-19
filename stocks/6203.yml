@@ -11,5 +11,7 @@ tags:
   - EV
   - 伺服器
   - 電源供應器
-  supply: []
-last_enriched: '2026-04-17'
+  - DRAM
+  supply:
+  - 三星供應鏈
+last_enriched: '2026-04-19'
