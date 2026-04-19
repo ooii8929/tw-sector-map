@@ -6312,7 +6312,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "2329",
@@ -6724,7 +6724,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "2356",
@@ -6924,11 +6924,11 @@
         "PCB",
         "AI伺服器",
         "車用電子",
-        "HDI"
+        "資料中心"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "2368",
@@ -6947,7 +6947,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "2369",
@@ -7063,12 +7063,13 @@
         "EV",
         "被動元件",
         "AI伺服器",
+        "車用電子",
         "伺服器",
         "散熱"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "2376",
@@ -7214,7 +7215,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "2385",
@@ -7234,7 +7235,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "2387",
@@ -7334,7 +7335,7 @@
         "Tesla供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "2393",
@@ -7452,12 +7453,11 @@
         "車用電子",
         "伺服器",
         "PCB",
-        "封測",
         "FPC"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "2404",
@@ -7609,7 +7609,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "2414",
@@ -7709,7 +7709,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "2421",
@@ -7727,11 +7727,9 @@
         "散熱",
         "液冷散熱"
       ],
-      "supply": [
-        "NVIDIA供應鏈"
-      ]
+      "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "2423",
@@ -7858,7 +7856,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "2429",
@@ -7920,7 +7918,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "2432",
@@ -8292,7 +8290,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "2458",
@@ -8352,7 +8350,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "2461",
@@ -8390,7 +8388,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "2464",
@@ -8480,7 +8478,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "2468",
@@ -8535,11 +8533,12 @@
       "tech": [
         "EV",
         "被動元件",
-        "車用電子"
+        "車用電子",
+        "記憶體"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "2474",
@@ -8582,7 +8581,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "2477",
@@ -8620,7 +8619,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "2480",
@@ -8705,7 +8704,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "2484",
@@ -8728,7 +8727,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "2485",
@@ -8843,11 +8842,16 @@
       "tech": [
         "MLCC",
         "EV",
-        "被動元件"
+        "被動元件",
+        "AI伺服器",
+        "車用電子",
+        "伺服器",
+        "PCB",
+        "記憶體"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "2493",
@@ -8871,7 +8875,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "2495",
@@ -11565,7 +11569,7 @@
         "Tesla供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3004",
@@ -11685,7 +11689,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3013",
@@ -11757,7 +11761,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3016",
