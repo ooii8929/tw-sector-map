@@ -1,0 +1,13 @@
+code: '6235'
+name: 華孚
+market: TWSE
+sector: 電腦及週邊設備業
+themes:
+- 汽機車零組件
+tags:
+  tech:
+  - AI伺服器
+  - 車用電子
+  - 伺服器
+  supply: []
+last_enriched: '2026-04-17'

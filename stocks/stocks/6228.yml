@@ -1,0 +1,14 @@
+code: '6228'
+name: 全譜
+market: TPEX
+sector: 電腦及週邊設備業
+themes:
+- IVD檢驗儀器設備
+- 掃瞄器
+- 週邊產品
+- 體外診斷用醫材
+tags:
+  tech:
+  - 醫材
+  supply: []
+last_enriched: '2026-04-17'

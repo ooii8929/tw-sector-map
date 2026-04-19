@@ -1,0 +1,17 @@
+code: '6138'
+name: 茂達
+market: TPEX
+sector: 半導體業
+themes:
+- IC設計
+- 影音IC
+- 電源管理IC
+- 馬達IC
+tags:
+  tech:
+  - ADAS
+  - 車用電子
+  - IC設計
+  - 記憶體
+  supply: []
+last_enriched: '2026-04-17'

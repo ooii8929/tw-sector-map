@@ -1,0 +1,14 @@
+code: '4562'
+name: 穎漢
+market: TWSE
+sector: 電機機械
+themes:
+- 工具機
+- 機器人
+- 機器手臂
+tags:
+  tech:
+  - 工具機
+  - 機器人
+  supply: []
+last_enriched: '2026-04-17'

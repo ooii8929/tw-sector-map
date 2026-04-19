@@ -1,0 +1,16 @@
+code: '4545'
+name: 銘鈺
+market: TWSE
+sector: 電子零組件業
+themes:
+- 其他電子零件
+- 模具沖壓
+- 產業機械
+- 自動化設備
+- 電子零件元件
+tags:
+  tech:
+  - 散熱
+  - 均熱片
+  supply: []
+last_enriched: '2026-04-17'

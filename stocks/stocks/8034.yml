@@ -1,0 +1,14 @@
+code: '8034'
+name: 榮群
+market: TPEX
+sector: 通信網路業
+themes:
+- 接取設備
+- 網通設備
+tags:
+  tech:
+  - 光通訊
+  - CPO
+  - 5G
+  supply: []
+last_enriched: '2026-04-17'

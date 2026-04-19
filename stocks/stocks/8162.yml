@@ -1,0 +1,15 @@
+code: '8162'
+name: 微矽電子-創
+market: TWSE
+sector: 半導體業
+themes:
+- IC封裝測試
+- IC測試
+tags:
+  tech:
+  - CoWoS
+  - 先進封裝
+  - 封測
+  - GaN
+  supply: []
+last_enriched: '2026-04-17'

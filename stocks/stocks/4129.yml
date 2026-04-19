@@ -1,0 +1,13 @@
+code: '4129'
+name: 聯合
+market: TPEX
+sector: 生技醫療業
+themes:
+- 人造關節
+- 輔助與彌補用醫材
+- 骨科類器材
+tags:
+  tech:
+  - 醫材
+  supply: []
+last_enriched: '2026-04-17'

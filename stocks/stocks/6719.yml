@@ -1,0 +1,14 @@
+code: '6719'
+name: 力智
+market: TWSE
+sector: 半導體業
+themes:
+- IC設計
+- 分離式元件
+- 電晶體
+- 電源管理IC
+tags:
+  tech:
+  - IC設計
+  supply: []
+last_enriched: '2026-04-17'

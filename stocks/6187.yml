@@ -7,12 +7,10 @@ themes:
 - 設備儀器商
 tags:
   tech:
-  - CoWoS
-  - 2nm
   - CPO
   - 先進封裝
-  - 記憶體
+  - IC設計
+  - CoWoS
   - 封測
-  supply:
-  - NVIDIA供應鏈
-last_enriched: '2026-04-17'
+  supply: []
+last_enriched: '2026-04-19'

@@ -1,0 +1,14 @@
+code: '5009'
+name: 榮剛
+market: TPEX
+sector: 鋼鐵工業
+themes:
+- 不鏽鋼
+- 合金鋼
+- 工具鋼
+- 特殊鋼
+tags:
+  tech:
+  - 不鏽鋼
+  supply: []
+last_enriched: '2026-04-17'

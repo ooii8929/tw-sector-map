@@ -1,0 +1,14 @@
+code: '6438'
+name: 迅得
+market: TWSE
+sector: 其他電子業
+themes:
+- PCB相關設備
+- 半導體製程設備
+- 設備儀器商
+tags:
+  tech:
+  - 先進封裝
+  - PCB
+  supply: []
+last_enriched: '2026-04-17'

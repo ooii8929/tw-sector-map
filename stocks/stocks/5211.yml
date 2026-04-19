@@ -1,0 +1,15 @@
+code: '5211'
+name: 蒙恬
+market: TPEX
+sector: 資訊服務業
+themes:
+- 手寫板
+- 掃瞄器
+- 虛擬實境
+- 軟體業
+- 週邊產品
+tags:
+  tech:
+  - PCB
+  supply: []
+last_enriched: '2026-04-17'

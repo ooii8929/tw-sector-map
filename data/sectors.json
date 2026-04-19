@@ -1114,7 +1114,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "1337",
@@ -2054,7 +2054,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "1472",
@@ -2915,7 +2915,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "1583",
@@ -3080,7 +3080,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "1597",
@@ -4338,14 +4338,13 @@
     ],
     "tags": {
       "tech": [
-        "PCB",
-        "低軌衛星",
-        "AI伺服器",
-        "伺服器"
+        "CoWoS",
+        "先進封裝",
+        "PCB"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "1817",
@@ -4981,7 +4980,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "2061",
@@ -5930,7 +5929,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "2303",
@@ -5943,14 +5942,16 @@
     ],
     "tags": {
       "tech": [
+        "CoWoS",
         "矽光子",
+        "先進封裝",
         "光通訊",
         "記憶體",
         "晶圓代工"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "2305",
@@ -6013,7 +6014,6 @@
       "tech": [
         "先進封裝",
         "記憶體",
-        "CPO",
         "車用電子",
         "散熱",
         "被動元件",
@@ -6025,7 +6025,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "2312",
@@ -6087,7 +6087,7 @@
         "Meta供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "2314",
@@ -6136,7 +6136,7 @@
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "2317",
@@ -6290,7 +6290,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "2328",
@@ -6339,7 +6339,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "2330",
@@ -6352,13 +6352,15 @@
     ],
     "tags": {
       "tech": [
+        "CoWoS",
+        "先進封裝",
         "IC設計",
-        "記憶體",
+        "矽光子",
         "晶圓代工"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "2331",
@@ -6420,12 +6422,13 @@
         "DRAM",
         "NAND Flash",
         "記憶體",
+        "矽光子",
         "低軌衛星",
-        "被動元件"
+        "面板"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "2338",
@@ -6444,7 +6447,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "2340",
@@ -6467,14 +6470,14 @@
         "車用電子",
         "LED",
         "矽光子",
-        "InP",
-        "1.6T"
+        "CPO",
+        "InP"
       ],
       "supply": [
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "2342",
@@ -6492,7 +6495,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "2344",
@@ -6508,14 +6511,11 @@
       "tech": [
         "DRAM",
         "NAND Flash",
-        "記憶體",
-        "面板"
+        "記憶體"
       ],
-      "supply": [
-        "NVIDIA供應鏈"
-      ]
+      "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "2345",
@@ -6617,7 +6617,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "2352",
@@ -6867,7 +6867,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "2364",
@@ -6964,11 +6964,12 @@
         "CoWoS",
         "封測",
         "記憶體",
-        "先進封裝"
+        "先進封裝",
+        "車用電子"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "2371",
@@ -7153,7 +7154,7 @@
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "2380",
@@ -7277,7 +7278,7 @@
         "AMD供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "2390",
@@ -7432,7 +7433,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "2402",
@@ -7529,11 +7530,12 @@
       "tech": [
         "DRAM",
         "NAND Flash",
-        "記憶體"
+        "記憶體",
+        "CPO"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "2409",
@@ -7973,7 +7975,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "2436",
@@ -8005,7 +8007,7 @@
         "Apple供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "2438",
@@ -8084,7 +8086,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "2442",
@@ -8147,7 +8149,7 @@
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "2450",
@@ -8183,12 +8185,11 @@
         "DRAM",
         "NAND Flash",
         "記憶體",
-        "DDR5",
-        "DDR4"
+        "DDR5"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "2453",
@@ -8232,15 +8233,19 @@
     ],
     "tags": {
       "tech": [
+        "CoWoS",
         "矽光子",
-        "IC設計"
+        "先進封裝",
+        "IC設計",
+        "記憶體"
       ],
       "supply": [
         "Apple供應鏈",
+        "博通供應鏈",
         "Google供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "2455",
@@ -8309,7 +8314,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "2459",
@@ -8651,12 +8656,11 @@
     ],
     "tags": {
       "tech": [
-        "車用電子",
         "記憶體"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "2482",
@@ -11623,7 +11627,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "3008",
@@ -11730,7 +11734,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "3015",
@@ -12148,7 +12152,7 @@
         "Apple供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "3035",
@@ -12168,7 +12172,7 @@
         "Intel供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "3036",
@@ -12272,7 +12276,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "3042",
@@ -12960,7 +12964,7 @@
         "Apple供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "3095",
@@ -12996,16 +13000,12 @@
         "低軌衛星",
         "PA功率放大器",
         "GaAs",
-        "TPU",
         "800G",
         "1.6T"
       ],
-      "supply": [
-        "Google供應鏈",
-        "Lumentum供應鏈"
-      ]
+      "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "3114",
@@ -13100,7 +13100,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "3128",
@@ -13180,7 +13180,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "3138",
@@ -13225,7 +13225,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "3147",
@@ -13282,13 +13282,12 @@
     ],
     "tags": {
       "tech": [
-        "NAND Flash",
         "記憶體",
         "IC設計"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "3152",
@@ -13445,7 +13444,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "3171",
@@ -13509,7 +13508,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "3188",
@@ -13543,11 +13542,12 @@
       "tech": [
         "ABF載板",
         "IC載板",
+        "IC設計",
         "封測"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "3191",
@@ -13827,11 +13827,9 @@
         "記憶體",
         "低軌衛星"
       ],
-      "supply": [
-        "Apple供應鏈"
-      ]
+      "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "3228",
@@ -13851,7 +13849,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "3229",
@@ -14027,7 +14025,7 @@
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "3259",
@@ -14050,7 +14048,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "3260",
@@ -14074,7 +14072,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "3264",
@@ -14090,12 +14088,13 @@
         "CoWoS",
         "ADAS",
         "車用電子",
+        "IC設計",
         "封測",
         "記憶體"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "3265",
@@ -14120,7 +14119,7 @@
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "3266",
@@ -14155,7 +14154,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "3272",
@@ -14555,7 +14554,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "3321",
@@ -14903,7 +14902,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "3373",
@@ -14941,13 +14940,14 @@
         "CoWoS",
         "CPO",
         "先進封裝",
+        "IC設計",
         "封測",
         "AI伺服器",
         "伺服器"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "3376",
@@ -15110,7 +15110,7 @@
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "3416",
@@ -15259,7 +15259,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "3441",
@@ -15293,14 +15293,13 @@
     "tags": {
       "tech": [
         "HBM",
-        "車用電子",
         "IC設計"
       ],
       "supply": [
         "Tesla供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "3444",
@@ -15365,7 +15364,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "3455",
@@ -15444,7 +15443,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "3479",
@@ -15959,7 +15958,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "3528",
@@ -15997,11 +15996,10 @@
         "記憶體"
       ],
       "supply": [
-        "Apple供應鏈",
-        "NVIDIA供應鏈"
+        "Apple供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "3530",
@@ -16019,7 +16017,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "3531",
@@ -16054,7 +16052,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "3533",
@@ -16194,7 +16192,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-18"
   },
   {
     "code": "3546",
@@ -16313,7 +16311,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3556",
@@ -16333,7 +16331,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3557",
@@ -16435,7 +16433,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3570",
@@ -16528,12 +16526,11 @@
         "CoWoS",
         "先進封裝",
         "封測",
-        "記憶體",
-        "被動元件"
+        "記憶體"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3583",
@@ -16548,11 +16545,12 @@
     ],
     "tags": {
       "tech": [
-        "先進封裝"
+        "先進封裝",
+        "CPO"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3585",
@@ -16602,7 +16600,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3591",
@@ -16638,14 +16636,13 @@
       "tech": [
         "IC設計",
         "OLED",
-        "CPO",
         "車用電子",
         "LED",
         "面板"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3593",
@@ -17162,7 +17159,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3663",
@@ -17327,7 +17324,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3678",
@@ -17379,7 +17376,7 @@
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3684",
@@ -17439,7 +17436,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3687",
@@ -17715,7 +17712,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3708",
@@ -17800,13 +17797,16 @@
     ],
     "tags": {
       "tech": [
+        "CoWoS",
         "先進封裝",
         "PLP",
         "封測"
       ],
-      "supply": []
+      "supply": [
+        "Tesla供應鏈"
+      ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "3712",
@@ -20758,12 +20758,14 @@
     ],
     "tags": {
       "tech": [
+        "OLED",
         "面板",
+        "LED",
         "先進封裝"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "4754",
@@ -21282,16 +21284,15 @@
     ],
     "tags": {
       "tech": [
-        "ADAS",
-        "車用電子",
         "IC設計",
-        "記憶體",
         "AI伺服器",
-        "伺服器"
+        "伺服器",
+        "封測",
+        "記憶體"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "4923",
@@ -21307,13 +21308,16 @@
         "HBM",
         "記憶體",
         "被動元件",
-        "DRAM"
+        "EV",
+        "晶圓代工"
       ],
       "supply": [
-        "NVIDIA供應鏈"
+        "NVIDIA供應鏈",
+        "AMD供應鏈",
+        "三星供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "4924",
@@ -21350,7 +21354,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "4927",
@@ -21636,7 +21640,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "4952",
@@ -21660,7 +21664,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "4953",
@@ -21773,7 +21777,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "4966",
@@ -21800,7 +21804,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "4967",
@@ -21818,12 +21822,11 @@
         "DRAM",
         "NAND Flash",
         "記憶體",
-        "散熱",
         "GaAs"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "4968",
@@ -21845,7 +21848,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "4971",
@@ -21862,13 +21865,13 @@
         "光通訊",
         "CPO",
         "ADAS",
-        "低軌衛星",
         "InP",
+        "資料中心",
         "GaAs"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "4972",
@@ -21909,7 +21912,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "4974",
@@ -22058,11 +22061,12 @@
         "光通訊",
         "CPO",
         "800G",
+        "面板",
         "GaAs"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "4994",
@@ -22487,7 +22491,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "5223",
@@ -22618,7 +22622,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "5243",
@@ -22699,7 +22703,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "5248",
@@ -22767,7 +22771,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "5263",
@@ -22811,12 +22815,11 @@
     ],
     "tags": {
       "tech": [
-        "IC設計",
-        "記憶體"
+        "IC設計"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "5271",
@@ -22846,7 +22849,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "5274",
@@ -22866,7 +22869,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "5276",
@@ -22963,7 +22966,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "5287",
@@ -23077,9 +23080,12 @@
       "半導體業"
     ],
     "tags": {
-      "tech": [],
+      "tech": [
+        "CoWoS"
+      ],
       "supply": []
-    }
+    },
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "5299",
@@ -23099,7 +23105,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "5301",
@@ -23140,7 +23146,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "5306",
@@ -23359,7 +23365,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "5345",
@@ -23393,11 +23399,12 @@
       "tech": [
         "AI伺服器",
         "伺服器",
+        "IC設計",
         "晶圓代工"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "5348",
@@ -23434,15 +23441,12 @@
         "ADAS",
         "IC設計",
         "記憶體",
-        "低軌衛星",
         "封測",
         "DRAM"
       ],
-      "supply": [
-        "NVIDIA供應鏈"
-      ]
+      "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "5353",
@@ -23712,7 +23716,7 @@
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "5426",
@@ -23836,7 +23840,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "5450",
@@ -23993,7 +23997,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "5469",
@@ -24035,7 +24039,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "5474",
@@ -24133,7 +24137,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "5484",
@@ -24172,7 +24176,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "5488",
@@ -25299,7 +25303,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6104",
@@ -25317,7 +25321,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6108",
@@ -25714,7 +25718,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6130",
@@ -25815,7 +25819,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6139",
@@ -25971,13 +25975,14 @@
         "OLED",
         "封測",
         "LED",
-        "矽光子",
         "記憶體",
         "面板"
       ],
-      "supply": []
+      "supply": [
+        "Apple供應鏈"
+      ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6148",
@@ -26498,7 +26503,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6183",
@@ -26582,18 +26587,15 @@
     ],
     "tags": {
       "tech": [
-        "CoWoS",
-        "2nm",
         "CPO",
         "先進封裝",
-        "記憶體",
+        "IC設計",
+        "CoWoS",
         "封測"
       ],
-      "supply": [
-        "NVIDIA供應鏈"
-      ]
+      "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6188",
@@ -26850,16 +26852,14 @@
     "tags": {
       "tech": [
         "ADAS",
-        "車用電子",
         "IC設計",
-        "記憶體",
         "射頻"
       ],
       "supply": [
         "Apple供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6203",
@@ -26978,7 +26978,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6209",
@@ -27262,7 +27262,7 @@
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6224",
@@ -27374,7 +27374,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6230",
@@ -27438,7 +27438,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6234",
@@ -27512,7 +27512,7 @@
         "Google供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6239",
@@ -27534,9 +27534,11 @@
         "記憶體",
         "CPO"
       ],
-      "supply": []
+      "supply": [
+        "Tesla供應鏈"
+      ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6240",
@@ -27616,7 +27618,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6244",
@@ -27715,7 +27717,7 @@
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6259",
@@ -27762,7 +27764,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6263",
@@ -27909,12 +27911,13 @@
         "封測",
         "射頻",
         "800G",
+        "GaN",
         "散熱",
         "LED"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6272",
@@ -28227,7 +28230,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6292",
@@ -28332,7 +28335,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6412",
@@ -28386,13 +28389,14 @@
     "tags": {
       "tech": [
         "車用電子",
-        "資料中心",
         "IC設計",
+        "EV",
+        "資料中心",
         "LED"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6416",
@@ -28487,7 +28491,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6425",
@@ -28607,7 +28611,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6438",
@@ -28766,7 +28770,7 @@
         "博通供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6456",
@@ -28825,7 +28829,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6464",
@@ -29044,7 +29048,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6486",
@@ -29145,7 +29149,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6496",
@@ -29314,7 +29318,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6512",
@@ -29352,7 +29356,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6516",
@@ -29425,7 +29429,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6526",
@@ -29449,7 +29453,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6527",
@@ -29509,7 +29513,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6532",
@@ -29524,14 +29528,13 @@
       "tech": [
         "CoWoS",
         "2nm",
-        "先進封裝",
-        "散熱"
+        "先進封裝"
       ],
       "supply": [
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6533",
@@ -29551,7 +29554,7 @@
         "Meta供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6534",
@@ -29702,8 +29705,6 @@
     ],
     "tags": {
       "tech": [
-        "先進封裝",
-        "車用電子",
         "散熱",
         "封測",
         "AI伺服器",
@@ -29712,7 +29713,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6549",
@@ -29765,7 +29766,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6555",
@@ -29934,7 +29935,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6569",
@@ -29998,13 +29999,11 @@
     "tags": {
       "tech": [
         "記憶體",
-        "車用電子",
-        "DRAM",
-        "NAND Flash"
+        "車用電子"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6574",
@@ -30697,7 +30696,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6641",
@@ -30753,7 +30752,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6645",
@@ -30822,7 +30821,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6652",
@@ -31204,7 +31203,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6680",
@@ -31251,7 +31250,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6684",
@@ -31270,7 +31269,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6689",
@@ -31363,7 +31362,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6695",
@@ -31382,7 +31381,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6696",
@@ -31530,7 +31529,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6709",
@@ -31606,7 +31605,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6719",
@@ -31621,11 +31620,13 @@
     ],
     "tags": {
       "tech": [
-        "IC設計"
+        "IC設計",
+        "晶圓代工",
+        "封測"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6720",
@@ -31645,7 +31646,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6721",
@@ -31806,7 +31807,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6733",
@@ -32055,7 +32056,7 @@
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6757",
@@ -32179,9 +32180,7 @@
     "tags": {
       "tech": [
         "記憶體",
-        "HBM",
         "晶圓代工",
-        "DRAM",
         "被動元件"
       ],
       "supply": [
@@ -32190,7 +32189,7 @@
         "Meta供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6771",
@@ -32335,7 +32334,7 @@
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6787",
@@ -32389,7 +32388,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6790",
@@ -32529,7 +32528,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6803",
@@ -32721,7 +32720,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6820",
@@ -32774,7 +32773,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6826",
@@ -32821,7 +32820,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6830",
@@ -32992,7 +32991,7 @@
         "Google供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6843",
@@ -33074,6 +33073,7 @@
         "CPO",
         "資料中心",
         "LED",
+        "OLED",
         "矽光子"
       ],
       "supply": [
@@ -33081,7 +33081,7 @@
         "微軟供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6855",
@@ -33537,7 +33537,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6899",
@@ -33658,7 +33658,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6908",
@@ -33879,7 +33879,7 @@
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6921",
@@ -33896,7 +33896,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6922",
@@ -33990,7 +33990,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6928",
@@ -34142,7 +34142,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6940",
@@ -34289,7 +34289,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6955",
@@ -34384,7 +34384,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6965",
@@ -34675,7 +34675,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "6997",
@@ -34809,15 +34809,13 @@
       "tech": [
         "CoWoS",
         "2nm",
-        "先進封裝",
-        "矽光子",
-        "CPO"
+        "先進封裝"
       ],
       "supply": [
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "7558",
@@ -34965,7 +34963,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "7689",
@@ -35008,12 +35006,11 @@
     ],
     "tags": {
       "tech": [
-        "先進封裝",
-        "面板"
+        "先進封裝"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "7705",
@@ -35048,7 +35045,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "7708",
@@ -35119,12 +35116,11 @@
       "tech": [
         "記憶體",
         "AI伺服器",
-        "車用電子",
         "伺服器"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "7713",
@@ -35364,7 +35360,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "7731",
@@ -35409,12 +35405,11 @@
       "tech": [
         "先進封裝",
         "PLP",
-        "散熱",
         "封測"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "7736",
@@ -35568,7 +35563,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "7750",
@@ -35607,7 +35602,7 @@
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "7752",
@@ -35783,9 +35778,12 @@
       "半導體業"
     ],
     "tags": {
-      "tech": [],
+      "tech": [
+        "先進封裝"
+      ],
       "supply": []
-    }
+    },
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "7769",
@@ -35798,11 +35796,13 @@
     ],
     "tags": {
       "tech": [
+        "矽光子",
+        "CPO",
         "封測"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "7770",
@@ -35819,11 +35819,9 @@
       "tech": [
         "IC設計"
       ],
-      "supply": [
-        "Apple供應鏈"
-      ]
+      "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "7771",
@@ -35857,7 +35855,7 @@
         "Tesla供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "7773",
@@ -36064,7 +36062,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "7799",
@@ -36127,7 +36125,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "7811",
@@ -36255,7 +36253,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "7823",
@@ -36444,7 +36442,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "7854",
@@ -36473,7 +36471,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "7858",
@@ -36518,7 +36516,7 @@
         "三星供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "7868",
@@ -36563,7 +36561,7 @@
         "AMD供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "7875",
@@ -36683,7 +36681,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "7887",
@@ -36699,7 +36697,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "7890",
@@ -36768,7 +36766,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "7901",
@@ -36859,7 +36857,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "8021",
@@ -36899,7 +36897,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "8027",
@@ -37054,11 +37052,12 @@
     "tags": {
       "tech": [
         "低軌衛星",
-        "IC設計"
+        "IC設計",
+        "矽光子"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "8042",
@@ -37255,7 +37254,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "8058",
@@ -37545,7 +37544,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "8083",
@@ -37634,11 +37633,9 @@
         "PA功率放大器",
         "電池"
       ],
-      "supply": [
-        "Apple供應鏈"
-      ]
+      "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "8087",
@@ -37682,7 +37679,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "8089",
@@ -37724,7 +37721,7 @@
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "8092",
@@ -37877,7 +37874,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "8103",
@@ -38000,7 +37997,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "8111",
@@ -38119,7 +38116,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "8147",
@@ -38159,12 +38156,13 @@
     "tags": {
       "tech": [
         "CoWoS",
+        "IC設計",
         "封測",
         "記憶體"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "8155",
@@ -38204,7 +38202,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "8163",
@@ -38436,7 +38434,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "8234",
@@ -38533,7 +38531,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "8271",
@@ -38554,7 +38552,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "8272",
@@ -38593,7 +38591,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "8279",
@@ -38708,11 +38706,9 @@
         "NAND Flash",
         "記憶體"
       ],
-      "supply": [
-        "Google供應鏈"
-      ]
+      "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-19"
   },
   {
     "code": "8329",

@@ -1,0 +1,12 @@
+code: '9912'
+name: 偉聯
+market: TWSE
+sector: 電腦及週邊設備業
+themes:
+- LCD顯示器
+- 顯示器
+tags:
+  tech:
+  - 面板
+  supply: []
+last_enriched: '2026-04-17'

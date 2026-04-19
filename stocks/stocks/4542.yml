@@ -1,0 +1,15 @@
+code: '4542'
+name: 科嶠
+market: TPEX
+sector: 電子零組件業
+themes:
+- PCB相關設備
+- 半導體製程設備
+- 設備儀器商
+tags:
+  tech:
+  - AI伺服器
+  - 伺服器
+  - PCB
+  supply: []
+last_enriched: '2026-04-17'

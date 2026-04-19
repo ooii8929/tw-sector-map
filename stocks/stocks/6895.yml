@@ -1,0 +1,12 @@
+code: '6895'
+name: 宏碩系統
+market: TPEX
+sector: 半導體業
+themes:
+- 半導體製程設備
+- 設備儀器商
+tags:
+  tech:
+  - 液冷散熱
+  supply: []
+last_enriched: '2026-04-17'

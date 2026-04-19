@@ -1,0 +1,15 @@
+code: '5388'
+name: 中磊
+market: TWSE
+sector: 通信網路業
+themes:
+- 區域網路
+- 接取設備
+- 無線網路設備系統(WLAN)
+- 網通設備
+tags:
+  tech:
+  - CPO
+  - ADAS
+  supply: []
+last_enriched: '2026-04-17'

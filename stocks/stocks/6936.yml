@@ -1,0 +1,14 @@
+code: '6936'
+name: 永鴻生技
+market: TWSE
+sector: 生技醫療業
+themes:
+- 動物用藥
+- 生物科技
+- 農業生技
+- 醫藥產業
+tags:
+  tech:
+  - 生技
+  supply: []
+last_enriched: '2026-04-17'

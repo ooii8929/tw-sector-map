@@ -1,0 +1,14 @@
+code: '6201'
+name: 亞弘電
+market: TWSE
+sector: 其他電子業
+themes:
+- 家電
+- 小家電
+- 電子零件元件
+- 音響設備及零件
+tags:
+  tech:
+  - 家電
+  supply: []
+last_enriched: '2026-04-17'

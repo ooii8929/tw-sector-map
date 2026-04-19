@@ -1,0 +1,13 @@
+code: '4426'
+name: 利勤
+market: TWSE
+sector: 紡織纖維
+themes:
+- 傳產其他
+- 織布業
+- 鞋材
+tags:
+  tech:
+  - CoWoS
+  supply: []
+last_enriched: '2026-04-17'

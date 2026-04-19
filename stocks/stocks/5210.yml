@@ -1,0 +1,13 @@
+code: '5210'
+name: 寶碩
+market: TPEX
+sector: 資訊服務業
+themes:
+- 系統整合
+- 軟體業
+tags:
+  tech:
+  - 系統整合
+  - 軟體
+  supply: []
+last_enriched: '2026-04-17'

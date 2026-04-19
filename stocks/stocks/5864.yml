@@ -1,0 +1,12 @@
+code: '5864'
+name: 致和證
+market: TPEX
+sector: 金融保險業
+themes:
+- 證券
+- 金融業
+tags:
+  tech:
+  - 證券
+  supply: []
+last_enriched: '2026-04-17'

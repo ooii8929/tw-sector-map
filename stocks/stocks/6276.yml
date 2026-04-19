@@ -1,0 +1,16 @@
+code: '6276'
+name: 安鈦克
+market: TPEX
+sector: 電腦及週邊設備業
+themes:
+- 機殼
+- 電子零件元件
+- 電源供應器
+tags:
+  tech:
+  - DRAM
+  - NAND Flash
+  - 記憶體
+  - 電源供應器
+  supply: []
+last_enriched: '2026-04-17'

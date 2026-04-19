@@ -1,0 +1,13 @@
+code: '7749'
+name: 意騰-KY
+market: TWSE
+sector: 半導體業
+themes:
+- ASIC
+- IC設計
+- 設計IP
+tags:
+  tech:
+  - IC設計
+  supply: []
+last_enriched: '2026-04-17'

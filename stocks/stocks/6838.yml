@@ -1,0 +1,14 @@
+code: '6838'
+name: 台新藥
+market: TWSE
+sector: 生技醫療業
+themes:
+- 學名藥
+- 專利藥
+- 新藥研發
+- 醫藥產業
+tags:
+  tech:
+  - 新藥研發
+  supply: []
+last_enriched: '2026-04-17'

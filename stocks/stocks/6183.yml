@@ -1,0 +1,14 @@
+code: '6183'
+name: 關貿
+market: TWSE
+sector: 資訊服務業
+themes:
+- INTERNET技術與基礎設施
+- 系統整合
+- 軟體業
+- 電商服務
+tags:
+  tech:
+  - 電商
+  supply: []
+last_enriched: '2026-04-17'

@@ -1,0 +1,15 @@
+code: '6234'
+name: 高僑
+market: TPEX
+sector: 光電業
+themes:
+- 印刷電路板相關
+- 設備儀器商
+- 雷射鑽孔機、鑽頭
+tags:
+  tech:
+  - AI伺服器
+  - 伺服器
+  - PCB
+  supply: []
+last_enriched: '2026-04-17'

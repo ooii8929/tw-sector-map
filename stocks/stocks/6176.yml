@@ -1,0 +1,14 @@
+code: '6176'
+name: 瑞儀
+market: TWSE
+sector: 光電業
+themes:
+- 背光模組
+- 面板零組件
+tags:
+  tech:
+  - OLED
+  - 面板
+  - LED
+  supply: []
+last_enriched: '2026-04-17'

@@ -1,0 +1,15 @@
+code: '8240'
+name: 華宏
+market: TPEX
+sector: 光電業
+themes:
+- 光學膜
+- 面板零組件
+tags:
+  tech:
+  - 液冷散熱
+  - AI伺服器
+  - 伺服器
+  - 面板
+  supply: []
+last_enriched: '2026-04-17'

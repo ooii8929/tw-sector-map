@@ -1,0 +1,17 @@
+code: '6103'
+name: 合邦
+market: TPEX
+sector: 半導體業
+themes:
+- IC製造
+- IC設計
+- LED驅動IC
+- 嵌入式晶片
+- 影音IC
+- 矽晶圓
+tags:
+  tech:
+  - IC設計
+  - LED
+  supply: []
+last_enriched: '2026-04-17'

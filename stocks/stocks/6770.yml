@@ -1,0 +1,19 @@
+code: '6770'
+name: 力積電
+market: TWSE
+sector: 半導體業
+themes:
+- IC製造
+- 晶圓代工
+tags:
+  tech:
+  - 記憶體
+  - HBM
+  - 晶圓代工
+  - DRAM
+  - 被動元件
+  supply:
+  - NVIDIA供應鏈
+  - Google供應鏈
+  - Meta供應鏈
+last_enriched: '2026-04-17'

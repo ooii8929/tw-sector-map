@@ -1,0 +1,17 @@
+code: '6121'
+name: 新普
+market: TPEX
+sector: 電腦及週邊設備業
+themes:
+- 工業用電池
+- 消費用電池
+- 電池
+tags:
+  tech:
+  - EV
+  - 車用電子
+  - 儲能
+  - 電池
+  supply:
+  - Tesla供應鏈
+last_enriched: '2026-04-17'

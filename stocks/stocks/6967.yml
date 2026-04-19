@@ -1,0 +1,15 @@
+code: '6967'
+name: 汎瑋材料
+market: TPEX
+sector: 電子零組件業
+themes:
+- 其他電子零件
+- 電子元件代理商
+- 電子通路
+- 電子零件元件
+tags:
+  tech:
+  - AI伺服器
+  - 伺服器
+  supply: []
+last_enriched: '2026-04-17'

@@ -1,0 +1,17 @@
+code: '5243'
+name: 乙盛-KY
+market: TWSE
+sector: 光電業
+themes:
+- 模具沖壓
+- 車用沖壓件
+- 車用金屬成型
+- 電子零件元件
+tags:
+  tech:
+  - 低軌衛星
+  - AI伺服器
+  - 伺服器
+  - 車用電子
+  supply: []
+last_enriched: '2026-04-17'

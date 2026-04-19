@@ -1,0 +1,14 @@
+code: '8291'
+name: 尚茂
+market: TPEX
+sector: 電子零組件業
+themes:
+- 印刷電路板相關
+- 銅箔基板
+tags:
+  tech:
+  - AI伺服器
+  - 伺服器
+  - PCB
+  supply: []
+last_enriched: '2026-04-17'

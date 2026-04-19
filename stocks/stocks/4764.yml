@@ -1,0 +1,14 @@
+code: '4764'
+name: 雙鍵
+market: TWSE
+sector: 化學工業
+themes:
+- 其他化工產品
+- 化學工業
+- 合成樹脂
+tags:
+  tech:
+  - 5G
+  - PCB
+  supply: []
+last_enriched: '2026-04-17'

@@ -1,0 +1,16 @@
+code: '2337'
+name: 旺宏
+market: TWSE
+sector: 半導體業
+themes:
+- IC製造
+- 非揮發性記憶體
+tags:
+  tech:
+  - DRAM
+  - NAND Flash
+  - 記憶體
+  - 低軌衛星
+  - 被動元件
+  supply: []
+last_enriched: '2026-04-17'

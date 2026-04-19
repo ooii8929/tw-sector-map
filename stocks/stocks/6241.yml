@@ -1,0 +1,17 @@
+code: '6241'
+name: 易通展
+market: TPEX
+sector: 通信網路業
+themes:
+- 區域網路
+- 無線網路設備系統(WLAN)
+- 網通設備
+tags:
+  tech:
+  - 光通訊
+  - CPO
+  - AI伺服器
+  - 伺服器
+  - 光纖
+  supply: []
+last_enriched: '2026-04-17'

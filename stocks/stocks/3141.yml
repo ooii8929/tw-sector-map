@@ -1,0 +1,17 @@
+code: '3141'
+name: 晶宏
+market: TPEX
+sector: 半導體業
+themes:
+- IC設計
+- LCD驅動IC
+- 觸控IC
+- 馬達IC
+tags:
+  tech:
+  - OLED
+  - IC設計
+  - 面板
+  - LED
+  supply: []
+last_enriched: '2026-04-17'

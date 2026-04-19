@@ -1,0 +1,19 @@
+code: '4952'
+name: 凌通
+market: TWSE
+sector: 半導體業
+themes:
+- IC設計
+- LCD控制IC
+- MCU
+- 影音IC
+- 消費性IC
+- 無線充電
+- 車用電子
+- 電子零件元件
+tags:
+  tech:
+  - IC設計
+  - 車用電子
+  supply: []
+last_enriched: '2026-04-17'

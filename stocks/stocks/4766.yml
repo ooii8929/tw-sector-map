@@ -1,0 +1,15 @@
+code: '4766'
+name: 南寶
+market: TWSE
+sector: 化學工業
+themes:
+- 其他化工產品
+- 化學工業
+- 合成樹脂
+- 塗料
+- 熱熔膠
+tags:
+  tech:
+  - 先進封裝
+  supply: []
+last_enriched: '2026-04-17'

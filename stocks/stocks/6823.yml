@@ -1,0 +1,12 @@
+code: '6823'
+name: 濾能
+market: TPEX
+sector: 半導體業
+themes:
+- 電子其他
+tags:
+  tech:
+  - CoWoS
+  - 先進封裝
+  supply: []
+last_enriched: '2026-04-17'

@@ -1,0 +1,13 @@
+code: '6830'
+name: 汎銓
+market: TWSE
+sector: 其他電子業
+themes:
+- 檢測驗證服務
+- 設備儀器商
+tags:
+  tech:
+  - 矽光子
+  - CPO
+  supply: []
+last_enriched: '2026-04-17'

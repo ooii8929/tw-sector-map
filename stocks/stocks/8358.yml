@@ -1,0 +1,15 @@
+code: '8358'
+name: 金居
+market: TPEX
+sector: 電子零組件業
+themes:
+- 印刷電路板相關
+- 銅箔
+tags:
+  tech:
+  - EV
+  - PCB
+  - AI伺服器
+  - 伺服器
+  supply: []
+last_enriched: '2026-04-17'

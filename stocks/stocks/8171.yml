@@ -1,0 +1,21 @@
+code: '8171'
+name: 天宇
+market: TPEX
+sector: 綠能環保
+themes:
+- 工業用電池
+- 消費用電池
+- 車用鋰電池
+- 電池
+tags:
+  tech:
+  - AI伺服器
+  - EV
+  - 伺服器
+  - 電源供應器
+  - 儲能
+  - 電池
+  - 車用電子
+  - 鋰電池
+  supply: []
+last_enriched: '2026-04-17'

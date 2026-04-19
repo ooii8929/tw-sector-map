@@ -1,0 +1,15 @@
+code: '6873'
+name: 泓德能源
+market: TWSE
+sector: 綠能環保
+themes:
+- 太陽能
+- 太陽能發電
+- 太陽能系統運用
+- 電力
+tags:
+  tech:
+  - 太陽能
+  - 儲能
+  supply: []
+last_enriched: '2026-04-17'

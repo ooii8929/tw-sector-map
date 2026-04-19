@@ -1,0 +1,25 @@
+code: '8299'
+name: 群聯
+market: TPEX
+sector: 半導體業
+themes:
+- FLASH模組
+- FLASH記憶體IC
+- IC設計
+- PC週邊IC
+- SSD控制IC
+- USB IC
+- 嵌入式晶片
+- 記憶卡
+- 記憶卡IC
+- 週邊產品
+- 電子零件元件
+tags:
+  tech:
+  - IC設計
+  - DRAM
+  - NAND Flash
+  - 記憶體
+  supply:
+  - Google供應鏈
+last_enriched: '2026-04-17'

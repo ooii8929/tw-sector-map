@@ -1,0 +1,14 @@
+code: '9917'
+name: 中保科
+market: TWSE
+sector: 其他業
+themes:
+- 保全業
+- 安全監控
+- 工業電腦
+- 服務業
+tags:
+  tech:
+  - 保全
+  supply: []
+last_enriched: '2026-04-17'

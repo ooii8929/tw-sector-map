@@ -1,0 +1,19 @@
+code: '3529'
+name: 力旺
+market: TPEX
+sector: 半導體業
+themes:
+- FLASH記憶體IC
+- IC設計
+- 嵌入式晶片
+- 設計IP
+tags:
+  tech:
+  - AI伺服器
+  - 伺服器
+  - IC設計
+  - 記憶體
+  supply:
+  - Apple供應鏈
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

@@ -1,0 +1,16 @@
+code: '6129'
+name: 普誠
+market: TPEX
+sector: 半導體業
+themes:
+- IC設計
+- LCD驅動IC
+- 影音IC
+- 消費性IC
+- 無線網路IC
+- 類比IC
+tags:
+  tech:
+  - IC設計
+  supply: []
+last_enriched: '2026-04-17'

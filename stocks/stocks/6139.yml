@@ -1,0 +1,14 @@
+code: '6139'
+name: 亞翔
+market: TWSE
+sector: 其他電子業
+themes:
+- 廠務工程
+- 電子其他
+tags:
+  tech:
+  - CoWoS
+  - 2nm
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

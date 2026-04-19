@@ -1,0 +1,22 @@
+code: '3704'
+name: 合勤控
+market: TWSE
+sector: 通信網路業
+themes:
+- 光纖設備
+- 光通訊
+- 區域網路
+- 接取設備
+- 控股公司
+- 無線網路設備系統(WLAN)
+- 網通設備
+- 電信設備
+tags:
+  tech:
+  - CPO
+  - AI伺服器
+  - 伺服器
+  - 光通訊
+  - 光纖
+  supply: []
+last_enriched: '2026-04-17'

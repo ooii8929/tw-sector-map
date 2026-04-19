@@ -1,0 +1,13 @@
+code: '7795'
+name: 長廣
+market: TWSE
+sector: 電子零組件業
+themes:
+- PCB相關設備
+- 設備儀器商
+tags:
+  tech:
+  - ABF載板
+  - PCB
+  supply: []
+last_enriched: '2026-04-17'

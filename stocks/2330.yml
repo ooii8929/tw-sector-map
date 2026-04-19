@@ -7,8 +7,10 @@ themes:
 - 晶圓代工
 tags:
   tech:
+  - CoWoS
+  - 先進封裝
   - IC設計
-  - 記憶體
+  - 矽光子
   - 晶圓代工
   supply: []
-last_enriched: '2026-04-17'
+last_enriched: '2026-04-18'

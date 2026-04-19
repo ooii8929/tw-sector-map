@@ -1,0 +1,17 @@
+code: '6108'
+name: 競國
+market: TWSE
+sector: 電子零組件業
+themes:
+- 印刷電路板
+- 印刷電路板相關
+tags:
+  tech:
+  - ABF載板
+  - AI伺服器
+  - 伺服器
+  - PCB
+  - DDR5
+  - 車用電子
+  supply: []
+last_enriched: '2026-04-17'

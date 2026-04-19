@@ -1,0 +1,17 @@
+code: '4739'
+name: 康普
+market: TWSE
+sector: 化學工業
+themes:
+- 其他化工產品
+- 化學工業
+- 強酸產品
+- 正極材料
+- 電池材料相關
+tags:
+  tech:
+  - EV
+  - 電池
+  supply:
+  - Tesla供應鏈
+last_enriched: '2026-04-17'

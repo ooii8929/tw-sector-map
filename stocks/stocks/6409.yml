@@ -1,0 +1,15 @@
+code: '6409'
+name: 旭隼
+market: TWSE
+sector: 其他電子業
+themes:
+- PV INVERTER
+- UPS
+- 太陽能
+- 電子零件元件
+tags:
+  tech:
+  - 資料中心
+  - 太陽能
+  supply: []
+last_enriched: '2026-04-17'

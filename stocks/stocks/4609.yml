@@ -1,0 +1,12 @@
+code: '4609'
+name: 唐鋒
+market: TPEX
+sector: 居家生活
+themes:
+- 家電
+- 小家電
+tags:
+  tech:
+  - 家電
+  supply: []
+last_enriched: '2026-04-17'

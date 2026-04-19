@@ -1,0 +1,16 @@
+code: '6862'
+name: 三集瑞-KY
+market: TWSE
+sector: 電子零組件業
+themes:
+- 被動元件
+- 電感
+tags:
+  tech:
+  - AI伺服器
+  - 伺服器
+  - 被動元件
+  - 車用電子
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

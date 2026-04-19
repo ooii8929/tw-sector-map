@@ -1,0 +1,17 @@
+code: '6245'
+name: 立端
+market: TPEX
+sector: 通信網路業
+themes:
+- 網通設備
+- 資安設備
+tags:
+  tech:
+  - CPO
+  - AI伺服器
+  - 伺服器
+  - 光纖
+  - 記憶體
+  - PA功率放大器
+  supply: []
+last_enriched: '2026-04-17'

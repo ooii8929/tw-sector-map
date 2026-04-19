@@ -1,0 +1,13 @@
+code: '6237'
+name: 驊訊
+market: TPEX
+sector: 半導體業
+themes:
+- IC設計
+- 影音IC
+tags:
+  tech:
+  - IC設計
+  supply:
+  - Google供應鏈
+last_enriched: '2026-04-17'

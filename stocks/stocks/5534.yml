@@ -1,0 +1,13 @@
+code: '5534'
+name: 長虹
+market: TWSE
+sector: 建材營造業
+themes:
+- 地產
+- 營建
+tags:
+  tech:
+  - CPO
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

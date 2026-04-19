@@ -1,0 +1,16 @@
+code: '5328'
+name: 華容
+market: TPEX
+sector: 電子零組件業
+themes:
+- 塑膠薄膜電容
+- 被動元件
+tags:
+  tech:
+  - AI伺服器
+  - EV
+  - 伺服器
+  - 被動元件
+  - 電源供應器
+  supply: []
+last_enriched: '2026-04-17'

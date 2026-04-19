@@ -1,0 +1,14 @@
+code: '4535'
+name: 至興
+market: TPEX
+sector: 電機機械
+themes:
+- 汽機車零組件
+- 汽車內裝
+- 汽車座椅
+tags:
+  tech:
+  - 汽機車零件
+  - 汽車內裝
+  supply: []
+last_enriched: '2026-04-17'

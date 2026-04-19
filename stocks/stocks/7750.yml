@@ -1,0 +1,13 @@
+code: '7750'
+name: 新代
+market: TWSE
+sector: 電機機械
+themes:
+- 工具機
+- 工具機主軸
+- 工具機控制器
+tags:
+  tech:
+  - 工具機
+  supply: []
+last_enriched: '2026-04-17'

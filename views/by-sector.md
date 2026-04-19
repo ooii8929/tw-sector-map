@@ -5,29 +5,29 @@
 | 代碼 | 名稱 | 市場 | L2 題材 | L3 Tags |
 |------|------|------|---------|---------|
 | 2302 | 麗正 | TWSE | 二極體, 分離式元件, 電晶體 | 記憶體, 車用電子 |
-| 2303 | 聯電 | TWSE | IC製造, 晶圓代工 | 矽光子, 光通訊, 記憶體, 晶圓代工 |
+| 2303 | 聯電 | TWSE | IC製造, 晶圓代工 | CoWoS, 矽光子, 先進封裝, 光通訊, 記憶體 |
 | 2329 | 華泰 | TWSE | IC封裝, IC封裝測試, IC測試 | CoWoS, AI伺服器, ADAS, 車用電子, 伺服器 |
-| 2330 | 台積電 | TWSE | IC製造, 晶圓代工 | IC設計, 記憶體, 晶圓代工 |
-| 2337 | 旺宏 | TWSE | IC製造, 非揮發性記憶體 | DRAM, NAND Flash, 記憶體, 低軌衛星, 被動元件 |
+| 2330 | 台積電 | TWSE | IC製造, 晶圓代工 | CoWoS, 先進封裝, IC設計, 矽光子, 晶圓代工 |
+| 2337 | 旺宏 | TWSE | IC製造, 非揮發性記憶體 | DRAM, NAND Flash, 記憶體, 矽光子, 低軌衛星 |
 | 2338 | 光罩 | TWSE | IC製造, 光罩 | 矽光子, 光通訊, 先進封裝 |
 | 2340 | 台亞 | TWSE | LED, LED晶粒, LED照明產品 | Micro LED, GaN, SiC, 車用電子, LED |
 | 2342 | 茂矽 | TWSE | IC製造, 晶圓代工 | 車用電子, 晶圓代工 |
-| 2344 | 華邦電 | TWSE | DRAM, IC製造, 非揮發性記憶體 | DRAM, NAND Flash, 記憶體, 面板, NVIDIA供應鏈 |
+| 2344 | 華邦電 | TWSE | DRAM, IC製造, 非揮發性記憶體 | DRAM, NAND Flash, 記憶體 |
 | 2351 | 順德 | TWSE | 傳產其他, 封測服務與材料, 導線架 | AI伺服器, 伺服器, 均熱片, 封測 |
 | 2363 | 矽統 | TWSE | IC設計, MEMS, 繪圖IC | IC設計 |
-| 2369 | 菱生 | TWSE | IC封裝, IC封裝測試, IC測試 | CoWoS, 封測, 記憶體, 先進封裝 |
+| 2369 | 菱生 | TWSE | IC封裝, IC封裝測試, IC測試 | CoWoS, 封測, 記憶體, 先進封裝, 車用電子 |
 | 2379 | 瑞昱 | TWSE | IC設計, LCD控制IC, PC週邊IC | ADAS, 車用電子, IC設計, 記憶體, NVIDIA供應鏈 |
 | 2388 | 威盛 | TWSE | CPU, IC設計, 其他IC | IC設計, 車用電子, AMD供應鏈 |
 | 2401 | 凌陽 | TWSE | DSP, IC設計, 光碟機驅動IC | ADAS, 車用電子, IC設計, 記憶體 |
-| 2408 | 南亞科 | TWSE | DRAM, IC製造 | DRAM, NAND Flash, 記憶體 |
+| 2408 | 南亞科 | TWSE | DRAM, IC製造 | DRAM, NAND Flash, 記憶體, CPO |
 | 2434 | 統懋 | TWSE | 二極體, 分離式元件, 電晶體 | 記憶體 |
 | 2436 | 偉詮電 | TWSE | IC設計, IC零組件通路商, LED驅動IC | ADAS, IC設計, 射頻, AI伺服器, 伺服器 |
 | 2441 | 超豐 | TWSE | IC封裝, IC封裝測試, IC測試 | CoWoS, 先進封裝, IC設計, 封測, 記憶體 |
 | 2449 | 京元電子 | TWSE | IC封裝, IC封裝測試, IC測試 | CoWoS, 2nm, 封測, NVIDIA供應鏈 |
-| 2451 | 創見 | TWSE | DRAM模組, FLASH模組, 記憶體模組 | DRAM, NAND Flash, 記憶體, DDR5, DDR4 |
-| 2454 | 聯發科 | TWSE | CPU, DSL晶片組, IC設計 | 矽光子, IC設計, Apple供應鏈, Google供應鏈 |
+| 2451 | 創見 | TWSE | DRAM模組, FLASH模組, 記憶體模組 | DRAM, NAND Flash, 記憶體, DDR5 |
+| 2454 | 聯發科 | TWSE | CPU, DSL晶片組, IC設計 | CoWoS, 矽光子, 先進封裝, IC設計, 記憶體 |
 | 2458 | 義隆 | TWSE | IC設計, MCU, PC週邊IC | 低軌衛星, IC設計 |
-| 2481 | 強茂 | TWSE | 二極體, 分離式元件, 電晶體 | 車用電子, 記憶體 |
+| 2481 | 強茂 | TWSE | 二極體, 分離式元件, 電晶體 | 記憶體 |
 | 3006 | 晶豪科 | TWSE | DRAM記憶體IC, FLASH記憶體IC, IC設計 | IC設計, 記憶體, 低軌衛星, DRAM |
 | 3014 | 聯陽 | TWSE | IC設計, IO控制IC, PC週邊IC | ADAS, IC設計, DRAM, 記憶體, 車用電子 |
 | 3016 | 嘉晶 | TWSE | IC製造, 矽晶圓, 磊晶 | — |
@@ -39,24 +39,24 @@
 | 3122 | 笙泉 | TPEX | IC設計, MCU | IC設計, 散熱 |
 | 3135 | 凌航 | TWSE | DRAM模組, FLASH模組, 記憶體模組 | DDR5, DRAM, 記憶體 |
 | 3141 | 晶宏 | TPEX | IC設計, LCD驅動IC, 觸控IC | OLED, IC設計, 面板, LED |
-| 3150 | 鈺寶-創 | TWSE | IC設計, 影音IC, 無線網路IC | NAND Flash, 記憶體, IC設計 |
+| 3150 | 鈺寶-創 | TWSE | IC設計, 影音IC, 無線網路IC | 記憶體, IC設計 |
 | 3169 | 亞信 | TPEX | IC設計, IO控制IC, 嵌入式晶片 | IC設計, 射頻 |
 | 3178 | 公準 | TPEX | 半導體製程設備, 模具, 機械零組件 | CoWoS, 先進封裝, 面板 |
-| 3189 | 景碩 | TWSE | IC基板, 封測服務與材料, 輔助與彌補用醫材 | ABF載板, IC載板, 封測 |
+| 3189 | 景碩 | TWSE | IC基板, 封測服務與材料, 輔助與彌補用醫材 | ABF載板, IC載板, IC設計, 封測 |
 | 3227 | 原相 | TPEX | CMOS晶片, IC設計, 感測元件 | ADAS, 車用電子, IC設計, 記憶體, 低軌衛星 |
 | 3228 | 金麗科 | TPEX | ASIC, IC設計, MCU | IC設計 |
 | 3257 | 虹冠電 | TWSE | IC設計, 二極體, 分離式元件 | AI伺服器, 伺服器, IC設計, 低軌衛星, 記憶體 |
 | 3259 | 鑫創 | TPEX | FLASH記憶體IC, IC設計, MEMS | 車用電子, IC設計, 記憶體 |
 | 3260 | 威剛 | TPEX | DRAM模組, FLASH模組, 硬碟相關 | DRAM, NAND Flash, 記憶體 |
-| 3264 | 欣銓 | TPEX | IC封裝測試, IC測試 | CoWoS, ADAS, 車用電子, 封測, 記憶體 |
+| 3264 | 欣銓 | TPEX | IC封裝測試, IC測試 | CoWoS, ADAS, 車用電子, IC設計, 封測 |
 | 3265 | 台星科 | TPEX | IC封裝, IC封裝測試, IC測試 | CoWoS, 先進封裝, 封測, 記憶體, 矽光子 |
 | 3268 | 海德威 | TPEX | IC設計, IC設計軟體, 其他IC | IC設計 |
 | 3317 | 尼克森 | TPEX | 分離式元件, 電晶體 | AI伺服器, SiC, 伺服器, IC設計, GaN |
 | 3372 | 典範 | TPEX | IC封裝, IC封裝測試, IC測試 | CoWoS, 先進封裝, 封測, 記憶體 |
-| 3374 | 精材 | TPEX | IC封裝, IC封裝測試, IC測試 | CoWoS, CPO, 先進封裝, 封測, AI伺服器 |
+| 3374 | 精材 | TPEX | IC封裝, IC封裝測試, IC測試 | CoWoS, CPO, 先進封裝, IC設計, 封測 |
 | 3413 | 京鼎 | TWSE | 半導體製程設備, 設備儀器商 | CoWoS, HBM, 2nm, 記憶體, NVIDIA供應鏈 |
 | 3438 | 類比科 | TPEX | IC設計, MCU, 電源管理IC | IC設計 |
-| 3443 | 創意 | TWSE | ASIC, IC設計, 設計IP | HBM, 車用電子, IC設計, Tesla供應鏈 |
+| 3443 | 創意 | TWSE | ASIC, IC設計, 設計IP | HBM, IC設計, Tesla供應鏈 |
 | 3450 | 聯鈞 | TWSE | IC封裝, IC封裝測試, IC測試 | CoWoS, 矽光子, 光通訊, CPO, AI伺服器 |
 | 3467 | 台灣精材 | TPEX | 半導體製程設備, 石英元件, 被動元件 | 先進封裝, 被動元件, 石英振盪器 |
 | 3527 | 聚積 | TPEX | IC設計, LED驅動IC, 類比IC | Micro LED, 車用電子, IC設計, 面板, LED |
@@ -67,43 +67,43 @@
 | 3555 | 博士旺 | TPEX | IC零組件通路商, 資訊安全, 軟體業 | 車用電子, IC設計, 新藥研發 |
 | 3556 | 禾瑞亞 | TPEX | IC設計, 影音IC, 消費性IC | IC設計, 面板 |
 | 3567 | 逸昌 | TPEX | IC封裝測試, IC測試 | CoWoS, 先進封裝, 封測 |
-| 3581 | 博磊 | TPEX | 封測服務與材料, 封測用設備, 設備儀器商 | CoWoS, 先進封裝, 封測, 記憶體, 被動元件 |
-| 3583 | 辛耘 | TWSE | IC製造, 半導體製程設備, 矽晶圓 | 先進封裝 |
+| 3581 | 博磊 | TPEX | 封測服務與材料, 封測用設備, 設備儀器商 | CoWoS, 先進封裝, 封測, 記憶體 |
+| 3583 | 辛耘 | TWSE | IC製造, 半導體製程設備, 矽晶圓 | 先進封裝, CPO |
 | 3588 | 通嘉 | TWSE | IC設計, LED驅動IC, 電源管理IC | IC設計, LED |
-| 3592 | 瑞鼎 | TWSE | IC設計, LCD驅動IC, 手機零組件 | IC設計, OLED, CPO, 車用電子, LED |
+| 3592 | 瑞鼎 | TWSE | IC設計, LCD驅動IC, 手機零組件 | IC設計, OLED, 車用電子, LED, 面板 |
 | 3661 | 世芯-KY | TWSE | ASIC, IC設計, 設計IP | IC設計 |
 | 3675 | 德微 | TPEX | IC製造, 二極體, 分離式元件 | AI伺服器, EV, 伺服器, 記憶體 |
 | 3680 | 家登 | TPEX | 半導體製程設備, 設備儀器商 | CoWoS, 2nm, EUV, NVIDIA供應鏈 |
 | 3686 | 達能 | TWSE | IC零組件通路商, 太陽能, 太陽能系統運用 | 資料中心, 太陽能, 電池 |
 | 3707 | 漢磊 | TPEX | IC製造, 晶圓代工, 磊晶 | SiC, 晶圓代工 |
-| 3711 | 日月光投控 | TWSE | IC封裝, IC封裝測試, IC測試 | 先進封裝, PLP, 封測 |
-| 4749 | 新應材 | TPEX | 光阻劑, 半導體化學品 | 面板, 先進封裝 |
-| 4919 | 新唐 | TWSE | CMOS晶片, IC生產, IC製造 | ADAS, 車用電子, IC設計, 記憶體, AI伺服器 |
-| 4923 | 力士 | TPEX | 分離式元件, 電晶體 | HBM, 記憶體, 被動元件, DRAM, NVIDIA供應鏈 |
+| 3711 | 日月光投控 | TWSE | IC封裝, IC封裝測試, IC測試 | CoWoS, 先進封裝, PLP, 封測, Tesla供應鏈 |
+| 4749 | 新應材 | TPEX | 光阻劑, 半導體化學品 | OLED, 面板, LED, 先進封裝 |
+| 4919 | 新唐 | TWSE | CMOS晶片, IC生產, IC製造 | IC設計, AI伺服器, 伺服器, 封測, 記憶體 |
+| 4923 | 力士 | TPEX | 分離式元件, 電晶體 | HBM, 記憶體, 被動元件, EV, 晶圓代工 |
 | 4925 | 智微 | ESB | 半導體業 | 毫米波 |
 | 4951 | 精拓科 | TPEX | IC設計, IO控制IC, PC週邊IC | IC設計 |
 | 4952 | 凌通 | TWSE | IC設計, LCD控制IC, MCU | IC設計, 車用電子 |
 | 4961 | 天鈺 | TWSE | IC設計, LCD驅動IC, 手機零組件 | IC設計, 面板 |
 | 4966 | 譜瑞-KY | TPEX | DISPLAYPORT, IC設計, LCD控制IC | Micro LED, IC設計, 面板, LED, 車用電子 |
-| 4967 | 十銓 | TWSE | DRAM模組, FLASH模組, 記憶體模組 | DRAM, NAND Flash, 記憶體, 散熱, GaAs |
+| 4967 | 十銓 | TWSE | DRAM模組, FLASH模組, 記憶體模組 | DRAM, NAND Flash, 記憶體, GaAs |
 | 4968 | 立積 | TWSE | 功率放大器, 射頻前端晶片, 射頻前端模組 | WiFi, IC設計, 低軌衛星, 射頻 |
-| 4971 | IET-KY | TPEX | IC製造, 光通訊元件磊晶, 砷化鎵相關 | 光通訊, CPO, ADAS, 低軌衛星, InP |
+| 4971 | IET-KY | TPEX | IC製造, 光通訊元件磊晶, 砷化鎵相關 | 光通訊, CPO, ADAS, InP, 資料中心 |
 | 4973 | 廣穎 | TPEX | DRAM模組, FLASH模組, 記憶體模組 | IC設計, DRAM, NAND Flash, 記憶體 |
-| 4991 | 環宇-KY | TPEX | IC製造, 化合物晶圓, 砷化鎵相關 | 矽光子, 光通訊, CPO, 800G, GaAs |
+| 4991 | 環宇-KY | TPEX | IC製造, 化合物晶圓, 砷化鎵相關 | 矽光子, 光通訊, CPO, 800G, 面板 |
 | 5222 | 全訊 | TWSE | IC製造, 功率放大器, 射頻前端晶片 | IC設計, PA功率放大器, 射頻, GaAs |
 | 5236 | 凌陽創新 | TPEX | IC設計, MCU, PC週邊IC | IC設計, 記憶體 |
 | 5246 | 勵威 | ESB | 半導體業 | 矽光子, 先進封裝 |
 | 5262 | 立達 | ESB | 半導體業 | DDR5, DRAM, 記憶體 |
-| 5269 | 祥碩 | TWSE | IC設計, USB IC, 高速傳輸介面IC | IC設計, 記憶體 |
+| 5269 | 祥碩 | TWSE | IC設計, USB IC, 高速傳輸介面IC | IC設計 |
 | 5272 | 笙科 | TPEX | IC設計, 無線網路IC | IC設計 |
 | 5274 | 信驊 | TPEX | IC設計, 其他IC, 影音IC | AI伺服器, 伺服器, IC設計 |
 | 5285 | 界霖 | TWSE | 封測服務與材料, 導線架 | 先進封裝, 車用電子, 散熱, 封測 |
-| 5297 | 廣化 | ESB | 半導體業 | — |
+| 5297 | 廣化 | ESB | 半導體業 | CoWoS |
 | 5299 | 杰力 | TPEX | IC設計, 分離式元件, 電晶體 | 車用電子, IC設計 |
 | 5302 | 太欣 | TPEX | DSP, IC設計, MCU | IC設計 |
 | 5344 | 立衛 | TPEX | IC封裝測試, IC測試 | CoWoS, 先進封裝, 封測, 記憶體 |
-| 5347 | 世界 | TPEX | IC製造, 晶圓代工 | AI伺服器, 伺服器, 晶圓代工 |
-| 5351 | 鈺創 | TPEX | DRAM記憶體IC, IC設計, SRAM記憶體IC | ADAS, IC設計, 記憶體, 低軌衛星, 封測 |
+| 5347 | 世界 | TPEX | IC製造, 晶圓代工 | AI伺服器, 伺服器, IC設計, 晶圓代工 |
+| 5351 | 鈺創 | TPEX | DRAM記憶體IC, IC設計, SRAM記憶體IC | ADAS, IC設計, 記憶體, 封測, DRAM |
 | 5425 | 台半 | TPEX | 二極體, 分離式元件, 印表機 | 車用電子, NVIDIA供應鏈 |
 | 5443 | 均豪 | TPEX | IC檢測設備, 半導體製程設備, 封測用設備 | 先進封裝, 面板, 封測 |
 | 5468 | 凱鈺 | TPEX | IC設計, LED驅動IC, 光通訊IC | 光通訊, IC設計, LED, 電池 |
@@ -114,10 +114,10 @@
 | 6104 | 創惟 | TPEX | IC設計, USB IC, 集線器IC | IC設計 |
 | 6129 | 普誠 | TPEX | IC設計, LCD驅動IC, 影音IC | IC設計 |
 | 6138 | 茂達 | TPEX | IC設計, 影音IC, 電源管理IC | ADAS, 車用電子, IC設計, 記憶體 |
-| 6147 | 頎邦 | TPEX | IC封裝, IC封裝測試, IC測試 | CoWoS, OLED, 封測, LED, 矽光子 |
+| 6147 | 頎邦 | TPEX | IC封裝, IC封裝測試, IC測試 | CoWoS, OLED, 封測, LED, 記憶體 |
 | 6182 | 合晶 | TPEX | IC製造, 矽晶圓 | GaN |
-| 6187 | 萬潤 | TPEX | 封測用設備, 設備儀器商 | CoWoS, 2nm, CPO, 先進封裝, 記憶體 |
-| 6202 | 盛群 | TWSE | IC設計, MCU, PC週邊IC | ADAS, 車用電子, IC設計, 記憶體, 射頻 |
+| 6187 | 萬潤 | TPEX | 封測用設備, 設備儀器商 | CPO, 先進封裝, IC設計, CoWoS, 封測 |
+| 6202 | 盛群 | TWSE | IC設計, MCU, PC週邊IC | ADAS, IC設計, 射頻, Apple供應鏈 |
 | 6208 | 日揚 | TPEX | 半導體製程設備, 幫浦, 產業機械 | CoWoS, CPO, 先進封裝 |
 | 6223 | 旺矽 | TPEX | LED設備, 封測服務與材料, 探針、探針卡 | CoWoS, 先進封裝, 封測, 矽光子, LED |
 | 6229 | 研通 | TPEX | IC設計, IC設計軟體 | IC設計 |
@@ -130,7 +130,7 @@
 | 6271 | 同欣電 | TWSE | IC基板, IC封裝測試, LED | CoWoS, 光通訊, AI伺服器, 伺服器, PCB |
 | 6291 | 沛亨 | TPEX | IC設計, 電子零件元件, 電源管理IC | 矽光子, 光通訊, CPO, 資料中心, IC設計 |
 | 6411 | 晶焱 | TPEX | IC設計, 其他IC | ADAS, 車用電子, IC設計, 記憶體 |
-| 6415 | 矽力*-KY | TWSE | IC設計, LED驅動IC, 電源管理IC | 車用電子, 資料中心, IC設計, LED |
+| 6415 | 矽力*-KY | TWSE | IC設計, LED驅動IC, 電源管理IC | 車用電子, IC設計, EV, 資料中心, LED |
 | 6423 | 億而得 | TPEX | IC設計, 設計IP | 車用電子, IC設計 |
 | 6435 | 大中 | TPEX | 分離式元件, 電晶體 | IC設計 |
 | 6451 | 訊芯-KY | TWSE | IC封裝, IC封裝測試, IC測試 | CoWoS, 矽光子, 光通訊, CPO, AI伺服器 |
@@ -143,13 +143,13 @@
 | 6525 | 捷敏-KY | TWSE | IC封裝測試 | CoWoS, 先進封裝, 散熱, 封測, AI伺服器 |
 | 6526 | 達發 | TWSE | IC設計, 射頻前端晶片, 無線網路IC | 光通訊, 低軌衛星, IC設計, 光纖, 射頻 |
 | 6531 | 愛普* | TWSE | DRAM記憶體IC, IC設計, SRAM記憶體IC | IC設計, 記憶體, 先進封裝, DRAM |
-| 6532 | 瑞耘 | TPEX | 半導體製程設備, 設備儀器商 | CoWoS, 2nm, 先進封裝, 散熱, NVIDIA供應鏈 |
+| 6532 | 瑞耘 | TPEX | 半導體製程設備, 設備儀器商 | CoWoS, 2nm, 先進封裝, NVIDIA供應鏈 |
 | 6533 | 晶心科 | TWSE | IC設計, 設計IP | 記憶體, IC設計, Meta供應鏈 |
-| 6548 | 長科* | TPEX | 封測服務與材料, 導線架 | 先進封裝, 車用電子, 散熱, 封測, AI伺服器 |
+| 6548 | 長科* | TPEX | 封測服務與材料, 導線架 | 散熱, 封測, AI伺服器, 伺服器, LED |
 | 6552 | 易華電 | TWSE | IC基板, 封測服務與材料 | CoWoS, 先進封裝, PCB, 封測, 面板 |
 | 6563 | 映智 | ESB | 半導體業 | — |
 | 6568 | 宏觀 | TPEX | ASIC, IC設計, 光通訊IC | CPO, 低軌衛星, AI伺服器, 伺服器, IC設計 |
-| 6573 | 虹揚-KY | TWSE | 二極體, 分離式元件 | 記憶體, 車用電子, DRAM, NAND Flash |
+| 6573 | 虹揚-KY | TWSE | 二極體, 分離式元件 | 記憶體, 車用電子 |
 | 6640 | 均華 | TPEX | 封測用設備, 設備儀器商 | 先進封裝, 封測 |
 | 6643 | M31 | TPEX | IC設計, 設計IP | IC設計 |
 | 6651 | 全宇昕 | TPEX | 二極體, 分離式元件, 電晶體 | IC設計 |
@@ -160,11 +160,11 @@
 | 6695 | 芯鼎 | TWSE | IC設計, 安全監控IC, 影音IC | IC設計 |
 | 6708 | 天擎 | TPEX | IC設計, 安全監控IC | IC設計 |
 | 6716 | 應廣 | TPEX | IC設計, MCU | AI伺服器, 伺服器, IC設計, EV, 散熱 |
-| 6719 | 力智 | TWSE | IC設計, 分離式元件, 電晶體 | IC設計 |
+| 6719 | 力智 | TWSE | IC設計, 分離式元件, 電晶體 | IC設計, 晶圓代工, 封測 |
 | 6720 | 久昌 | TPEX | IC設計, 分離式元件, 電晶體 | IC設計, 散熱 |
 | 6732 | 昇佳電子 | TPEX | IC設計, MEMS, 感測元件 | OLED, IC設計, LED |
 | 6756 | 威鋒電子 | TWSE | IC設計, USB IC | IC設計, NVIDIA供應鏈 |
-| 6770 | 力積電 | TWSE | IC製造, 晶圓代工 | 記憶體, HBM, 晶圓代工, DRAM, 被動元件 |
+| 6770 | 力積電 | TWSE | IC製造, 晶圓代工 | 記憶體, 晶圓代工, 被動元件, NVIDIA供應鏈, Google供應鏈 |
 | 6786 | 芯測 | ESB | 半導體業 | 記憶體, NVIDIA供應鏈 |
 | 6788 | 華景電 | TPEX | 半導體製程設備, 設備儀器商 | — |
 | 6789 | 采鈺 | TWSE | IC封裝測試, IC測試, IC製造 | 光通訊, CPO, 車用電子, LED, 矽光子 |
@@ -185,18 +185,18 @@
 | 6962 | 奕力-KY | TWSE | IC設計, LCD驅動IC | IC設計, 面板 |
 | 6996 | 力領科技 | TPEX | IC設計, LCD驅動IC | 車用電子, 面板, IC設計 |
 | 7530 | 鋒魁科技 | ESB | 半導體業 | — |
-| 7556 | 意德士 | TPEX | 半導體製程設備, 設備儀器商 | CoWoS, 2nm, 先進封裝, 矽光子, CPO |
+| 7556 | 意德士 | TPEX | 半導體製程設備, 設備儀器商 | CoWoS, 2nm, 先進封裝, NVIDIA供應鏈 |
 | 7669 | 碩正科技 | ESB | 半導體業 | CoWoS, 先進封裝 |
-| 7704 | 明遠精密 | TPEX | 半導體製程設備, 設備儀器商 | 先進封裝, 面板 |
+| 7704 | 明遠精密 | TPEX | 半導體製程設備, 設備儀器商 | 先進封裝 |
 | 7707 | 益芯科 | ESB | 半導體業 | 矽光子, 伺服器, 記憶體 |
-| 7712 | 博盛半導體 | TPEX | 分離式元件, 電晶體 | 記憶體, AI伺服器, 車用電子, 伺服器 |
+| 7712 | 博盛半導體 | TPEX | 分離式元件, 電晶體 | 記憶體, AI伺服器, 伺服器 |
 | 7730 | 暉盛-創 | TWSE | PCB相關設備, 半導體製程設備, 封測用設備 | 面板, PCB, 封測 |
-| 7734 | 印能科技 | TPEX | 封測用設備, 設備儀器商 | 先進封裝, PLP, 散熱, 封測 |
+| 7734 | 印能科技 | TPEX | 封測用設備, 設備儀器商 | 先進封裝, PLP, 封測 |
 | 7749 | 意騰-KY | TWSE | ASIC, IC設計, 設計IP | IC設計 |
 | 7751 | 竑騰 | TPEX | 封測用設備, 設備儀器商 | 先進封裝, 散熱, 封測, NVIDIA供應鏈 |
-| 7768 | 頌勝科技 | ESB | 半導體業 | — |
-| 7769 | 鴻勁 | TWSE | 封測用設備, 設備儀器商 | 封測 |
-| 7770 | 君曜 | TPEX | IC設計, LCD驅動IC, 觸控IC | IC設計, Apple供應鏈 |
+| 7768 | 頌勝科技 | ESB | 半導體業 | 先進封裝 |
+| 7769 | 鴻勁 | TWSE | 封測用設備, 設備儀器商 | 矽光子, CPO, 封測 |
+| 7770 | 君曜 | TPEX | IC設計, LCD驅動IC, 觸控IC | IC設計 |
 | 7772 | 耀穎 | ESB | 半導體業 | CoWoS, 矽光子, CPO, 資料中心, Tesla供應鏈 |
 | 7796 | 擷發科 | ESB | 半導體業 | 液冷散熱 |
 | 7810 | 捷創科技 | TPEX | 半導體製程設備, 設備儀器商 | CoWoS, 先進封裝, 封測 |
@@ -216,7 +216,7 @@
 | 8016 | 矽創 | TWSE | CMOS晶片, IC設計, LCD驅動IC | OLED, IC設計, 面板, LED |
 | 8024 | 佑華 | TPEX | IC設計, MCU, 影音IC | IC設計 |
 | 8028 | 昇陽半導體 | TWSE | IC製造, 矽晶圓 | — |
-| 8040 | 九暘 | TPEX | IC設計, 無線網路IC, 網路通訊IC | 低軌衛星, IC設計 |
+| 8040 | 九暘 | TPEX | IC設計, 無線網路IC, 網路通訊IC | 低軌衛星, IC設計, 矽光子 |
 | 8054 | 安國 | TPEX | FLASH記憶體IC, IC設計, PC週邊IC | IC設計, 記憶體 |
 | 8081 | 致新 | TWSE | IC設計, LED驅動IC, 電源管理IC | IC設計, DDR5, 記憶體, LED |
 | 8086 | 宏捷科 | TPEX | IC製造, 化合物晶圓, 砷化鎵相關 | ADAS, GaAs, GaN, 車用電子, 記憶體 |
@@ -226,13 +226,13 @@
 | 8102 | 傑霖科技 | TPEX | IC設計, 影音IC | IC設計 |
 | 8110 | 華東 | TWSE | IC封裝, IC封裝測試, IC測試 | CoWoS, 封測, DRAM, NAND Flash, 記憶體 |
 | 8131 | 福懋科 | TWSE | DRAM模組, IC封裝, IC封裝測試 | CoWoS, DDR5, 先進封裝, 伺服器, 封測 |
-| 8150 | 南茂 | TWSE | IC封裝, IC封裝測試, IC測試 | CoWoS, 封測, 記憶體 |
+| 8150 | 南茂 | TWSE | IC封裝, IC封裝測試, IC測試 | CoWoS, IC設計, 封測, 記憶體 |
 | 8162 | 微矽電子-創 | TWSE | IC封裝測試, IC測試 | CoWoS, 先進封裝, 封測, GaN |
 | 8227 | 巨有科技 | TPEX | ASIC, IC設計 | 伺服器, IC設計 |
 | 8261 | 富鼎 | TWSE | 分離式元件, 電晶體 | AI伺服器, 伺服器, 資料中心, IC設計, 電源供應器 |
 | 8271 | 宇瞻 | TWSE | DRAM模組, FLASH模組, 記憶體模組 | DRAM, NAND Flash, 記憶體 |
 | 8277 | 商丞 | TPEX | 儲存設備, 磁碟陣列控制器, 記憶體模組 | DRAM, NAND Flash, 記憶體 |
-| 8299 | 群聯 | TPEX | FLASH模組, FLASH記憶體IC, IC設計 | IC設計, DRAM, NAND Flash, 記憶體, Google供應鏈 |
+| 8299 | 群聯 | TPEX | FLASH模組, FLASH記憶體IC, IC設計 | IC設計, DRAM, NAND Flash, 記憶體 |
 | 8383 | 千附 | TPEX | 其他產業機械, 半導體製程設備, 工程顧問 | 廠務工程 |
 
 ## 電子零組件業（226 檔）
@@ -243,9 +243,9 @@
 | 1471 | 首利 | TWSE | 機殼, 電子零件元件, 電源供應器 | AI伺服器, EV, 伺服器, 電源供應器, 低軌衛星 |
 | 1582 | 信錦 | TWSE | 樞紐, 電子零件元件 | 低軌衛星, 伺服器 |
 | 1595 | 川寶 | TPEX | PCB相關設備, 半導體製程設備, 設備儀器商 | AI伺服器, 先進封裝, 伺服器, PCB |
-| 1815 | 富喬 | TPEX | 印刷電路板相關, 玻纖布 | PCB, 低軌衛星, AI伺服器, 伺服器 |
+| 1815 | 富喬 | TPEX | 印刷電路板相關, 玻纖布 | CoWoS, 先進封裝, PCB |
 | 2059 | 川湖 | TWSE | 其他電子零件, 電子零件元件 | AI伺服器, 伺服器 |
-| 2308 | 台達電 | TWSE | INTERNET技術與基礎設施, LED, LED照明產品 | 先進封裝, 記憶體, CPO, 車用電子, 散熱 |
+| 2308 | 台達電 | TWSE | INTERNET技術與基礎設施, LED, LED照明產品 | 先進封裝, 記憶體, 車用電子, 散熱, 被動元件 |
 | 2313 | 華通 | TWSE | 印刷電路板, 印刷電路板相關, 軟板 | 低軌衛星, 伺服器, PCB, HDI, FPC |
 | 2316 | 楠梓電 | TWSE | 印刷電路板, 印刷電路板相關, 電子製造服務 | ABF載板, 伺服器, PCB, 封測, NVIDIA供應鏈 |
 | 2327 | 國巨* | TWSE | MLCC, 晶片電阻, 被動元件 | EV, 被動元件, MLCC |

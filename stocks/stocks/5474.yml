@@ -1,0 +1,12 @@
+code: '5474'
+name: 聰泰
+market: TPEX
+sector: 電腦及週邊設備業
+themes:
+- 消費性電子產品
+- 視訊轉換相關
+tags:
+  tech: []
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

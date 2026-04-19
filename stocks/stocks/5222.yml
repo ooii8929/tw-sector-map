@@ -1,0 +1,17 @@
+code: '5222'
+name: 全訊
+market: TWSE
+sector: 半導體業
+themes:
+- IC製造
+- 功率放大器
+- 射頻前端晶片
+- 砷化鎵相關
+tags:
+  tech:
+  - IC設計
+  - PA功率放大器
+  - 射頻
+  - GaAs
+  supply: []
+last_enriched: '2026-04-17'

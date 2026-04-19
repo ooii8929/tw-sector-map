@@ -1,0 +1,16 @@
+code: '6217'
+name: 中探針
+market: TPEX
+sector: 電子零組件業
+themes:
+- 封測服務與材料
+- 探針、探針卡
+tags:
+  tech:
+  - AI伺服器
+  - 伺服器
+  - PCB
+  - 連接器
+  - 封測
+  supply: []
+last_enriched: '2026-04-17'

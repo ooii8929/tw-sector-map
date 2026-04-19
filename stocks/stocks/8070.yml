@@ -1,0 +1,20 @@
+code: '8070'
+name: 長華*
+market: TWSE
+sector: 電子通路業
+themes:
+- 半導體材料通路商
+- 封測服務與材料
+- 導線架
+- 電子通路
+tags:
+  tech:
+  - 先進封裝
+  - 車用電子
+  - 散熱
+  - 封測
+  - AI伺服器
+  - 伺服器
+  - 記憶體
+  supply: []
+last_enriched: '2026-04-17'

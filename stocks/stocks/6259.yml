@@ -1,0 +1,18 @@
+code: '6259'
+name: 百徽
+market: TPEX
+sector: 電子零組件業
+themes:
+- 分離式元件
+- 磁性元件
+- 被動元件
+- 電子元件代理商
+- 電子通路
+- 電子零件元件
+- 電感
+- 電晶體
+tags:
+  tech:
+  - 被動元件
+  supply: []
+last_enriched: '2026-04-17'

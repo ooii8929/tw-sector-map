@@ -15,11 +15,10 @@ themes:
 - 類比IC
 tags:
   tech:
-  - ADAS
-  - 車用電子
   - IC設計
-  - 記憶體
   - AI伺服器
   - 伺服器
+  - 封測
+  - 記憶體
   supply: []
-last_enriched: '2026-04-17'
+last_enriched: '2026-04-19'

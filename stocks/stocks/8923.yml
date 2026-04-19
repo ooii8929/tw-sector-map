@@ -1,0 +1,12 @@
+code: '8923'
+name: 時報
+market: TPEX
+sector: 文化創意業
+themes:
+- 傳播事業
+- 出版業
+tags:
+  tech:
+  - 出版
+  supply: []
+last_enriched: '2026-04-17'

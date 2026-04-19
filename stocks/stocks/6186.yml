@@ -1,0 +1,12 @@
+code: '6186'
+name: 新潤
+market: TPEX
+sector: 建材營造業
+themes:
+- 地產
+- 營建
+tags:
+  tech:
+  - 伺服器
+  supply: []
+last_enriched: '2026-04-17'

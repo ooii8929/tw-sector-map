@@ -1,0 +1,21 @@
+code: '3714'
+name: 富采
+market: TWSE
+sector: 光電業
+themes:
+- LED
+- LED封裝
+- LED晶粒
+- LED照明產品
+- LED磊晶
+- 控股公司
+tags:
+  tech:
+  - 光通訊
+  - CPO
+  - InP
+  - Micro LED
+  - LED
+  supply:
+  - 微軟供應鏈
+last_enriched: '2026-04-17'

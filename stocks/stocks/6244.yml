@@ -1,0 +1,16 @@
+code: '6244'
+name: 茂迪
+market: TPEX
+sector: 光電業
+themes:
+- 太陽能
+- 太陽能電池
+- 太陽能電池模組
+tags:
+  tech:
+  - 太陽能
+  - 低軌衛星
+  - 先進封裝
+  - 電池
+  supply: []
+last_enriched: '2026-04-17'

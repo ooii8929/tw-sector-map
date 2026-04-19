@@ -1,0 +1,18 @@
+code: '3694'
+name: 海華
+market: TWSE
+sector: 通信網路業
+themes:
+- 光學元件
+- 光學鏡片／頭
+- 網通設備
+- 通訊設備零組件
+tags:
+  tech:
+  - CPO
+  - AI伺服器
+  - 伺服器
+  - 光纖
+  - WiFi
+  supply: []
+last_enriched: '2026-04-17'

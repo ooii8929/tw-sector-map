@@ -13,10 +13,7 @@ tags:
   - 低軌衛星
   - PA功率放大器
   - GaAs
-  - TPU
   - 800G
   - 1.6T
-  supply:
-  - Google供應鏈
-  - Lumentum供應鏈
-last_enriched: '2026-04-17'
+  supply: []
+last_enriched: '2026-04-18'

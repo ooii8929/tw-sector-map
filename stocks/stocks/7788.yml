@@ -1,0 +1,16 @@
+code: '7788'
+name: 松川精密
+market: TWSE
+sector: 電子零組件業
+themes:
+- 電力設備
+- 電氣零件與設備
+tags:
+  tech:
+  - EV
+  - 儲能
+  - AI伺服器
+  - 伺服器
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

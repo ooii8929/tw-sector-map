@@ -15,8 +15,8 @@ tags:
   - OLED
   - 封測
   - LED
-  - 矽光子
   - 記憶體
   - 面板
-  supply: []
-last_enriched: '2026-04-17'
+  supply:
+  - Apple供應鏈
+last_enriched: '2026-04-19'

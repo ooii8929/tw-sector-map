@@ -1,0 +1,11 @@
+code: '8234'
+name: 新漢
+market: TPEX
+sector: 電腦及週邊設備業
+themes:
+- 工業電腦
+tags:
+  tech:
+  - 工業電腦
+  supply: []
+last_enriched: '2026-04-17'

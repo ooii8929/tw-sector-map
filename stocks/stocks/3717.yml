@@ -1,0 +1,13 @@
+code: '3717'
+name: 聯嘉投控
+market: TWSE
+sector: 汽車工業
+themes:
+- LED
+- LED封裝
+tags:
+  tech:
+  - 車用電子
+  - LED
+  supply: []
+last_enriched: '2026-04-17'

@@ -1,0 +1,18 @@
+code: '6432'
+name: 今展科
+market: TPEX
+sector: 電子零組件業
+themes:
+- IC零組件通路商
+- 壓敏電阻
+- 被動元件
+- 電子通路
+- 電感
+tags:
+  tech:
+  - 車用電子
+  - 被動元件
+  - AI伺服器
+  - 伺服器
+  supply: []
+last_enriched: '2026-04-17'

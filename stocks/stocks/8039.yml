@@ -1,0 +1,16 @@
+code: '8039'
+name: 台虹
+market: TWSE
+sector: 電子零組件業
+themes:
+- 印刷電路板相關
+- 軟板基板
+tags:
+  tech:
+  - AI伺服器
+  - 伺服器
+  - PCB
+  - FPC
+  - 先進封裝
+  supply: []
+last_enriched: '2026-04-17'

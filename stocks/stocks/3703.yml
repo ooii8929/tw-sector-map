@@ -1,0 +1,19 @@
+code: '3703'
+name: 欣陸
+market: TWSE
+sector: 建材營造業
+themes:
+- 住宅建設
+- 地產
+- 基礎建設
+- 控股公司
+- 營建
+- 營造工程
+- 環保工程
+tags:
+  tech:
+  - 建設
+  - 營建
+  - 環保
+  supply: []
+last_enriched: '2026-04-17'

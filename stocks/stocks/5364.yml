@@ -1,0 +1,18 @@
+code: '5364'
+name: 力麗店
+market: TPEX
+sector: 觀光餐旅
+themes:
+- 太陽能
+- 太陽能電池
+- 旅宿／餐飲
+- 消費用電池
+- 電池
+- 飯店
+tags:
+  tech:
+  - 儲能
+  - 太陽能
+  - 電池
+  supply: []
+last_enriched: '2026-04-17'

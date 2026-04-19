@@ -1,0 +1,12 @@
+code: '4441'
+name: 振大環球
+market: TWSE
+sector: 紡織纖維
+themes:
+- 成衣
+- 成衣製造
+tags:
+  tech:
+  - 成衣
+  supply: []
+last_enriched: '2026-04-17'

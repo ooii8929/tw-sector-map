@@ -1,0 +1,21 @@
+code: '8011'
+name: 台通
+market: TWSE
+sector: 通信網路業
+themes:
+- 光纖光纜
+- 光纖被動元件
+- 光通訊
+- 通訊服務
+tags:
+  tech:
+  - 光通訊
+  - CPO
+  - AI伺服器
+  - 伺服器
+  - 資料中心
+  - 矽光子
+  - 光纖
+  - 被動元件
+  supply: []
+last_enriched: '2026-04-17'

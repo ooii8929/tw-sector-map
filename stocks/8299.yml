@@ -20,6 +20,5 @@ tags:
   - DRAM
   - NAND Flash
   - 記憶體
-  supply:
-  - Google供應鏈
-last_enriched: '2026-04-17'
+  supply: []
+last_enriched: '2026-04-19'

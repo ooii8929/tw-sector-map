@@ -1,0 +1,12 @@
+code: '6885'
+name: 全福生技
+market: TWSE
+sector: 生技醫療業
+themes:
+- 新藥研發
+- 醫藥產業
+tags:
+  tech:
+  - 新藥研發
+  supply: []
+last_enriched: '2026-04-17'

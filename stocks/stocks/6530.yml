@@ -1,0 +1,16 @@
+code: '6530'
+name: 創威
+market: TPEX
+sector: 通信網路業
+themes:
+- 光纖主動元件
+- 光通訊
+tags:
+  tech:
+  - 光通訊
+  - CPO
+  - 資料中心
+  - 矽光子
+  - 光纖
+  supply: []
+last_enriched: '2026-04-17'

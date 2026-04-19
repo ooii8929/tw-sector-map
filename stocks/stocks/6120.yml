@@ -1,0 +1,16 @@
+code: '6120'
+name: 達運
+market: TWSE
+sector: 光電業
+themes:
+- LCM
+- 背光模組
+- 面板業
+- 面板零組件
+tags:
+  tech:
+  - 面板
+  - Micro LED
+  - LED
+  supply: []
+last_enriched: '2026-04-17'

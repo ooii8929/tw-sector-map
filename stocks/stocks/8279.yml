@@ -1,0 +1,12 @@
+code: '8279'
+name: 生展
+market: TPEX
+sector: 生技醫療業
+themes:
+- 生物科技
+- 食品生技
+tags:
+  tech:
+  - 食品
+  supply: []
+last_enriched: '2026-04-17'

@@ -1,0 +1,16 @@
+code: '3264'
+name: 欣銓
+market: TPEX
+sector: 半導體業
+themes:
+- IC封裝測試
+- IC測試
+tags:
+  tech:
+  - CoWoS
+  - ADAS
+  - 車用電子
+  - 封測
+  - 記憶體
+  supply: []
+last_enriched: '2026-04-17'

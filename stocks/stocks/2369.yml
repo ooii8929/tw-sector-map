@@ -1,0 +1,16 @@
+code: '2369'
+name: 菱生
+market: TWSE
+sector: 半導體業
+themes:
+- IC封裝
+- IC封裝測試
+- IC測試
+tags:
+  tech:
+  - CoWoS
+  - 封測
+  - 記憶體
+  - 先進封裝
+  supply: []
+last_enriched: '2026-04-17'

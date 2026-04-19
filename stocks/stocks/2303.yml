@@ -1,0 +1,15 @@
+code: '2303'
+name: 聯電
+market: TWSE
+sector: 半導體業
+themes:
+- IC製造
+- 晶圓代工
+tags:
+  tech:
+  - 矽光子
+  - 光通訊
+  - 記憶體
+  - 晶圓代工
+  supply: []
+last_enriched: '2026-04-17'

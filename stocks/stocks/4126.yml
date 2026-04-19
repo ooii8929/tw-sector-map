@@ -1,0 +1,12 @@
+code: '4126'
+name: 太醫
+market: TPEX
+sector: 生技醫療業
+themes:
+- 其他醫療器材
+- 醫療耗材
+tags:
+  tech:
+  - 醫療器材
+  supply: []
+last_enriched: '2026-04-17'

@@ -1,0 +1,19 @@
+code: '6223'
+name: 旺矽
+market: TPEX
+sector: 半導體業
+themes:
+- LED設備
+- 封測服務與材料
+- 探針、探針卡
+- 設備儀器商
+tags:
+  tech:
+  - CoWoS
+  - 先進封裝
+  - 封測
+  - 矽光子
+  - LED
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

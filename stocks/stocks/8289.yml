@@ -1,0 +1,15 @@
+code: '8289'
+name: 泰藝
+market: TPEX
+sector: 電子零組件業
+themes:
+- 振盪器
+- 被動元件
+tags:
+  tech:
+  - 低軌衛星
+  - 車用電子
+  - 被動元件
+  - 石英振盪器
+  supply: []
+last_enriched: '2026-04-17'

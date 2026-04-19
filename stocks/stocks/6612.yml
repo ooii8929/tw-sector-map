@@ -1,0 +1,12 @@
+code: '6612'
+name: 奈米醫材
+market: TPEX
+sector: 生技醫療業
+themes:
+- 輔助與彌補用醫材
+- 醫用植入材料
+tags:
+  tech:
+  - 醫材
+  supply: []
+last_enriched: '2026-04-17'

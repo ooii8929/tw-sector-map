@@ -1,0 +1,14 @@
+code: '8927'
+name: 北基
+market: TPEX
+sector: 油電燃氣業
+themes:
+- 其他公用事業
+- 加油站
+- 地產
+- 營建
+tags:
+  tech:
+  - 營建
+  supply: []
+last_enriched: '2026-04-17'

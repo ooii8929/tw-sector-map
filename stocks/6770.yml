@@ -8,12 +8,10 @@ themes:
 tags:
   tech:
   - 記憶體
-  - HBM
   - 晶圓代工
-  - DRAM
   - 被動元件
   supply:
   - NVIDIA供應鏈
   - Google供應鏈
   - Meta供應鏈
-last_enriched: '2026-04-17'
+last_enriched: '2026-04-19'

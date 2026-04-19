@@ -1,0 +1,14 @@
+code: '6209'
+name: 今國光
+market: TWSE
+sector: 光電業
+themes:
+- 光學元件
+- 光學鏡片／頭
+tags:
+  tech:
+  - 光學鏡頭
+  - 矽光子
+  - CPO
+  supply: []
+last_enriched: '2026-04-17'

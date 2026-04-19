@@ -1,0 +1,18 @@
+code: '5543'
+name: 桓鼎-KY
+market: TPEX
+sector: 建材營造業
+themes:
+- 其他營造工程
+- 工業用電池
+- 建材
+- 消費用電池
+- 營造工程
+- 金屬建材
+- 電池
+tags:
+  tech:
+  - EV
+  - 電池
+  supply: []
+last_enriched: '2026-04-17'

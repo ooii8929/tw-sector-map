@@ -1,0 +1,15 @@
+code: '5302'
+name: 太欣
+market: TPEX
+sector: 半導體業
+themes:
+- DSP
+- IC設計
+- MCU
+- 影音IC
+- 消費性IC
+tags:
+  tech:
+  - IC設計
+  supply: []
+last_enriched: '2026-04-17'

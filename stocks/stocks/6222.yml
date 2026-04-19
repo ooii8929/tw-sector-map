@@ -1,0 +1,14 @@
+code: '6222'
+name: 立軒
+market: TPEX
+sector: 光電業
+themes:
+- 住宅建設
+- 營造工程
+tags:
+  tech:
+  - Micro LED
+  - 車用電子
+  - LED
+  supply: []
+last_enriched: '2026-04-17'

@@ -1,0 +1,14 @@
+code: '8210'
+name: 勤誠
+market: TWSE
+sector: 電腦及週邊設備業
+themes:
+- 伺服器機殼
+- 電子零件元件
+tags:
+  tech:
+  - AI伺服器
+  - 伺服器
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

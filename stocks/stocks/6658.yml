@@ -1,0 +1,18 @@
+code: '6658'
+name: 聯策
+market: TWSE
+sector: 其他電子業
+themes:
+- PCB相關設備
+- 設備儀器商
+tags:
+  tech:
+  - CPO
+  - AI伺服器
+  - 先進封裝
+  - 伺服器
+  - PCB
+  - PLP
+  - 面板
+  supply: []
+last_enriched: '2026-04-17'

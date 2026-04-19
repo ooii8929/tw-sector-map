@@ -1,0 +1,21 @@
+code: '6202'
+name: 盛群
+market: TWSE
+sector: 半導體業
+themes:
+- IC設計
+- MCU
+- PC週邊IC
+- 安全監控IC
+- 消費性IC
+- 生物辨識IC
+tags:
+  tech:
+  - ADAS
+  - 車用電子
+  - IC設計
+  - 記憶體
+  - 射頻
+  supply:
+  - Apple供應鏈
+last_enriched: '2026-04-17'

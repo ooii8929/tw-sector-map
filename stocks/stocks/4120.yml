@@ -1,0 +1,16 @@
+code: '4120'
+name: 友華
+market: TPEX
+sector: 生技醫療業
+themes:
+- 學名藥
+- 生物科技
+- 西藥製劑
+- 醫藥流通
+- 醫藥產業
+- 食品生技
+tags:
+  tech:
+  - 新藥研發
+  supply: []
+last_enriched: '2026-04-17'

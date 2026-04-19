@@ -1,0 +1,11 @@
+code: '8107'
+name: 大億金茂
+market: TPEX
+sector: 電機機械
+themes:
+- 汽機車零組件
+tags:
+  tech: []
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

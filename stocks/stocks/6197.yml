@@ -1,0 +1,19 @@
+code: '6197'
+name: 佳必琪
+market: TWSE
+sector: 電子零組件業
+themes:
+- 連接器
+- 電子零件元件
+tags:
+  tech:
+  - 矽光子
+  - CPO
+  - AI伺服器
+  - 伺服器
+  - 光通訊
+  - 1.6T
+  - 連接器
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

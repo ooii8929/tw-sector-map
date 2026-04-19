@@ -1,0 +1,17 @@
+code: '6449'
+name: 鈺邦
+market: TWSE
+sector: 電子零組件業
+themes:
+- 被動元件
+- 鋁質電解電容
+tags:
+  tech:
+  - MLCC
+  - EV
+  - 車用電子
+  - 被動元件
+  - AI伺服器
+  - 伺服器
+  supply: []
+last_enriched: '2026-04-17'

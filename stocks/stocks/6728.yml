@@ -1,0 +1,14 @@
+code: '6728'
+name: 上洋
+market: TPEX
+sector: 居家生活
+themes:
+- 家電
+- 服務業
+- 消費者服務
+- 電器銷售
+tags:
+  tech:
+  - 家電
+  supply: []
+last_enriched: '2026-04-17'

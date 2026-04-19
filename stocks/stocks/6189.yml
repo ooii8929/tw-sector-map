@@ -1,0 +1,14 @@
+code: '6189'
+name: 豐藝
+market: TWSE
+sector: 電子通路業
+themes:
+- IC零組件通路商
+- 電子元件代理商
+- 電子通路
+- 顯示器
+tags:
+  tech:
+  - 電子通路
+  supply: []
+last_enriched: '2026-04-17'

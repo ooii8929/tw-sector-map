@@ -1,0 +1,13 @@
+code: '5876'
+name: 上海商銀
+market: TWSE
+sector: 金融保險業
+themes:
+- 金融業
+- 銀行
+tags:
+  tech:
+  - AI伺服器
+  - 伺服器
+  supply: []
+last_enriched: '2026-04-17'

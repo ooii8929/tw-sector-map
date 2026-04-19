@@ -1,0 +1,17 @@
+code: '8064'
+name: 東捷
+market: TPEX
+sector: 光電業
+themes:
+- LED設備
+- 設備儀器商
+- 面板設備
+tags:
+  tech:
+  - 先進封裝
+  - PLP
+  - Micro LED
+  - LED
+  - 面板
+  supply: []
+last_enriched: '2026-04-17'

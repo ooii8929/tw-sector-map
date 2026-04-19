@@ -1,0 +1,12 @@
+code: '4506'
+name: 崇友
+market: TPEX
+sector: 電機機械
+themes:
+- 建材
+- 電梯
+tags:
+  tech:
+  - 電梯
+  supply: []
+last_enriched: '2026-04-17'

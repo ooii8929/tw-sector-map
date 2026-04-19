@@ -1,0 +1,11 @@
+code: '8409'
+name: 商之器
+market: TPEX
+sector: 生技醫療業
+themes:
+- 智慧醫療技術
+tags:
+  tech: []
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

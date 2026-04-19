@@ -1,0 +1,15 @@
+code: '6124'
+name: 業強
+market: TPEX
+sector: 電子零組件業
+themes:
+- 散熱模組
+- 熱導管
+tags:
+  tech:
+  - AI伺服器
+  - 伺服器
+  - 散熱
+  - 液冷散熱
+  supply: []
+last_enriched: '2026-04-17'

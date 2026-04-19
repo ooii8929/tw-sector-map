@@ -1,0 +1,18 @@
+code: '6187'
+name: 萬潤
+market: TPEX
+sector: 半導體業
+themes:
+- 封測用設備
+- 設備儀器商
+tags:
+  tech:
+  - CoWoS
+  - 2nm
+  - CPO
+  - 先進封裝
+  - 記憶體
+  - 封測
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

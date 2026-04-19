@@ -1,0 +1,13 @@
+code: '6593'
+name: 台灣銘板
+market: TPEX
+sector: 資訊服務業
+themes:
+- 傳產其他
+- 智慧卡相關
+- 電子其他
+tags:
+  tech:
+  - IC載板
+  supply: []
+last_enriched: '2026-04-17'

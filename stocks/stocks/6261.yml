@@ -1,0 +1,19 @@
+code: '6261'
+name: 久元
+market: TPEX
+sector: 半導體業
+themes:
+- IC封裝測試
+- IC測試
+- 封測用設備
+- 設備儀器商
+tags:
+  tech:
+  - CoWoS
+  - 先進封裝
+  - 封測
+  - 面板
+  - LED
+  - 光纖
+  supply: []
+last_enriched: '2026-04-17'

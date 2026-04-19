@@ -1,0 +1,16 @@
+code: '4736'
+name: 泰博
+market: TWSE
+sector: 生技醫療業
+themes:
+- 檢驗試劑／紙
+- 生理監測裝置
+- 血糖儀
+- 診斷與監測用醫材
+- 體外診斷用醫材
+- 體溫計
+tags:
+  tech: []
+  supply:
+  - 博通供應鏈
+last_enriched: '2026-04-17'

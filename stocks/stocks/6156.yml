@@ -1,0 +1,17 @@
+code: '6156'
+name: 松上
+market: TPEX
+sector: 電子零組件業
+themes:
+- 印刷電路板
+- 印刷電路板相關
+- 變壓器
+- 電子零件元件
+tags:
+  tech:
+  - ABF載板
+  - AI伺服器
+  - 伺服器
+  - PCB
+  supply: []
+last_enriched: '2026-04-17'

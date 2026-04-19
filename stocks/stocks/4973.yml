@@ -1,0 +1,17 @@
+code: '4973'
+name: 廣穎
+market: TPEX
+sector: 半導體業
+themes:
+- DRAM模組
+- FLASH模組
+- 記憶體模組
+- 電子零件元件
+tags:
+  tech:
+  - IC設計
+  - DRAM
+  - NAND Flash
+  - 記憶體
+  supply: []
+last_enriched: '2026-04-17'

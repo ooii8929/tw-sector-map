@@ -1,0 +1,16 @@
+code: '3443'
+name: 創意
+market: TWSE
+sector: 半導體業
+themes:
+- ASIC
+- IC設計
+- 設計IP
+tags:
+  tech:
+  - HBM
+  - 車用電子
+  - IC設計
+  supply:
+  - Tesla供應鏈
+last_enriched: '2026-04-17'

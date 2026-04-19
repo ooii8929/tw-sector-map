@@ -1,0 +1,14 @@
+code: '5202'
+name: 力新
+market: TPEX
+sector: 資訊服務業
+themes:
+- 套裝軟體
+- 軟體業
+- 醫療器材通路
+- 醫藥流通
+tags:
+  tech: []
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

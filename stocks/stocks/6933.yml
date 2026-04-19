@@ -1,0 +1,17 @@
+code: '6933'
+name: AMAX-KY
+market: TWSE
+sector: 電腦及週邊設備業
+themes:
+- 伺服器
+- 系統整合
+- 軟體業
+- 電腦系統業
+tags:
+  tech:
+  - AI伺服器
+  - 伺服器
+  - 液冷散熱
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-17'

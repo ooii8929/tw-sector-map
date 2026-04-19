@@ -1,0 +1,12 @@
+code: '5601'
+name: 台聯櫃
+market: TPEX
+sector: 航運業
+themes:
+- 貨櫃場服務
+- 運輸事業
+tags:
+  tech:
+  - 貨櫃航運
+  supply: []
+last_enriched: '2026-04-17'

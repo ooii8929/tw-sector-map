@@ -1,0 +1,23 @@
+code: '6442'
+name: 光聖
+market: TWSE
+sector: 通信網路業
+themes:
+- 光纖主動元件
+- 光纖被動元件
+- 光通訊
+- 連接器
+- 電子零件元件
+tags:
+  tech:
+  - 矽光子
+  - 光通訊
+  - CPO
+  - AI伺服器
+  - 伺服器
+  - 資料中心
+  - 被動元件
+  - 連接器
+  - 光纖
+  supply: []
+last_enriched: '2026-04-17'

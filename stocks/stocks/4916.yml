@@ -1,0 +1,14 @@
+code: '4916'
+name: 事欣科
+market: TWSE
+sector: 電腦及週邊設備業
+themes:
+- 博奕機台
+- 工業電腦
+- 航天機械零組件
+- 航天軍工
+tags:
+  tech:
+  - 低軌衛星
+  supply: []
+last_enriched: '2026-04-17'

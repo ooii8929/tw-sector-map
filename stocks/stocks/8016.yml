@@ -1,0 +1,21 @@
+code: '8016'
+name: 矽創
+market: TWSE
+sector: 半導體業
+themes:
+- CMOS晶片
+- IC設計
+- LCD驅動IC
+- MEMS
+- 感測元件
+- 手機零組件
+- 手機面板驅動IC
+- 觸控IC
+tags:
+  tech:
+  - OLED
+  - IC設計
+  - 面板
+  - LED
+  supply: []
+last_enriched: '2026-04-17'

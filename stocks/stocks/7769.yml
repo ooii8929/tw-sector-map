@@ -1,0 +1,12 @@
+code: '7769'
+name: 鴻勁
+market: TWSE
+sector: 半導體業
+themes:
+- 封測用設備
+- 設備儀器商
+tags:
+  tech:
+  - 封測
+  supply: []
+last_enriched: '2026-04-17'

@@ -1,0 +1,12 @@
+code: '6804'
+name: 明係
+market: TPEX
+sector: 運動休閒
+themes:
+- 自行車
+- 車輛整車
+tags:
+  tech:
+  - 自行車
+  supply: []
+last_enriched: '2026-04-17'

@@ -1,0 +1,14 @@
+code: '8099'
+name: 大世科
+market: TPEX
+sector: 資訊服務業
+themes:
+- INTERNET技術與基礎設施
+- 系統整合
+- 軟體業
+- 雲端科技
+tags:
+  tech:
+  - 資料中心
+  supply: []
+last_enriched: '2026-04-17'

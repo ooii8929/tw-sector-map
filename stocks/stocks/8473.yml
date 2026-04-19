@@ -1,0 +1,17 @@
+code: '8473'
+name: 山林水
+market: TWSE
+sector: 綠能環保
+themes:
+- 傳產其他
+- 回收焚化／掩埋清運
+- 水資源
+- 污水處理
+- 海水淡化
+- 營造工程
+- 環保工程
+tags:
+  tech:
+  - 風電
+  supply: []
+last_enriched: '2026-04-17'

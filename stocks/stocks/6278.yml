@@ -1,0 +1,23 @@
+code: '6278'
+name: 台表科
+market: TWSE
+sector: 光電業
+themes:
+- LED
+- LED照明產品
+- 電子製造服務
+- 電腦系統業
+tags:
+  tech:
+  - ABF載板
+  - AI伺服器
+  - 車用電子
+  - 伺服器
+  - PCB
+  - 記憶體
+  - CPO
+  - DRAM
+  - 面板
+  - LED
+  supply: []
+last_enriched: '2026-04-17'

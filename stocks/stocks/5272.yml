@@ -1,0 +1,12 @@
+code: '5272'
+name: 笙科
+market: TPEX
+sector: 半導體業
+themes:
+- IC設計
+- 無線網路IC
+tags:
+  tech:
+  - IC設計
+  supply: []
+last_enriched: '2026-04-17'

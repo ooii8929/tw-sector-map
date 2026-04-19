@@ -1,0 +1,13 @@
+code: '6642'
+name: 富致
+market: TPEX
+sector: 電子零組件業
+themes:
+- 熱敏電阻
+- 被動元件
+tags:
+  tech:
+  - 車用電子
+  - 被動元件
+  supply: []
+last_enriched: '2026-04-17'

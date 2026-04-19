@@ -1,0 +1,15 @@
+code: '6546'
+name: 正基
+market: TPEX
+sector: 通信網路業
+themes:
+- 網通設備
+- 通訊設備零組件
+tags:
+  tech:
+  - CPO
+  - 5G
+  - AI伺服器
+  - 伺服器
+  supply: []
+last_enriched: '2026-04-17'

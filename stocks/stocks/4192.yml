@@ -1,0 +1,15 @@
+code: '4192'
+name: 杏國
+market: TPEX
+sector: 生技醫療業
+themes:
+- 新藥研發
+- 植物新藥
+- 生物科技
+- 醫藥產業
+- 食品生技
+tags:
+  tech:
+  - 新藥研發
+  supply: []
+last_enriched: '2026-04-17'

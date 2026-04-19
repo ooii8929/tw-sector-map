@@ -1,0 +1,13 @@
+code: '5608'
+name: 四維航
+market: TWSE
+sector: 航運業
+themes:
+- 散裝航運
+- 運輸事業
+tags:
+  tech:
+  - 航運
+  - 散裝航運
+  supply: []
+last_enriched: '2026-04-17'

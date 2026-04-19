@@ -1,0 +1,14 @@
+code: '5283'
+name: 禾聯碩
+market: TWSE
+sector: 電器電纜
+themes:
+- LCD顯示器
+- 冷氣機
+- 家電
+- 顯示器
+tags:
+  tech:
+  - 家電
+  supply: []
+last_enriched: '2026-04-17'

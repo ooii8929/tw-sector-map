@@ -19,9 +19,13 @@ themes:
 - 衛星導航晶片組
 tags:
   tech:
+  - CoWoS
   - 矽光子
+  - 先進封裝
   - IC設計
+  - 記憶體
   supply:
   - Apple供應鏈
+  - 博通供應鏈
   - Google供應鏈
-last_enriched: '2026-04-17'
+last_enriched: '2026-04-18'

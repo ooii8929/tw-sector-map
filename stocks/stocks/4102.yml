@@ -1,0 +1,15 @@
+code: '4102'
+name: 永日
+market: TPEX
+sector: 生技醫療業
+themes:
+- 原料藥
+- 生技特用化學品
+- 生物科技
+- 醫藥產業
+tags:
+  tech:
+  - CDMO
+  - 新藥研發
+  supply: []
+last_enriched: '2026-04-17'

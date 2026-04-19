@@ -1,0 +1,16 @@
+code: '3684'
+name: 榮昌
+market: TPEX
+sector: 通信網路業
+themes:
+- 無線網路設備系統(WLAN)
+- 網通設備
+- 連接線材
+- 電子零件元件
+tags:
+  tech:
+  - 光通訊
+  - CPO
+  - 低軌衛星
+  supply: []
+last_enriched: '2026-04-17'

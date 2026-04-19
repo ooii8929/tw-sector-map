@@ -1,0 +1,16 @@
+code: '6831'
+name: 邁科
+market: TWSE
+sector: 電腦及週邊設備業
+themes:
+- 伺服器用散熱模組
+- 其他散熱零件
+- 散熱模組
+tags:
+  tech:
+  - AI伺服器
+  - 伺服器
+  - 散熱
+  - 液冷散熱
+  supply: []
+last_enriched: '2026-04-17'

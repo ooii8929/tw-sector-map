@@ -1,0 +1,15 @@
+code: '6290'
+name: 良維
+market: TPEX
+sector: 電子零組件業
+themes:
+- 連接線材
+- 電子零件元件
+tags:
+  tech:
+  - AI伺服器
+  - 伺服器
+  supply:
+  - NVIDIA供應鏈
+  - 微軟供應鏈
+last_enriched: '2026-04-17'

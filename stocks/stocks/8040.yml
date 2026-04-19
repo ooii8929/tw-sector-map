@@ -1,0 +1,14 @@
+code: '8040'
+name: 九暘
+market: TPEX
+sector: 半導體業
+themes:
+- IC設計
+- 無線網路IC
+- 網路通訊IC
+tags:
+  tech:
+  - 低軌衛星
+  - IC設計
+  supply: []
+last_enriched: '2026-04-17'

@@ -1,0 +1,17 @@
+code: '4581'
+name: 光隆精密-KY
+market: TWSE
+sector: 汽車工業
+themes:
+- 傳動系統
+- 剎車系統
+- 引擎相關
+- 汽機車零組件
+- 車用排氣系統
+- 車用金屬成型
+- 車用鑄件
+tags:
+  tech:
+  - 車用電子
+  supply: []
+last_enriched: '2026-04-17'

@@ -10,7 +10,10 @@ tags:
   - HBM
   - 記憶體
   - 被動元件
-  - DRAM
+  - EV
+  - 晶圓代工
   supply:
   - NVIDIA供應鏈
-last_enriched: '2026-04-17'
+  - AMD供應鏈
+  - 三星供應鏈
+last_enriched: '2026-04-19'

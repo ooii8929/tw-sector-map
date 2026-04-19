@@ -1,0 +1,16 @@
+code: '6415'
+name: 矽力*-KY
+market: TWSE
+sector: 半導體業
+themes:
+- IC設計
+- LED驅動IC
+- 電源管理IC
+tags:
+  tech:
+  - 車用電子
+  - 資料中心
+  - IC設計
+  - LED
+  supply: []
+last_enriched: '2026-04-17'

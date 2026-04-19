@@ -1,0 +1,16 @@
+code: '6153'
+name: 嘉聯益
+market: TWSE
+sector: 電子零組件業
+themes:
+- 印刷電路板相關
+- 軟板
+tags:
+  tech:
+  - ABF載板
+  - AI伺服器
+  - 伺服器
+  - PCB
+  - FPC
+  supply: []
+last_enriched: '2026-04-17'

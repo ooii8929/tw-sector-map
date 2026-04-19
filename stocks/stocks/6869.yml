@@ -1,0 +1,18 @@
+code: '6869'
+name: 雲豹能源
+market: TWSE
+sector: 綠能環保
+themes:
+- 太陽能
+- 太陽能發電
+- 太陽能系統運用
+- 水資源
+- 污水處理
+- 電力
+- 電力公共事業
+tags:
+  tech:
+  - 太陽能
+  - 儲能
+  supply: []
+last_enriched: '2026-04-17'

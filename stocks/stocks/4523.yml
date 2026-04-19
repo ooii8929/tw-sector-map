@@ -1,0 +1,21 @@
+code: '4523'
+name: 永彰
+market: TPEX
+sector: 電機機械
+themes:
+- 汽機車零組件
+- 汽車內裝
+- 汽車空調
+- 車用冷卻系統
+- 電力設備
+- 電機
+- 電氣開關設備
+tags:
+  tech:
+  - ADAS
+  - 車用電子
+  - 封測
+  - 記憶體
+  - 散熱
+  supply: []
+last_enriched: '2026-04-17'

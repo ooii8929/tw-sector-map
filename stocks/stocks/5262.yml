@@ -1,0 +1,13 @@
+code: '5262'
+name: 立達
+market: ESB
+sector: 半導體業
+themes:
+- 半導體業
+tags:
+  tech:
+  - DDR5
+  - DRAM
+  - 記憶體
+  supply: []
+last_enriched: '2026-04-17'

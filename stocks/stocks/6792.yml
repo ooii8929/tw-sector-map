@@ -1,0 +1,19 @@
+code: '6792'
+name: 詠業
+market: TWSE
+sector: 通信網路業
+themes:
+- MLCC
+- 其他電子零件
+- 天線
+- 網通設備
+- 被動元件
+- 電子零件元件
+tags:
+  tech:
+  - 車用電子
+  - 被動元件
+  - 低軌衛星
+  - MLCC
+  supply: []
+last_enriched: '2026-04-17'

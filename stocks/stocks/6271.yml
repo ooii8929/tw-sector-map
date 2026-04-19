@@ -1,0 +1,24 @@
+code: '6271'
+name: 同欣電
+market: TWSE
+sector: 半導體業
+themes:
+- IC基板
+- IC封裝測試
+- LED
+- LED散熱基板
+- 封測服務與材料
+tags:
+  tech:
+  - CoWoS
+  - 光通訊
+  - AI伺服器
+  - 伺服器
+  - PCB
+  - 封測
+  - 射頻
+  - 800G
+  - 散熱
+  - LED
+  supply: []
+last_enriched: '2026-04-17'

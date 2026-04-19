@@ -1,0 +1,13 @@
+code: '6872'
+name: 浩宇生醫
+market: TPEX
+sector: 生技醫療業
+themes:
+- 手術與治療用醫材
+- 診斷與監測用醫材
+- 醫學影像裝置
+tags:
+  tech:
+  - 醫材
+  supply: []
+last_enriched: '2026-04-17'

@@ -1,0 +1,17 @@
+code: '4169'
+name: 泰宗
+market: TWSE
+sector: 生技醫療業
+themes:
+- 新藥研發
+- 植物新藥
+- 生物科技
+- 醫療器材通路
+- 醫藥流通
+- 醫藥產業
+- 食品生技
+tags:
+  tech:
+  - 新藥研發
+  supply: []
+last_enriched: '2026-04-17'

@@ -1,0 +1,15 @@
+code: '6127'
+name: 九豪
+market: TPEX
+sector: 電子零組件業
+themes:
+- 被動元件
+- 被動元件上游
+tags:
+  tech:
+  - 光通訊
+  - 被動元件
+  - CPO
+  - 散熱
+  supply: []
+last_enriched: '2026-04-17'

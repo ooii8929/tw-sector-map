@@ -1,0 +1,24 @@
+code: '8086'
+name: 宏捷科
+market: TPEX
+sector: 半導體業
+themes:
+- IC製造
+- 化合物晶圓
+- 砷化鎵相關
+tags:
+  tech:
+  - ADAS
+  - GaAs
+  - GaN
+  - 車用電子
+  - 記憶體
+  - 光通訊
+  - CPO
+  - WiFi
+  - 低軌衛星
+  - PA功率放大器
+  - 電池
+  supply:
+  - Apple供應鏈
+last_enriched: '2026-04-17'

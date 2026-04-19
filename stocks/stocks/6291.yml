@@ -1,0 +1,19 @@
+code: '6291'
+name: 沛亨
+market: TPEX
+sector: 半導體業
+themes:
+- IC設計
+- 電子零件元件
+- 電源管理IC
+- 音響設備及零件
+tags:
+  tech:
+  - 矽光子
+  - 光通訊
+  - CPO
+  - 資料中心
+  - IC設計
+  - 光纖
+  supply: []
+last_enriched: '2026-04-17'

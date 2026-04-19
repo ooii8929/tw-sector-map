@@ -15,5 +15,6 @@ tags:
   - 封測
   - 記憶體
   - CPO
-  supply: []
-last_enriched: '2026-04-17'
+  supply:
+  - Tesla供應鏈
+last_enriched: '2026-04-19'

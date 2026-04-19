@@ -1,0 +1,14 @@
+code: '4722'
+name: 國精化
+market: TWSE
+sector: 化學工業
+themes:
+- 化學工業
+- 合成樹脂
+tags:
+  tech:
+  - 5G
+  - PCB
+  - 先進封裝
+  supply: []
+last_enriched: '2026-04-17'

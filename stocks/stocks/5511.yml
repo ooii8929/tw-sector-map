@@ -1,0 +1,13 @@
+code: '5511'
+name: 德昌
+market: TPEX
+sector: 建材營造業
+themes:
+- 住宅建設
+- 基礎建設
+- 營造工程
+tags:
+  tech:
+  - 建設
+  supply: []
+last_enriched: '2026-04-17'

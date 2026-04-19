@@ -1,0 +1,12 @@
+code: '6757'
+name: 台灣虎航
+market: TWSE
+sector: 航運業
+themes:
+- 空運
+- 運輸事業
+tags:
+  tech:
+  - 空運
+  supply: []
+last_enriched: '2026-04-17'

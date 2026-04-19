@@ -1,0 +1,16 @@
+code: '6233'
+name: 旺玖
+market: TPEX
+sector: 半導體業
+themes:
+- IC設計
+- MEMS
+- USB IC
+- 其他IC
+- 馬達IC
+tags:
+  tech:
+  - IC設計
+  - 射頻
+  supply: []
+last_enriched: '2026-04-17'

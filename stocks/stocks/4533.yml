@@ -1,0 +1,15 @@
+code: '4533'
+name: 協易機
+market: TPEX
+sector: 電機機械
+themes:
+- 工具機
+- 沖床
+tags:
+  tech:
+  - 光通訊
+  - 低軌衛星
+  - AI伺服器
+  - 伺服器
+  supply: []
+last_enriched: '2026-04-17'

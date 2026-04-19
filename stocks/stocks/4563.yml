@@ -1,0 +1,11 @@
+code: '4563'
+name: 百德
+market: TPEX
+sector: 電機機械
+themes:
+- 工具機
+tags:
+  tech:
+  - 工具機
+  supply: []
+last_enriched: '2026-04-17'

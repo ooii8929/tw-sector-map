@@ -1,0 +1,12 @@
+code: '7736'
+name: 虎山
+market: TWSE
+sector: 汽車工業
+themes:
+- 汽機車零組件
+- 車用電子
+tags:
+  tech:
+  - 車用電子
+  supply: []
+last_enriched: '2026-04-17'

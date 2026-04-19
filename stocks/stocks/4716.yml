@@ -1,0 +1,13 @@
+code: '4716'
+name: 大立
+market: TPEX
+sector: 化學工業
+themes:
+- 化學工業
+- 合成樹脂
+tags:
+  tech:
+  - CPO
+  supply:
+  - Apple供應鏈
+last_enriched: '2026-04-17'

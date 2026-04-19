@@ -1,0 +1,18 @@
+code: '4104'
+name: 佳醫
+market: TWSE
+sector: 生技醫療業
+themes:
+- 其他醫療器材
+- 手術與治療用醫材
+- 洗腎器具
+- 醫療器材通路
+- 醫療服務
+- 醫療管理服務
+- 醫療耗材
+- 醫藥流通
+tags:
+  tech:
+  - 醫材
+  supply: []
+last_enriched: '2026-04-17'

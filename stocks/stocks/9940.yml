@@ -1,0 +1,12 @@
+code: '9940'
+name: 信義
+market: TWSE
+sector: 其他業
+themes:
+- 地產
+- 房屋仲介
+tags:
+  tech:
+  - 不動產
+  supply: []
+last_enriched: '2026-04-17'
