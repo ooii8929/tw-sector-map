@@ -8,9 +8,10 @@ themes:
 - 電子零件元件
 tags:
   tech:
+  - OLED
   - 車用電子
   - 面板
-  - AI伺服器
+  - LED
   - 伺服器
   supply: []
-last_enriched: '2026-04-17'
+last_enriched: '2026-04-20'

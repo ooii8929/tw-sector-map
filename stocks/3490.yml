@@ -11,10 +11,11 @@ themes:
 - 設備儀器商
 tags:
   tech:
+  - CoWoS
   - 先進封裝
   - 面板
-  - 太陽能
   - 封測
   - LED
+  - 太陽能
   supply: []
-last_enriched: '2026-04-17'
+last_enriched: '2026-04-20'

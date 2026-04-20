@@ -10,12 +10,14 @@ themes:
 - 面板業
 tags:
   tech:
+  - CoWoS
+  - OLED
   - 先進封裝
   - PLP
+  - PCB
   - 面板
-  - 矽光子
-  - OLED
   - LED
+  - 矽光子
   supply:
-  - NVIDIA供應鏈
-last_enriched: '2026-04-17'
+  - Intel供應鏈
+last_enriched: '2026-04-20'

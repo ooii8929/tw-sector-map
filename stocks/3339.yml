@@ -9,8 +9,11 @@ themes:
 tags:
   tech:
   - 矽光子
+  - InP
   - 記憶體
   - LED
   - 光通訊
-  supply: []
-last_enriched: '2026-04-17'
+  supply:
+  - NVIDIA供應鏈
+  - Lumentum供應鏈
+last_enriched: '2026-04-20'
