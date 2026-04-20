@@ -17270,7 +17270,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "3669",
@@ -17331,7 +17331,7 @@
         "Apple供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "3675",
@@ -17365,9 +17365,12 @@
       "光電業"
     ],
     "tags": {
-      "tech": [],
+      "tech": [
+        "矽光子"
+      ],
       "supply": []
-    }
+    },
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "3679",
@@ -17521,11 +17524,14 @@
     "tags": {
       "tech": [
         "太陽能",
-        "電池"
+        "電池",
+        "散熱"
       ],
-      "supply": []
+      "supply": [
+        "Tesla供應鏈"
+      ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "3693",
@@ -17889,17 +17895,16 @@
     ],
     "tags": {
       "tech": [
+        "CoWoS",
         "光通訊",
-        "CPO",
         "InP",
-        "Micro LED",
+        "先進封裝",
+        "PCB",
         "LED"
       ],
-      "supply": [
-        "微軟供應鏈"
-      ]
+      "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "3715",
@@ -19662,9 +19667,12 @@
       "光電業"
     ],
     "tags": {
-      "tech": [],
+      "tech": [
+        "CoWoS"
+      ],
       "supply": []
-    }
+    },
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "4538",
@@ -20578,7 +20586,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "4735",
@@ -21462,7 +21470,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "4934",
@@ -21481,7 +21489,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "4935",
@@ -21499,7 +21507,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "4938",
@@ -21573,7 +21581,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "4943",
@@ -21629,7 +21637,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "4950",
@@ -21732,7 +21740,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "4958",
@@ -21779,14 +21787,11 @@
       "tech": [
         "OLED",
         "LED",
-        "先進封裝",
-        "封測",
-        "面板",
-        "太陽能"
+        "面板"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "4961",
@@ -21920,7 +21925,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "4973",
@@ -21978,7 +21983,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "4977",
@@ -22133,11 +22138,13 @@
     ],
     "tags": {
       "tech": [
-        "面板"
+        "OLED",
+        "面板",
+        "LED"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "4999",
@@ -22503,7 +22510,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "5222",
@@ -22617,7 +22624,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "5234",
@@ -22636,7 +22643,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "5236",
@@ -22678,7 +22685,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "5244",
@@ -22699,7 +22706,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "5245",
@@ -22712,15 +22719,15 @@
     ],
     "tags": {
       "tech": [
-        "面板",
         "OLED",
+        "面板",
         "LED"
       ],
       "supply": [
         "Apple供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "5246",
@@ -22748,9 +22755,12 @@
       "光電業"
     ],
     "tags": {
-      "tech": [],
+      "tech": [
+        "光纖"
+      ],
       "supply": []
-    }
+    },
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "5251",
@@ -22770,7 +22780,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "5258",
@@ -23299,7 +23309,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "5321",
@@ -23590,7 +23600,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "5381",
@@ -23672,7 +23682,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "5398",
@@ -24193,7 +24203,7 @@
         "高通供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "5487",

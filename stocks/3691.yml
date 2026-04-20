@@ -9,5 +9,7 @@ tags:
   tech:
   - 太陽能
   - 電池
-  supply: []
-last_enriched: '2026-04-17'
+  - 散熱
+  supply:
+  - Tesla供應鏈
+last_enriched: '2026-04-20'

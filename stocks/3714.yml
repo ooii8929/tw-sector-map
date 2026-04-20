@@ -11,11 +11,11 @@ themes:
 - 控股公司
 tags:
   tech:
+  - CoWoS
   - 光通訊
-  - CPO
   - InP
-  - Micro LED
+  - 先進封裝
+  - PCB
   - LED
-  supply:
-  - 微軟供應鏈
-last_enriched: '2026-04-17'
+  supply: []
+last_enriched: '2026-04-20'
