@@ -8,10 +8,11 @@ themes:
 - 網通設備
 tags:
   tech:
+  - 光通訊
   - CPO
-  - 低軌衛星
   - ADAS
+  - 低軌衛星
   - 資料中心
   - 1.6T
   supply: []
-last_enriched: '2026-04-17'
+last_enriched: '2026-04-20'

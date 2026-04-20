@@ -11,9 +11,14 @@ tags:
   - 矽光子
   - 光通訊
   - CPO
-  - 記憶體
+  - AI伺服器
+  - 伺服器
+  - TPU
+  - InP
+  - PA功率放大器
   - 800G
   - 1.6T
   - GaAs
-  supply: []
-last_enriched: '2026-04-17'
+  supply:
+  - Google供應鏈
+last_enriched: '2026-04-20'
