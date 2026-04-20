@@ -5,5 +5,10 @@ sector: 光電業
 themes:
 - 光電業
 tags:
-  tech: []
-  supply: []
+  tech:
+  - 記憶體
+  - PA功率放大器
+  supply:
+  - Apple供應鏈
+  - NVIDIA供應鏈
+last_enriched: '2026-04-20'

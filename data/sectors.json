@@ -25515,12 +25515,14 @@
     ],
     "tags": {
       "tech": [
+        "OLED",
         "面板",
+        "LED",
         "記憶體"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "6117",
@@ -25581,7 +25583,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "6121",
@@ -25682,15 +25684,15 @@
     ],
     "tags": {
       "tech": [
+        "CoWoS",
         "先進封裝",
-        "面板",
         "散熱",
         "太陽能",
         "電池"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "6126",
@@ -26274,7 +26276,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "6165",
@@ -26326,7 +26328,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "6168",
@@ -26345,7 +26347,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "6169",
@@ -26482,9 +26484,11 @@
         "面板",
         "LED"
       ],
-      "supply": []
+      "supply": [
+        "Apple供應鏈"
+      ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "6177",
@@ -27039,12 +27043,11 @@
     "tags": {
       "tech": [
         "光學鏡頭",
-        "矽光子",
-        "CPO"
+        "矽光子"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "6210",
@@ -27287,7 +27290,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "6223",
@@ -27351,7 +27354,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "6226",
@@ -27368,7 +27371,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "6227",
@@ -27508,7 +27511,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "6235",
@@ -27689,7 +27692,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "6245",
@@ -27729,7 +27732,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "6248",
@@ -28088,14 +28091,13 @@
         "伺服器",
         "PCB",
         "記憶體",
-        "CPO",
         "DRAM",
         "面板",
         "LED"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "6279",
@@ -28329,7 +28331,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "6407",
@@ -28749,15 +28751,15 @@
       "tech": [
         "太陽能",
         "低軌衛星",
+        "EV",
         "先進封裝",
-        "資料中心",
         "封測",
         "記憶體",
         "電池"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "6446",
@@ -28838,14 +28840,14 @@
     "tags": {
       "tech": [
         "面板",
-        "CPO",
+        "光通訊",
         "光纖"
       ],
       "supply": [
         "Apple供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "6461",
@@ -29050,7 +29052,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "6482",
@@ -29240,7 +29242,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "6499",
@@ -29445,7 +29447,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "6523",
@@ -29889,9 +29891,16 @@
       "光電業"
     ],
     "tags": {
-      "tech": [],
-      "supply": []
-    }
+      "tech": [
+        "記憶體",
+        "PA功率放大器"
+      ],
+      "supply": [
+        "Apple供應鏈",
+        "NVIDIA供應鏈"
+      ]
+    },
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "6560",
@@ -31097,13 +31106,14 @@
     "tags": {
       "tech": [
         "車用電子",
-        "光學鏡頭"
+        "光學鏡頭",
+        "CPO"
       ],
       "supply": [
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "6669",
@@ -31192,9 +31202,12 @@
       "光電業"
     ],
     "tags": {
-      "tech": [],
+      "tech": [
+        "車用電子"
+      ],
       "supply": []
-    }
+    },
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "6674",
@@ -31290,9 +31303,15 @@
       "光電業"
     ],
     "tags": {
-      "tech": [],
-      "supply": []
-    }
+      "tech": [
+        "散熱",
+        "液冷散熱"
+      ],
+      "supply": [
+        "NVIDIA供應鏈"
+      ]
+    },
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "6683",
@@ -31554,11 +31573,12 @@
         "Mini LED",
         "矽光子",
         "CPO",
-        "LED"
+        "LED",
+        "光通訊"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "6707",
