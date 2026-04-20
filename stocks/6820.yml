@@ -5,5 +5,12 @@ sector: 通信網路業
 themes:
 - 通信網路業
 tags:
-  tech: []
-  supply: []
+  tech:
+  - 矽光子
+  - 光通訊
+  - CPO
+  - 連接器
+  - 光纖
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-20'

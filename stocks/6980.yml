@@ -5,5 +5,9 @@ sector: 通信網路業
 themes:
 - 通信網路業
 tags:
-  tech: []
+  tech:
+  - 低軌衛星
+  - 射頻
+  - GPU
   supply: []
+last_enriched: '2026-04-20'

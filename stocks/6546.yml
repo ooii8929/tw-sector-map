@@ -7,9 +7,11 @@ themes:
 - 通訊設備零組件
 tags:
   tech:
+  - 光通訊
   - CPO
-  - 5G
   - AI伺服器
   - 伺服器
-  supply: []
-last_enriched: '2026-04-17'
+  - 5G
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-20'

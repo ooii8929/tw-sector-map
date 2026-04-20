@@ -5,5 +5,9 @@ sector: 通信網路業
 themes:
 - 通信網路業
 tags:
-  tech: []
+  tech:
+  - 5G
+  - 低軌衛星
+  - 毫米波
   supply: []
+last_enriched: '2026-04-20'
