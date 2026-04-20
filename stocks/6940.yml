@@ -5,5 +5,10 @@ sector: 電子零組件業
 themes:
 - 電子零組件業
 tags:
-  tech: []
+  tech:
+  - 資料中心
+  - 儲能
+  - 電池
+  - 鋰電池
   supply: []
+last_enriched: '2026-04-20'
