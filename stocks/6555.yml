@@ -5,5 +5,9 @@ sector: 電子零組件業
 themes:
 - 電子零組件業
 tags:
-  tech: []
+  tech:
+  - EV
+  - 車用電子
+  - 電池
   supply: []
+last_enriched: '2026-04-20'

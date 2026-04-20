@@ -12,8 +12,6 @@ tags:
   - 伺服器
   - 電源供應器
   - 電池
-  - EV
-  - 車用電子
   supply:
   - NVIDIA供應鏈
-last_enriched: '2026-04-17'
+last_enriched: '2026-04-20'
