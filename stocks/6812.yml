@@ -5,5 +5,8 @@ sector: 光電業
 themes:
 - 光電業
 tags:
-  tech: []
+  tech:
+  - Mini LED
+  - LED
   supply: []
+last_enriched: '2026-04-20'

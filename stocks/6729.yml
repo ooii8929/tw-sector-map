@@ -5,5 +5,9 @@ sector: 光電業
 themes:
 - 光電業
 tags:
-  tech: []
+  tech:
+  - OLED
+  - LED
+  - 太陽能
   supply: []
+last_enriched: '2026-04-20'
