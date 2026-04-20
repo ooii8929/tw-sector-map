@@ -6232,7 +6232,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "2324",
@@ -6595,7 +6595,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "2351",
@@ -7044,7 +7044,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "2375",
@@ -7359,7 +7359,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "2395",
@@ -7515,7 +7515,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "2408",
@@ -7551,18 +7551,18 @@
     ],
     "tags": {
       "tech": [
-        "CPO",
+        "CoWoS",
+        "OLED",
+        "先進封裝",
+        "PCB",
         "面板",
-        "Micro LED",
-        "矽光子",
-        "光通訊",
-        "低軌衛星",
         "LED",
-        "OLED"
+        "光通訊",
+        "車用電子"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "2412",
@@ -7813,12 +7813,11 @@
         "矽光子",
         "先進封裝",
         "PLP",
-        "PCB",
         "光纖"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "2427",
@@ -7878,7 +7877,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "2430",
@@ -8027,7 +8026,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "2439",
@@ -8456,7 +8455,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "2467",
@@ -8767,14 +8766,13 @@
       "tech": [
         "散熱",
         "封測",
-        "矽光子",
         "CPO",
         "面板",
         "LED"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "2488",
@@ -8808,7 +8806,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "2491",
@@ -8825,7 +8823,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "2492",
@@ -11653,7 +11651,7 @@
         "Apple供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "3010",
@@ -11850,7 +11848,7 @@
         "Tesla供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "3021",
@@ -11928,7 +11926,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "3025",
@@ -12083,12 +12081,11 @@
       "tech": [
         "Micro LED",
         "車用電子",
-        "LED",
-        "光通訊"
+        "LED"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "3032",
@@ -12243,7 +12240,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "3040",
@@ -12439,7 +12436,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "3050",
@@ -12462,7 +12459,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "3051",
@@ -12480,7 +12477,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "3052",
@@ -12625,12 +12622,12 @@
         "ADAS",
         "車用電子",
         "記憶體",
-        "IC設計",
-        "光學鏡頭"
+        "光學鏡頭",
+        "IC設計"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "3060",
@@ -12707,7 +12704,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "3067",
@@ -13124,7 +13121,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "3130",
@@ -38348,13 +38345,11 @@
         "低軌衛星",
         "被動元件",
         "石英振盪器",
-        "矽光子",
-        "光通訊",
-        "CPO"
+        "矽光子"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "8183",
@@ -38434,7 +38429,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "8215",
@@ -38706,7 +38701,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "8291",
@@ -38725,7 +38720,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "8298",
@@ -38873,7 +38868,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-20"
   },
   {
     "code": "8359",
