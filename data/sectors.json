@@ -21395,7 +21395,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "4925",
@@ -21471,7 +21471,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "4933",
@@ -21563,7 +21563,7 @@
         "Meta供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "4939",
@@ -22511,7 +22511,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "5220",
@@ -22569,7 +22569,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "5225",
@@ -23083,14 +23083,13 @@
     ],
     "tags": {
       "tech": [
-        "ADAS",
         "記憶體",
         "矽光子",
         "DRAM"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "5291",
@@ -23574,7 +23573,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "5364",
@@ -23658,7 +23657,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "5388",
@@ -23802,7 +23801,7 @@
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "5432",
@@ -23862,7 +23861,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "5439",
@@ -24038,7 +24037,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "5468",
@@ -24120,7 +24119,7 @@
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "5475",
@@ -24291,7 +24290,7 @@
         "Apple供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "5493",
@@ -25557,13 +25556,14 @@
     "tags": {
       "tech": [
         "AI伺服器",
-        "伺服器"
+        "伺服器",
+        "GPU"
       ],
       "supply": [
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "6118",
@@ -25624,7 +25624,7 @@
         "Tesla供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "6122",
@@ -26086,7 +26086,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "6151",
@@ -27465,7 +27465,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "6231",
@@ -27546,7 +27546,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "6236",
@@ -28072,7 +28072,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "6277",
