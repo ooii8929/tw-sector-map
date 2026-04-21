@@ -11,4 +11,6 @@ tags:
   - 伺服器
   supply:
   - NVIDIA供應鏈
-last_enriched: '2026-04-17'
+  - 博通供應鏈
+  - Meta供應鏈
+last_enriched: '2026-04-21'

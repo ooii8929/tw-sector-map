@@ -12,6 +12,6 @@ tags:
   - AI伺服器
   - 伺服器
   - 液冷散熱
-  supply:
-  - NVIDIA供應鏈
-last_enriched: '2026-04-17'
+  - 散熱
+  supply: []
+last_enriched: '2026-04-21'

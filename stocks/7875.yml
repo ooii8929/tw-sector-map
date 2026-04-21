@@ -5,5 +5,9 @@ sector: 電腦及週邊設備業
 themes:
 - 電腦及週邊設備業
 tags:
-  tech: []
-  supply: []
+  tech:
+  - AI伺服器
+  - 伺服器
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-21'

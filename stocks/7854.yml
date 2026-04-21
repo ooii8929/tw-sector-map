@@ -5,5 +5,9 @@ sector: 電腦及週邊設備業
 themes:
 - 電腦及週邊設備業
 tags:
-  tech: []
+  tech:
+  - 低軌衛星
+  - 電池
+  - 鋰電池
   supply: []
+last_enriched: '2026-04-21'
