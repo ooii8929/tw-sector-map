@@ -5,5 +5,8 @@ sector: 資訊服務業
 themes:
 - 資訊服務業
 tags:
-  tech: []
-  supply: []
+  tech:
+  - PA功率放大器
+  supply:
+  - 微軟供應鏈
+last_enriched: '2026-04-21'

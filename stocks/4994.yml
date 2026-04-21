@@ -7,7 +7,7 @@ themes:
 - 手機遊戲
 - 遊戲產業
 tags:
-  tech:
-  - 遊戲
-  supply: []
-last_enriched: '2026-04-17'
+  tech: []
+  supply:
+  - AMD供應鏈
+last_enriched: '2026-04-21'

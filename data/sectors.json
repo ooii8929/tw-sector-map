@@ -13258,7 +13258,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "3149",
@@ -22136,12 +22136,12 @@
       "遊戲產業"
     ],
     "tags": {
-      "tech": [
-        "遊戲"
-      ],
-      "supply": []
+      "tech": [],
+      "supply": [
+        "AMD供應鏈"
+      ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "4995",
@@ -22342,7 +22342,7 @@
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "5203",
@@ -22365,7 +22365,7 @@
         "AMD供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "5205",
@@ -22457,7 +22457,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "5212",
@@ -23737,7 +23737,7 @@
         "博通供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "5410",
@@ -25461,7 +25461,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "6113",
@@ -25924,7 +25924,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "6141",
@@ -26069,7 +26069,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "6150",
@@ -27483,11 +27483,9 @@
         "伺服器",
         "IC設計"
       ],
-      "supply": [
-        "高通供應鏈"
-      ]
+      "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "6233",
@@ -29443,12 +29441,11 @@
     ],
     "tags": {
       "tech": [
-        "ADAS",
-        "車用電子"
+        "ADAS"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "6517",
@@ -30390,7 +30387,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "6596",
@@ -31973,9 +31970,14 @@
       "資訊服務業"
     ],
     "tags": {
-      "tech": [],
-      "supply": []
-    }
+      "tech": [
+        "PA功率放大器"
+      ],
+      "supply": [
+        "微軟供應鏈"
+      ]
+    },
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "6739",
