@@ -2519,11 +2519,12 @@
     ],
     "tags": {
       "tech": [
-        "伺服器"
+        "伺服器",
+        "PCB"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "1529",
@@ -2542,7 +2543,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "1530",
@@ -2600,7 +2601,7 @@
         "Apple供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "1533",
@@ -2691,7 +2692,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "1538",
@@ -2743,7 +2744,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "1541",
@@ -2787,9 +2788,12 @@
       "磨料磨具"
     ],
     "tags": {
-      "tech": [],
+      "tech": [
+        "HBM"
+      ],
       "supply": []
-    }
+    },
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "1563",
@@ -2877,7 +2881,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "1580",
@@ -2966,7 +2970,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "1587",
@@ -3031,11 +3035,12 @@
     ],
     "tags": {
       "tech": [
-        "螺絲螺帽"
+        "DDR4",
+        "記憶體"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "1593",
@@ -5085,7 +5090,7 @@
         "Tesla供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "2067",
@@ -5589,7 +5594,7 @@
         "Meta供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "2231",
@@ -5649,7 +5654,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "2236",

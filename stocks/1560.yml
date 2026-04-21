@@ -8,5 +8,7 @@ themes:
 - 矽晶圓
 - 磨料磨具
 tags:
-  tech: []
+  tech:
+  - HBM
   supply: []
+last_enriched: '2026-04-21'
