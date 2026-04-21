@@ -8,5 +8,7 @@ themes:
 tags:
   tech:
   - 伺服器
-  supply: []
-last_enriched: '2026-04-17'
+  - 記憶體
+  supply:
+  - AMD供應鏈
+last_enriched: '2026-04-21'

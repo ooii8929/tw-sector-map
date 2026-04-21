@@ -6,7 +6,10 @@ themes:
 - IC零組件通路商
 - 電子通路
 tags:
-  tech: []
+  tech:
+  - 記憶體
   supply:
   - Apple供應鏈
-last_enriched: '2026-04-17'
+  - NVIDIA供應鏈
+  - 博通供應鏈
+last_enriched: '2026-04-21'

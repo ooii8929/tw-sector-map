@@ -12,5 +12,6 @@ tags:
   - 伺服器
   - 記憶體
   - IC設計
-  supply: []
-last_enriched: '2026-04-17'
+  supply:
+  - Tesla供應鏈
+last_enriched: '2026-04-21'
