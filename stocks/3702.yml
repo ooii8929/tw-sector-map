@@ -7,8 +7,7 @@ themes:
 - 控股公司
 - 電子通路
 tags:
-  tech:
-  - HBM
-  - 記憶體
-  supply: []
-last_enriched: '2026-04-17'
+  tech: []
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-21'
