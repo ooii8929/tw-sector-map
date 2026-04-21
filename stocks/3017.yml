@@ -16,7 +16,10 @@ tags:
   - AI伺服器
   - 伺服器
   - 散熱
+  - TPU
   - 液冷散熱
   supply:
+  - Tesla供應鏈
+  - Google供應鏈
   - Meta供應鏈
-last_enriched: '2026-04-17'
+last_enriched: '2026-04-21'

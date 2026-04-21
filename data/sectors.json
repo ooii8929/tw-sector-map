@@ -5896,9 +5896,9 @@
       "tech": [
         "矽光子",
         "5G",
-        "AI伺服器",
-        "伺服器",
         "電源供應器",
+        "石英振盪器",
+        "伺服器",
         "光通訊",
         "車用電子",
         "被動元件",
@@ -5908,9 +5908,11 @@
         "電池",
         "鋰電池"
       ],
-      "supply": []
+      "supply": [
+        "Tesla供應鏈"
+      ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "2302",
@@ -6258,13 +6260,14 @@
       "tech": [
         "AI伺服器",
         "伺服器",
+        "記憶體",
         "車用電子"
       ],
       "supply": [
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "2327",
@@ -6379,7 +6382,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "2332",
@@ -6640,12 +6643,11 @@
     "tags": {
       "tech": [
         "AI伺服器",
-        "伺服器",
-        "低軌衛星"
+        "伺服器"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "2353",
@@ -6675,7 +6677,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "2354",
@@ -6737,14 +6739,15 @@
     "tags": {
       "tech": [
         "AI伺服器",
-        "伺服器"
+        "伺服器",
+        "TPU"
       ],
       "supply": [
-        "Meta供應鏈",
-        "微軟供應鏈"
+        "Google供應鏈",
+        "Meta供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "2357",
@@ -6779,7 +6782,7 @@
         "Meta供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "2359",
@@ -6844,7 +6847,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "2363",
@@ -6902,7 +6905,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "2367",
@@ -7089,11 +7092,9 @@
         "伺服器",
         "散熱"
       ],
-      "supply": [
-        "NVIDIA供應鏈"
-      ]
+      "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "2377",
@@ -7114,6 +7115,7 @@
     "tags": {
       "tech": [
         "散熱",
+        "EV",
         "伺服器"
       ],
       "supply": [
@@ -7121,7 +7123,7 @@
         "Meta供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "2379",
@@ -7183,15 +7185,17 @@
     ],
     "tags": {
       "tech": [
+        "TPU",
         "AI伺服器",
         "伺服器"
       ],
       "supply": [
         "NVIDIA供應鏈",
+        "Google供應鏈",
         "Meta供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "2383",
@@ -7248,7 +7252,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "2388",
@@ -7371,7 +7375,7 @@
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "2397",
@@ -7387,7 +7391,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "2399",
@@ -7402,11 +7406,13 @@
     ],
     "tags": {
       "tech": [
-        "散熱"
+        "散熱",
+        "矽光子",
+        "PCB"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "2401",
@@ -7660,7 +7666,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "2419",
@@ -7784,7 +7790,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "2426",
@@ -8427,7 +8433,7 @@
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "2466",
@@ -11534,7 +11540,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "3003",
@@ -11696,14 +11702,16 @@
     "tags": {
       "tech": [
         "AI伺服器",
-        "伺服器"
+        "伺服器",
+        "散熱",
+        "液冷散熱"
       ],
       "supply": [
         "Meta供應鏈",
         "博通供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "3014",
@@ -11791,13 +11799,16 @@
         "AI伺服器",
         "伺服器",
         "散熱",
+        "TPU",
         "液冷散熱"
       ],
       "supply": [
+        "Tesla供應鏈",
+        "Google供應鏈",
         "Meta供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "3018",
@@ -11880,7 +11891,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-21"
   },
   {
     "code": "3023",

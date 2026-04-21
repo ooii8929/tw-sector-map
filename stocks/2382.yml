@@ -10,9 +10,11 @@ themes:
 - 電腦系統業
 tags:
   tech:
+  - TPU
   - AI伺服器
   - 伺服器
   supply:
   - NVIDIA供應鏈
+  - Google供應鏈
   - Meta供應鏈
-last_enriched: '2026-04-17'
+last_enriched: '2026-04-21'
