@@ -18147,7 +18147,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "4109",
@@ -18166,7 +18166,7 @@
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "4111",
@@ -18223,7 +18223,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "4116",
@@ -18264,7 +18264,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "4120",
@@ -18285,7 +18285,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "4121",
@@ -18385,7 +18385,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "4129",
@@ -18422,7 +18422,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "4131",
@@ -18452,9 +18452,12 @@
       "生技醫療業"
     ],
     "tags": {
-      "tech": [],
+      "tech": [
+        "新藥研發"
+      ],
       "supply": []
-    }
+    },
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "4133",
@@ -18473,7 +18476,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "4137",
@@ -18541,7 +18544,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "4147",
@@ -18559,7 +18562,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "4148",
@@ -18601,7 +18604,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "4154",
@@ -18650,7 +18653,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "4160",
@@ -18670,7 +18673,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "4161",
@@ -18713,7 +18716,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "4163",
