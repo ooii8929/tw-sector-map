@@ -5,5 +5,8 @@ sector: 生技醫療業
 themes:
 - 生技醫療業
 tags:
-  tech: []
-  supply: []
+  tech:
+  - CDMO
+  supply:
+  - Intel供應鏈
+last_enriched: '2026-04-22'
