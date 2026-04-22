@@ -7,10 +7,11 @@ themes:
 - 設備儀器商
 tags:
   tech:
+  - CoWoS
   - AI伺服器
   - 先進封裝
   - 伺服器
   - PCB
   supply:
   - NVIDIA供應鏈
-last_enriched: '2026-04-17'
+last_enriched: '2026-04-22'

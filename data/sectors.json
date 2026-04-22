@@ -12088,6 +12088,7 @@
     ],
     "tags": {
       "tech": [
+        "CoWoS",
         "AI伺服器",
         "先進封裝",
         "伺服器",
@@ -12097,7 +12098,7 @@
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "3031",
@@ -12982,15 +12983,17 @@
     ],
     "tags": {
       "tech": [
+        "CoWoS",
+        "矽光子",
         "AI伺服器",
         "伺服器",
-        "矽光子",
+        "電池",
         "PCB",
         "封測"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "3094",
@@ -13200,12 +13203,12 @@
     ],
     "tags": {
       "tech": [
-        "先進封裝",
+        "CoWoS",
         "封測"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "3135",
@@ -13784,14 +13787,14 @@
     ],
     "tags": {
       "tech": [
+        "CoWoS",
         "AI伺服器",
-        "先進封裝",
         "伺服器",
         "5G"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "3221",
@@ -14272,7 +14275,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "3287",
@@ -14328,13 +14331,11 @@
       "tech": [
         "矽光子",
         "CPO",
-        "ADAS",
-        "車用電子",
-        "記憶體"
+        "ADAS"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "3290",
@@ -14446,7 +14447,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "3305",
@@ -14469,7 +14470,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "3306",
@@ -14689,7 +14690,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "3325",
@@ -15121,11 +15122,12 @@
     ],
     "tags": {
       "tech": [
+        "CoWoS",
         "先進封裝"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "3406",
@@ -15722,14 +15724,16 @@
     ],
     "tags": {
       "tech": [
-        "CPO",
+        "CoWoS",
         "PLP",
+        "矽光子",
+        "CPO",
         "PCB",
         "面板"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "3499",
@@ -15814,11 +15818,12 @@
         "伺服器",
         "太陽能",
         "電池",
-        "矽光子"
+        "矽光子",
+        "PCB"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "3511",
@@ -15910,11 +15915,12 @@
     ],
     "tags": {
       "tech": [
-        "SiC"
+        "SiC",
+        "散熱"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "3520",
@@ -16358,14 +16364,13 @@
         "ADAS",
         "車用電子",
         "封測",
-        "記憶體",
-        "EV"
+        "記憶體"
       ],
       "supply": [
         "Tesla供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "3555",
@@ -16578,12 +16583,13 @@
     ],
     "tags": {
       "tech": [
+        "CoWoS",
         "先進封裝",
         "PLP"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "3581",
@@ -16657,11 +16663,12 @@
     "tags": {
       "tech": [
         "矽光子",
-        "CPO"
+        "CPO",
+        "光通訊"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "3588",
@@ -16963,7 +16970,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "3622",
@@ -17062,7 +17069,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "3629",
@@ -17265,7 +17272,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "3664",
@@ -17305,11 +17312,12 @@
       "tech": [
         "AI伺服器",
         "伺服器",
+        "CPO",
         "連接器"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "3666",
@@ -19945,7 +19953,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "4555",
@@ -20260,11 +20268,13 @@
       "tech": [
         "AI伺服器",
         "伺服器",
-        "PCB"
+        "PCB",
+        "CPO",
+        "先進封裝"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "4580",
@@ -20362,7 +20372,7 @@
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "4587",

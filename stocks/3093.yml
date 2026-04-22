@@ -8,10 +8,12 @@ themes:
 - 設備儀器商
 tags:
   tech:
+  - CoWoS
+  - 矽光子
   - AI伺服器
   - 伺服器
-  - 矽光子
+  - 電池
   - PCB
   - 封測
   supply: []
-last_enriched: '2026-04-17'
+last_enriched: '2026-04-22'

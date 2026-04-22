@@ -10,9 +10,11 @@ themes:
 - 面板設備
 tags:
   tech:
-  - CPO
+  - CoWoS
   - PLP
+  - 矽光子
+  - CPO
   - PCB
   - 面板
   supply: []
-last_enriched: '2026-04-17'
+last_enriched: '2026-04-22'
