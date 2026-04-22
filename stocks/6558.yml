@@ -12,6 +12,5 @@ tags:
   - 伺服器
   - 儲能
   - 電池
-  supply:
-  - NVIDIA供應鏈
-last_enriched: '2026-04-17'
+  supply: []
+last_enriched: '2026-04-22'
