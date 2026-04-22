@@ -9,5 +9,7 @@ tags:
   tech:
   - 矽光子
   - CPO
-  supply: []
-last_enriched: '2026-04-17'
+  - 光通訊
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-22'
