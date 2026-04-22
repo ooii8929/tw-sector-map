@@ -18750,11 +18750,12 @@
     "tags": {
       "tech": [
         "散熱",
+        "矽光子",
         "低軌衛星"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "4166",
@@ -18773,7 +18774,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "4167",
@@ -18791,7 +18792,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "4168",
@@ -18810,7 +18811,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "4169",
@@ -18832,7 +18833,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "4171",
@@ -18882,7 +18883,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "4175",
@@ -18967,7 +18968,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "4198",
@@ -20603,9 +20604,12 @@
       "生技醫療業"
     ],
     "tags": {
-      "tech": [],
+      "tech": [
+        "新藥研發"
+      ],
       "supply": []
-    }
+    },
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "4726",
@@ -20623,7 +20627,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "4728",
@@ -20699,7 +20703,7 @@
         "博通供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "4737",
@@ -20716,7 +20720,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "4738",
@@ -20784,7 +20788,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "4744",
@@ -21313,7 +21317,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "4912",
@@ -25865,7 +25869,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "6133",
@@ -28689,7 +28693,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "6432",
