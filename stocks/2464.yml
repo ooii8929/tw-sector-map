@@ -13,8 +13,8 @@ themes:
 - 面板設備
 tags:
   tech:
+  - CoWoS
   - 先進封裝
   - 面板
-  supply:
-  - Tesla供應鏈
-last_enriched: '2026-04-17'
+  supply: []
+last_enriched: '2026-04-22'

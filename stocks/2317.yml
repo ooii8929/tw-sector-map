@@ -39,11 +39,11 @@ tags:
   tech:
   - AI伺服器
   - 伺服器
-  - 光通訊
-  - 電池
+  - 石英振盪器
+  - CPO
   - EV
   - 車用電子
   - 連接器
   supply:
-  - Apple供應鏈
-last_enriched: '2026-04-17'
+  - Tesla供應鏈
+last_enriched: '2026-04-22'

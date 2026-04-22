@@ -5801,9 +5801,19 @@
       "其他電子業"
     ],
     "tags": {
-      "tech": [],
-      "supply": []
-    }
+      "tech": [
+        "毫米波",
+        "EV",
+        "ADAS",
+        "車用電子",
+        "GPU"
+      ],
+      "supply": [
+        "NVIDIA供應鏈",
+        "Tesla供應鏈"
+      ]
+    },
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "2254",
@@ -5834,9 +5844,12 @@
       "其他電子業"
     ],
     "tags": {
-      "tech": [],
+      "tech": [
+        "車用電子"
+      ],
       "supply": []
-    }
+    },
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "2256",
@@ -5847,9 +5860,15 @@
       "其他電子業"
     ],
     "tags": {
-      "tech": [],
-      "supply": []
-    }
+      "tech": [
+        "ADAS",
+        "車用電子"
+      ],
+      "supply": [
+        "NVIDIA供應鏈"
+      ]
+    },
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "2258",
@@ -6063,15 +6082,13 @@
       "tech": [
         "AI伺服器",
         "伺服器",
-        "低軌衛星",
-        "散熱",
         "車用電子"
       ],
       "supply": [
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "2313",
@@ -6186,17 +6203,17 @@
       "tech": [
         "AI伺服器",
         "伺服器",
-        "光通訊",
-        "電池",
+        "石英振盪器",
+        "CPO",
         "EV",
         "車用電子",
         "連接器"
       ],
       "supply": [
-        "Apple供應鏈"
+        "Tesla供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "2321",
@@ -6703,11 +6720,12 @@
         "AI伺服器",
         "伺服器",
         "散熱",
-        "液冷散熱"
+        "液冷散熱",
+        "記憶體"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "2355",
@@ -6814,7 +6832,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "2360",
@@ -6827,13 +6845,15 @@
     ],
     "tags": {
       "tech": [
-        "CPO"
+        "CoWoS",
+        "CPO",
+        "液冷散熱"
       ],
       "supply": [
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "2362",
@@ -7025,9 +7045,12 @@
       "電子其他"
     ],
     "tags": {
-      "tech": [],
+      "tech": [
+        "車用電子"
+      ],
       "supply": []
-    }
+    },
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "2374",
@@ -7478,15 +7501,13 @@
     ],
     "tags": {
       "tech": [
-        "CoWoS",
-        "2nm"
+        "CoWoS"
       ],
       "supply": [
-        "NVIDIA供應鏈",
         "Tesla供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "2405",
@@ -7750,12 +7771,12 @@
     ],
     "tags": {
       "tech": [
-        "先進封裝",
-        "面板"
+        "CoWoS",
+        "先進封裝"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "2424",
@@ -8339,7 +8360,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "2460",
@@ -8375,7 +8396,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "2462",
@@ -8413,14 +8434,13 @@
     ],
     "tags": {
       "tech": [
+        "CoWoS",
         "先進封裝",
         "面板"
       ],
-      "supply": [
-        "Tesla供應鏈"
-      ]
+      "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "2465",
@@ -8558,14 +8578,11 @@
     "tags": {
       "tech": [
         "AI伺服器",
-        "伺服器",
-        "記憶體"
+        "伺服器"
       ],
-      "supply": [
-        "Apple供應鏈"
-      ]
+      "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "2476",
@@ -8682,7 +8699,7 @@
         "Apple供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "2483",
@@ -36843,9 +36860,12 @@
       "電機機械"
     ],
     "tags": {
-      "tech": [],
+      "tech": [
+        "低軌衛星"
+      ],
       "supply": []
-    }
+    },
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "7880",
@@ -37153,7 +37173,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "8028",
@@ -38188,7 +38208,7 @@
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "8109",
@@ -38652,7 +38672,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "8227",
@@ -38746,7 +38766,7 @@
         "Tesla供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "8261",
@@ -39103,7 +39123,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "8383",
@@ -40330,14 +40350,13 @@
       "tech": [
         "資料中心",
         "散熱",
-        "電池",
-        "液冷散熱"
+        "電池"
       ],
       "supply": [
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "9802",
@@ -41000,7 +41019,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-22"
   },
   {
     "code": "9955",
