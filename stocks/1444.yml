@@ -10,5 +10,6 @@ tags:
   tech:
   - 光通訊
   - 儲能
-  supply: []
-last_enriched: '2026-04-17'
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-23'

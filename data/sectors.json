@@ -1657,9 +1657,11 @@
         "光通訊",
         "儲能"
       ],
-      "supply": []
+      "supply": [
+        "NVIDIA供應鏈"
+      ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "1445",
@@ -1737,7 +1739,7 @@
         "Tesla供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "1451",
@@ -1846,7 +1848,7 @@
         "Tesla供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "1457",
@@ -2117,7 +2119,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "1476",
