@@ -6,5 +6,7 @@ themes:
 - 銅
 - 非鐵金屬
 tags:
-  tech: []
+  tech:
+  - 被動元件
   supply: []
+last_enriched: '2026-04-23'
