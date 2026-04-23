@@ -3516,7 +3516,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "1712",
@@ -3578,11 +3578,12 @@
     "tags": {
       "tech": [
         "矽光子",
-        "CoWoS"
+        "CoWoS",
+        "先進封裝"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "1718",
@@ -3643,7 +3644,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "1722",
@@ -3664,7 +3665,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "1723",
@@ -3685,7 +3686,7 @@
         "Tesla供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "1725",
@@ -3752,7 +3753,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "1731",
@@ -3903,7 +3904,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "1752",
@@ -3978,9 +3979,12 @@
       "溶劑"
     ],
     "tags": {
-      "tech": [],
+      "tech": [
+        "PA功率放大器"
+      ],
       "supply": []
-    }
+    },
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "1776",
@@ -20498,7 +20502,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "4711",
@@ -20545,7 +20549,7 @@
         "Apple供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "4720",
@@ -20583,7 +20587,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "4722",
@@ -20602,7 +20606,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "4724",
@@ -20740,9 +20744,12 @@
       "化學工業"
     ],
     "tags": {
-      "tech": [],
+      "tech": [
+        "EV"
+      ],
       "supply": []
-    }
+    },
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "4739",
@@ -20765,7 +20772,7 @@
         "Tesla供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "4741",

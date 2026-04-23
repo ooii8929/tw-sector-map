@@ -8,5 +8,7 @@ themes:
 - 化學產品通路
 - 溶劑
 tags:
-  tech: []
+  tech:
+  - PA功率放大器
   supply: []
+last_enriched: '2026-04-23'
