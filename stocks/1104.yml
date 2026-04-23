@@ -7,8 +7,7 @@ themes:
 - 水泥製品
 - 預拌混凝土
 tags:
-  tech:
-  - 水泥
-  - 預拌混凝土
-  supply: []
-last_enriched: '2026-04-17'
+  tech: []
+  supply:
+  - Tesla供應鏈
+last_enriched: '2026-04-23'

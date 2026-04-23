@@ -5,5 +5,7 @@ sector: 化學工業
 themes:
 - 化學工業
 tags:
-  tech: []
+  tech:
+  - 記憶體
   supply: []
+last_enriched: '2026-04-23'
