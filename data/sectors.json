@@ -896,7 +896,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "1314",
@@ -1088,12 +1088,11 @@
     "tags": {
       "tech": [
         "封測",
-        "面板",
         "電池"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "1336",
@@ -1289,7 +1288,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "1413",
@@ -1404,7 +1403,7 @@
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "1423",
