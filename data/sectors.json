@@ -5077,7 +5077,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "2066",
@@ -21742,7 +21742,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "4951",
@@ -22265,7 +22265,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "5009",
@@ -35574,7 +35574,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "7719",
@@ -41224,11 +41224,9 @@
       "tech": [
         "風電"
       ],
-      "supply": [
-        "NVIDIA供應鏈"
-      ]
+      "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "9960",
