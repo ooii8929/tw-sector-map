@@ -5,5 +5,7 @@ sector: 生技醫療業
 themes:
 - 生技醫療業
 tags:
-  tech: []
+  tech:
+  - CDMO
   supply: []
+last_enriched: '2026-04-23'
