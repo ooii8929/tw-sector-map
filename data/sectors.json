@@ -2622,13 +2622,11 @@
       "tech": [
         "ADAS",
         "車用電子",
-        "封測",
-        "記憶體",
-        "EV"
+        "記憶體"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "1535",
@@ -2666,7 +2664,9 @@
     "tags": {
       "tech": [
         "EV",
-        "車用電子"
+        "車用電子",
+        "低軌衛星",
+        "記憶體"
       ],
       "supply": [
         "Apple供應鏈",
@@ -2674,7 +2674,7 @@
         "Meta供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "1537",
@@ -2992,7 +2992,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "1589",
@@ -5417,7 +5417,7 @@
         "Tesla供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "2204",
@@ -5440,7 +5440,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "2206",
@@ -5462,7 +5462,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "2207",
@@ -5479,7 +5479,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "2208",
@@ -5546,7 +5546,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "2228",
@@ -5571,7 +5571,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "2230",
@@ -5613,7 +5613,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "2233",
@@ -5688,7 +5688,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "2241",
@@ -5706,7 +5706,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "2243",
@@ -5739,7 +5739,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "2248",
@@ -5751,12 +5751,11 @@
     ],
     "tags": {
       "tech": [
-        "LED",
-        "車用電子"
+        "LED"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "2249",
@@ -5790,7 +5789,7 @@
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "2252",
@@ -5831,9 +5830,11 @@
         "LED",
         "PA功率放大器"
       ],
-      "supply": []
+      "supply": [
+        "NVIDIA供應鏈"
+      ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "2255",
@@ -5886,7 +5887,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "2301",
@@ -8948,7 +8949,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "2498",
@@ -14789,13 +14790,14 @@
       "tech": [
         "EV",
         "車用電子",
-        "LED"
+        "LED",
+        "散熱"
       ],
       "supply": [
         "Tesla供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "3349",
@@ -18026,7 +18028,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "4102",
@@ -19913,7 +19915,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-23"
   },
   {
     "code": "4552",

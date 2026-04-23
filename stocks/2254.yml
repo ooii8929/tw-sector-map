@@ -11,5 +11,6 @@ tags:
   - 車用電子
   - LED
   - PA功率放大器
-  supply: []
-last_enriched: '2026-04-17'
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-23'
