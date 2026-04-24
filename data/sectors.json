@@ -10736,7 +10736,7 @@
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "2851",
@@ -11009,14 +11009,11 @@
     ],
     "tags": {
       "tech": [
-        "壽險",
-        "證券",
-        "金控",
-        "銀行"
+        "PCB"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "2889",
@@ -11194,7 +11191,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "2905",
@@ -11343,7 +11340,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "2916",
