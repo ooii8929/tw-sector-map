@@ -4380,14 +4380,12 @@
       "飯店"
     ],
     "tags": {
-      "tech": [
-        "餐飲",
-        "造紙",
-        "飯店"
-      ],
-      "supply": []
+      "tech": [],
+      "supply": [
+        "NVIDIA供應鏈"
+      ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "1904",
@@ -4406,7 +4404,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "1905",
@@ -5167,11 +5165,12 @@
     ],
     "tags": {
       "tech": [
-        "風電"
+        "風電",
+        "資料中心"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "2073",
@@ -5246,7 +5245,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "2104",
@@ -5264,7 +5263,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "2105",
@@ -5301,7 +5300,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "2107",
@@ -5529,11 +5528,12 @@
     ],
     "tags": {
       "tech": [
-        "不鏽鋼"
+        "先進封裝",
+        "面板"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "2227",
@@ -9006,13 +9006,12 @@
       "預拌混凝土"
     ],
     "tags": {
-      "tech": [
-        "水泥",
-        "預拌混凝土"
-      ],
-      "supply": []
+      "tech": [],
+      "supply": [
+        "NVIDIA供應鏈"
+      ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "2505",
@@ -9029,7 +9028,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "2506",

@@ -7,8 +7,7 @@ themes:
 - 資產股
 - 預拌混凝土
 tags:
-  tech:
-  - 水泥
-  - 預拌混凝土
-  supply: []
-last_enriched: '2026-04-17'
+  tech: []
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-24'

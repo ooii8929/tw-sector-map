@@ -11,9 +11,7 @@ themes:
 - 造紙業
 - 飯店
 tags:
-  tech:
-  - 餐飲
-  - 造紙
-  - 飯店
-  supply: []
-last_enriched: '2026-04-17'
+  tech: []
+  supply:
+  - NVIDIA供應鏈
+last_enriched: '2026-04-24'
