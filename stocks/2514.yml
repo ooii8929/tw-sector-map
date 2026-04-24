@@ -10,5 +10,6 @@ themes:
 tags:
   tech:
   - LED
-  supply: []
-last_enriched: '2026-04-17'
+  supply:
+  - 三星供應鏈
+last_enriched: '2026-04-24'

@@ -9101,9 +9101,11 @@
       "tech": [
         "LED"
       ],
-      "supply": []
+      "supply": [
+        "三星供應鏈"
+      ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "2515",
@@ -9197,7 +9199,7 @@
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "2528",
@@ -9214,7 +9216,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "2530",
@@ -9249,7 +9251,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "2535",
@@ -9284,7 +9286,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "2537",
@@ -9301,7 +9303,7 @@
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "2538",
@@ -9367,11 +9369,11 @@
     ],
     "tags": {
       "tech": [
-        "營建"
+        "散熱"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "2543",
@@ -9407,7 +9409,7 @@
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "2546",
@@ -9446,7 +9448,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "2548",
