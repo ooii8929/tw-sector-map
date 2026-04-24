@@ -2350,7 +2350,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "1517",
@@ -3188,13 +3188,12 @@
     ],
     "tags": {
       "tech": [
-        "AI伺服器",
-        "伺服器",
+        "封測",
         "電池"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "1608",
@@ -3233,7 +3232,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "1611",
@@ -3253,7 +3252,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "1612",
@@ -3373,11 +3372,11 @@
     ],
     "tags": {
       "tech": [
-        "電線電纜"
+        "資料中心"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "1626",
@@ -4226,12 +4225,11 @@
     ],
     "tags": {
       "tech": [
-        "記憶體",
         "面板"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "1805",
@@ -4292,12 +4290,11 @@
     ],
     "tags": {
       "tech": [
-        "EV",
-        "PCB"
+        "EV"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "1810",
