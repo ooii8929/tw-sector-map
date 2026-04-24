@@ -25291,11 +25291,12 @@
     ],
     "tags": {
       "tech": [
-        "證券"
+        "AI伺服器",
+        "伺服器"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "6020",
@@ -26466,7 +26467,7 @@
         "博通供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "6170",
@@ -26606,7 +26607,7 @@
         "NVIDIA供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "6179",
@@ -26633,12 +26634,14 @@
       "遊戲產業"
     ],
     "tags": {
-      "tech": [],
+      "tech": [
+        "IC設計"
+      ],
       "supply": [
         "Apple供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "6182",
@@ -26692,7 +26695,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "6185",
@@ -26726,7 +26729,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "6187",
@@ -26944,7 +26947,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "6199",
@@ -26964,7 +26967,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "6201",
@@ -27639,11 +27642,14 @@
     ],
     "tags": {
       "tech": [
-        "軟體"
+        "PCB",
+        "IC設計",
+        "被動元件",
+        "面板"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "6237",
