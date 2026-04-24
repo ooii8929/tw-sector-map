@@ -10,7 +10,8 @@ themes:
 - 遊戲產業
 - 電子支付
 tags:
-  tech: []
+  tech:
+  - IC設計
   supply:
   - Apple供應鏈
-last_enriched: '2026-04-17'
+last_enriched: '2026-04-24'

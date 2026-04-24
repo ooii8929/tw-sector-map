@@ -15865,7 +15865,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "3515",
@@ -16348,11 +16348,11 @@
     ],
     "tags": {
       "tech": [
-        "先進封裝"
+        "CoWoS"
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "3552",
@@ -17554,12 +17554,14 @@
       "電子支付"
     ],
     "tags": {
-      "tech": [],
+      "tech": [
+        "IC設計"
+      ],
       "supply": [
         "Apple供應鏈"
       ]
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "3689",
@@ -17832,7 +17834,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "3709",
@@ -17946,7 +17948,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "3714",
@@ -18621,9 +18623,12 @@
       "金屬加工／製品"
     ],
     "tags": {
-      "tech": [],
+      "tech": [
+        "光通訊"
+      ],
       "supply": []
-    }
+    },
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "4155",
@@ -19137,7 +19142,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "4406",
@@ -19276,7 +19281,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-24"
   },
   {
     "code": "4430",
