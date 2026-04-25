@@ -29005,7 +29005,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-25"
   },
   {
     "code": "6465",
@@ -30097,8 +30097,11 @@
     ],
     "tags": {
       "tech": [],
-      "supply": []
-    }
+      "supply": [
+        "高通供應鏈"
+      ]
+    },
+    "last_enriched": "2026-04-25"
   },
   {
     "code": "6568",
@@ -30317,7 +30320,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-25"
   },
   {
     "code": "6582",
@@ -30519,7 +30522,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-25"
   },
   {
     "code": "6597",
@@ -30809,7 +30812,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-25"
   },
   {
     "code": "6625",
@@ -30926,7 +30929,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-25"
   },
   {
     "code": "6642",
@@ -31513,7 +31516,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-25"
   },
   {
     "code": "6690",
@@ -31568,7 +31571,7 @@
       ],
       "supply": []
     },
-    "last_enriched": "2026-04-17"
+    "last_enriched": "2026-04-25"
   },
   {
     "code": "6693",
