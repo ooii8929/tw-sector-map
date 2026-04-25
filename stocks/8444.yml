@@ -7,5 +7,6 @@ themes:
 - 複合板
 tags:
   tech: []
-  supply: []
-last_enriched: '2026-04-17'
+  supply:
+  - 三星供應鏈
+last_enriched: '2026-04-25'

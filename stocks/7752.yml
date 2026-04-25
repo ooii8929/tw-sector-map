@@ -5,5 +5,7 @@ sector: 綠能環保
 themes:
 - 綠能環保
 tags:
-  tech: []
+  tech:
+  - 風電
   supply: []
+last_enriched: '2026-04-25'
