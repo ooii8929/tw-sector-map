@@ -11,3 +11,8 @@ tags:
   - 織布
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 紡織
+  stream: 下游
+  segment: 染整
+  ic_code: O000

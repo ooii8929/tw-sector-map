@@ -8,3 +8,12 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 製藥
+  stream: 中游
+  segment: 中藥材、西藥原料藥
+  ic_code: C100
+- industry: 製藥
+  stream: 下游
+  segment: 中、西藥製劑
+  ic_code: C100

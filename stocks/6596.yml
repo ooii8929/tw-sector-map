@@ -13,3 +13,8 @@ tags:
   - 伺服器
   supply: []
 last_enriched: '2026-04-25'
+chain:
+- industry: 文化創意業
+  stream: 流行音樂及文化內容產業
+  segment: 流行音樂及文化內容產業
+  ic_code: Y000

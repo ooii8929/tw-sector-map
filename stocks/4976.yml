@@ -15,3 +15,16 @@ tags:
   - 光學鏡頭
   supply: []
 last_enriched: '2026-04-20'
+chain:
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 光學鏡片、鏡頭
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 金屬、塑膠模具
+  ic_code: F000
+- industry: 汽車
+  stream: 上游
+  segment: 其他
+  ic_code: '3000'

@@ -8,3 +8,12 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 電機機械
+  stream: 下游
+  segment: 輸送機械及零配件
+  ic_code: P000
+- industry: 電機機械
+  stream: 下游
+  segment: 車用機械傳動設備及零配件
+  ic_code: P000

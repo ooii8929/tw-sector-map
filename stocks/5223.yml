@@ -12,3 +12,36 @@ tags:
   - 伺服器
   supply: []
 last_enriched: '2026-04-21'
+chain:
+- industry: 雲端運算
+  stream: 上游
+  segment: 電腦設備
+  ic_code: '5400'
+- industry: 雲端運算
+  stream: 上游
+  segment: 冷卻設備
+  ic_code: '5400'
+- industry: 雲端運算
+  stream: 上游
+  segment: 電腦設備/伺服器
+  ic_code: '5400'
+- industry: 雲端運算
+  stream: 上游
+  segment: 電腦設備/儲存
+  ic_code: '5400'
+- industry: 雲端運算
+  stream: 上游
+  segment: 電腦設備/網路
+  ic_code: '5400'
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 散熱片、風扇馬達、散熱模組
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 金屬、塑膠模具
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 其他電腦及週邊設備之零組件
+  ic_code: F000

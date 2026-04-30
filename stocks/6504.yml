@@ -13,3 +13,28 @@ tags:
   - 紡織
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 醫療器材
+  stream: 中游
+  segment: 醫療器材研發、設計、製造
+  ic_code: C200
+- industry: 醫療器材
+  stream: 中游
+  segment: 醫療器材研發、設計、製造/衛生用品
+  ic_code: C200
+- industry: 醫療器材
+  stream: 中游
+  segment: 醫療器材研發、設計、製造/醫療耗材
+  ic_code: C200
+- industry: 石化及塑橡膠
+  stream: 下游
+  segment: 清潔用品
+  ic_code: N000
+- industry: 石化及塑橡膠
+  stream: 下游
+  segment: 化妝品
+  ic_code: N000
+- industry: 紡織
+  stream: 下游
+  segment: 成衣及其它家居紡織類品
+  ic_code: O000

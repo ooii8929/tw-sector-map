@@ -13,3 +13,20 @@ tags:
   - 射頻
   supply: []
 last_enriched: '2026-04-18'
+chain:
+- industry: 半導體
+  stream: 上游
+  segment: IC設計
+  ic_code: D000
+- industry: 半導體
+  stream: 上游
+  segment: IC設計/網路通訊IC
+  ic_code: D000
+- industry: 通信網路
+  stream: 上游
+  segment: 網路IC
+  ic_code: I000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 網路卡
+  ic_code: F000

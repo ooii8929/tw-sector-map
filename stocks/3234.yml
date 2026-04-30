@@ -20,3 +20,20 @@ tags:
   supply:
   - NVIDIA供應鏈
 last_enriched: '2026-04-20'
+chain:
+- industry: 半導體
+  stream: 中游
+  segment: IC/晶圓製造
+  ic_code: D000
+- industry: 半導體
+  stream: 中游
+  segment: IC/晶圓製造/其他IC/二極體製造
+  ic_code: D000
+- industry: 通信網路
+  stream: 上游
+  segment: 主/被動元件
+  ic_code: I000
+- industry: 通信網路
+  stream: 下游
+  segment: 光通訊設備(如光纖電纜、光傳輸設備)
+  ic_code: I000

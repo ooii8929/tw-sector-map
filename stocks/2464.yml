@@ -18,3 +18,16 @@ tags:
   - 面板
   supply: []
 last_enriched: '2026-04-22'
+chain:
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 其他電腦及週邊設備
+  ic_code: F000
+- industry: 電機機械
+  stream: 下游
+  segment: 輸送機械及零配件
+  ic_code: P000
+- industry: 電機機械
+  stream: 下游
+  segment: 機電系統工程
+  ic_code: P000

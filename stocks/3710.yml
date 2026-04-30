@@ -23,3 +23,16 @@ tags:
   - 光纖
   supply: []
 last_enriched: '2026-04-19'
+chain:
+- industry: 智慧電網
+  stream: 下游
+  segment: 能源管理服務
+  ic_code: AD10
+- industry: 通信網路
+  stream: 上游
+  segment: 主/被動元件
+  ic_code: I000
+- industry: 連接器
+  stream: 中游
+  segment: 連接器設計、組裝及製造
+  ic_code: K000

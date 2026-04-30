@@ -17,3 +17,20 @@ tags:
   - 環保
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 建材營造
+  stream: 中游
+  segment: 營造業
+  ic_code: S000
+- industry: 建材營造
+  stream: 中游
+  segment: 建設業
+  ic_code: S000
+- industry: 建材營造
+  stream: 中游
+  segment: 工程承攬
+  ic_code: S000
+- industry: 其他
+  stream: 未分類
+  segment: 環保潔能服務產業
+  ic_code: X000

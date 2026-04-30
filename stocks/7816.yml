@@ -11,3 +11,16 @@ tags:
   - 鋰電池
   supply: []
 last_enriched: '2026-04-20'
+chain:
+- industry: 能源元件
+  stream: 上游
+  segment: 原材料
+  ic_code: E000
+- industry: 能源元件
+  stream: 中游
+  segment: 電池芯
+  ic_code: E000
+- industry: 能源元件
+  stream: 下游
+  segment: 電池模組
+  ic_code: E000

@@ -10,3 +10,24 @@ tags:
   - IC設計
   supply: []
 last_enriched: '2026-04-19'
+chain:
+- industry: 半導體
+  stream: 上游
+  segment: IC設計
+  ic_code: D000
+- industry: 半導體
+  stream: 上游
+  segment: IC設計/網路通訊IC
+  ic_code: D000
+- industry: 雲端運算
+  stream: 下游
+  segment: 雲端應用服務
+  ic_code: '5400'
+- industry: 雲端運算
+  stream: 下游
+  segment: 雲端應用服務/PaaS
+  ic_code: '5400'
+- industry: 雲端運算
+  stream: 下游
+  segment: 雲端應用服務/SaaS
+  ic_code: '5400'

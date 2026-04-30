@@ -10,3 +10,12 @@ tags:
   - 工業電腦
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 安全監控系統
+  ic_code: F000
+- industry: 平面顯示器
+  stream: 中游
+  segment: 生產製程及檢測設備
+  ic_code: G000

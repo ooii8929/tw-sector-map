@@ -12,3 +12,40 @@ tags:
   - 網通設備
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 運動科技
+  stream: 上游
+  segment: 裝置/器材零組件
+  ic_code: '5800'
+- industry: 運動科技
+  stream: 上游
+  segment: 軟體開發
+  ic_code: '5800'
+- industry: 運動科技
+  stream: 中游
+  segment: 運動用品
+  ic_code: '5800'
+- industry: 運動科技
+  stream: 中游
+  segment: 穿戴式裝置
+  ic_code: '5800'
+- industry: 運動科技
+  stream: 中游
+  segment: 通訊服務
+  ic_code: '5800'
+- industry: 運動科技
+  stream: 中游
+  segment: 數位內容
+  ic_code: '5800'
+- industry: 運動科技
+  stream: 下游
+  segment: 運動服務/顧問
+  ic_code: '5800'
+- industry: 運動科技
+  stream: 下游
+  segment: 運動行銷/媒體
+  ic_code: '5800'
+- industry: 通信網路
+  stream: 下游
+  segment: 無線通訊設備(如行動電話、衛星定位系統、衛星通訊設備、微波通訊設備、數位機上盒)
+  ic_code: I000

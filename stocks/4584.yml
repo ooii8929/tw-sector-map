@@ -8,3 +8,20 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 電機機械
+  stream: 上游
+  segment: 傳動元件
+  ic_code: P000
+- industry: 電機機械
+  stream: 上游
+  segment: 電控元件
+  ic_code: P000
+- industry: 電機機械
+  stream: 上游
+  segment: 油空壓元件
+  ic_code: P000
+- industry: 電機機械
+  stream: 下游
+  segment: 車用機械傳動設備及零配件
+  ic_code: P000

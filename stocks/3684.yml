@@ -14,3 +14,8 @@ tags:
   - 低軌衛星
   supply: []
 last_enriched: '2026-04-20'
+chain:
+- industry: 通信網路
+  stream: 下游
+  segment: 無線通訊設備(如行動電話、衛星定位系統、衛星通訊設備、微波通訊設備、數位機上盒)
+  ic_code: I000

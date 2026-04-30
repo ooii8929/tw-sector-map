@@ -7,3 +7,8 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 電機機械
+  stream: 上游
+  segment: 鋼鑄鐵元件
+  ic_code: P000

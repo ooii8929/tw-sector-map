@@ -11,3 +11,8 @@ tags:
   - 不鏽鋼
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 鋼鐵
+  stream: 下游
+  segment: 螺絲螺帽
+  ic_code: Q000

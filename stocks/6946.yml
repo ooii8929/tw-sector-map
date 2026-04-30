@@ -9,3 +9,8 @@ tags:
   - 儲能
   supply: []
 last_enriched: '2026-04-25'
+chain:
+- industry: 太陽能產業
+  stream: 下游
+  segment: 太陽能電廠
+  ic_code: A100

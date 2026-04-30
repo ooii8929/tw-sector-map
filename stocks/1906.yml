@@ -10,3 +10,8 @@ tags:
   - 造紙
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 造紙
+  stream: 下游
+  segment: 銷售、進出口業務
+  ic_code: '2000'

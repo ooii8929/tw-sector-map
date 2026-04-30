@@ -16,3 +16,20 @@ tags:
   - MLCC
   supply: []
 last_enriched: '2026-04-19'
+chain:
+- industry: 被動元件
+  stream: 中游
+  segment: 電阻器
+  ic_code: J000
+- industry: 被動元件
+  stream: 中游
+  segment: 電容器
+  ic_code: J000
+- industry: 被動元件
+  stream: 中游
+  segment: 電感器
+  ic_code: J000
+- industry: 被動元件
+  stream: 中游
+  segment: 濾波器、振盪器
+  ic_code: J000

@@ -11,3 +11,16 @@ tags:
   - 遊戲
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 休閒娛樂
+  stream: 線上遊戲業
+  segment: 線上遊戲業
+  ic_code: B000
+- industry: 休閒娛樂
+  stream: 線上遊戲業/設計開發
+  segment: 線上遊戲業/設計開發
+  ic_code: B000
+- industry: 文化創意業
+  stream: 數位內容產業
+  segment: 數位內容產業
+  ic_code: Y000

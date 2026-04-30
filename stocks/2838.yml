@@ -10,3 +10,12 @@ tags:
   - PA功率放大器
   supply: []
 last_enriched: '2026-04-24'
+chain:
+- industry: 金融
+  stream: 金控業/銀行業/保險業
+  segment: 金控業/銀行業/保險業
+  ic_code: U000
+- industry: 金融
+  stream: 證券業
+  segment: 證券業
+  ic_code: U000

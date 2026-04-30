@@ -9,3 +9,12 @@ tags:
   - DRAM
   supply: []
 last_enriched: '2026-04-23'
+chain:
+- industry: 半導體
+  stream: 中游
+  segment: 化學品
+  ic_code: D000
+- industry: 平面顯示器
+  stream: 上游
+  segment: 化學品(如光阻劑、靶材等)
+  ic_code: G000

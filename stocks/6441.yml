@@ -14,3 +14,16 @@ tags:
   - 電池
   supply: []
 last_enriched: '2026-04-21'
+chain:
+- industry: 能源元件
+  stream: 下游
+  segment: 電池模組
+  ic_code: E000
+- industry: 智慧電網
+  stream: 中游
+  segment: 配電管理設施
+  ic_code: AD10
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 工業電腦
+  ic_code: F000

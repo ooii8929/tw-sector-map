@@ -14,3 +14,8 @@ tags:
   - 記憶體
   supply: []
 last_enriched: '2026-04-19'
+chain:
+- industry: 被動元件
+  stream: 中游
+  segment: 電容器
+  ic_code: J000

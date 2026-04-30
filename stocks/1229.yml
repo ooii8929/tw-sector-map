@@ -15,3 +15,12 @@ tags:
   - 麵粉
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 雲端運算
+  stream: 下游
+  segment: 系統整合
+  ic_code: '5400'
+- industry: 食品
+  stream: 中游
+  segment: 加工食品
+  ic_code: M000

@@ -9,3 +9,16 @@ tags:
   - 先進封裝
   supply: []
 last_enriched: '2026-04-20'
+chain:
+- industry: 半導體
+  stream: 中游
+  segment: 生產製程及檢測設備
+  ic_code: D000
+- industry: 平面顯示器
+  stream: 上游
+  segment: 擴散膜、增亮膜、導光板
+  ic_code: G000
+- industry: 觸控面板
+  stream: 上游
+  segment: 膠材
+  ic_code: H000

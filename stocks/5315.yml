@@ -10,3 +10,20 @@ tags:
   - 面板
   supply: []
 last_enriched: '2026-04-20'
+chain:
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 面板
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 顯示器模組
+  ic_code: F000
+- industry: 平面顯示器
+  stream: 中游
+  segment: 面板
+  ic_code: G000
+- industry: 平面顯示器
+  stream: 中游
+  segment: 顯示器模組
+  ic_code: G000

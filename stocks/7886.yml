@@ -9,3 +9,36 @@ tags:
   - 低軌衛星
   supply: []
 last_enriched: '2026-04-19'
+chain:
+- industry: 半導體
+  stream: 中游
+  segment: 生產製程及檢測設備
+  ic_code: D000
+- industry: 太空衛星科技
+  stream: 上游
+  segment: 零組件/材料
+  ic_code: '4100'
+- industry: 太空衛星科技
+  stream: 上游
+  segment: 零組件/材料/天線/射頻基頻
+  ic_code: '4100'
+- industry: 太空衛星科技
+  stream: 上游
+  segment: 零組件/材料/太陽能板/電池
+  ic_code: '4100'
+- industry: 太空衛星科技
+  stream: 上游
+  segment: 零組件/材料/感測器
+  ic_code: '4100'
+- industry: 太空衛星科技
+  stream: 上游
+  segment: 零組件/材料/微電子
+  ic_code: '4100'
+- industry: 太空衛星科技
+  stream: 上游
+  segment: 零組件/材料/金屬/燃料
+  ic_code: '4100'
+- industry: 休閒娛樂
+  stream: 休閒車業
+  segment: 休閒車業
+  ic_code: B000

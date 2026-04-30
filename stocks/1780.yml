@@ -7,3 +7,12 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 食品生技
+  stream: 上游
+  segment: 原料
+  ic_code: C300
+- industry: 食品生技
+  stream: 中游
+  segment: 加工製成品
+  ic_code: C300

@@ -7,3 +7,44 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 運動科技
+  stream: 上游
+  segment: 裝置/器材顯示器
+  ic_code: '5800'
+- industry: 運動科技
+  stream: 上游
+  segment: 裝置/器材零組件
+  ic_code: '5800'
+- industry: 運動科技
+  stream: 上游
+  segment: 感測裝置
+  ic_code: '5800'
+- industry: 運動科技
+  stream: 上游
+  segment: 軟體開發
+  ic_code: '5800'
+- industry: 運動科技
+  stream: 中游
+  segment: 健身器材
+  ic_code: '5800'
+- industry: 運動科技
+  stream: 中游
+  segment: 運動用品
+  ic_code: '5800'
+- industry: 運動科技
+  stream: 中游
+  segment: 穿戴式裝置
+  ic_code: '5800'
+- industry: 運動科技
+  stream: 中游
+  segment: 通訊服務
+  ic_code: '5800'
+- industry: 運動科技
+  stream: 中游
+  segment: 數位內容
+  ic_code: '5800'
+- industry: 運動科技
+  stream: 下游
+  segment: 健身平台/APP
+  ic_code: '5800'

@@ -12,3 +12,16 @@ tags:
   supply:
   - NVIDIA供應鏈
 last_enriched: '2026-04-24'
+chain:
+- industry: 醫療器材
+  stream: 中游
+  segment: 醫療器材研發、設計、製造
+  ic_code: C200
+- industry: 醫療器材
+  stream: 中游
+  segment: 醫療器材研發、設計、製造/衛生用品
+  ic_code: C200
+- industry: 紡織
+  stream: 下游
+  segment: 成衣及其它家居紡織類品
+  ic_code: O000

@@ -10,3 +10,24 @@ tags:
   - 電線電纜
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 汽電共生
+  stream: 上游
+  segment: 電纜
+  ic_code: AB10
+- industry: 風力發電
+  stream: 上游
+  segment: 電纜
+  ic_code: AB20
+- industry: 智慧電網
+  stream: 中游
+  segment: 高/低壓輸電設施
+  ic_code: AD10
+- industry: 建材營造
+  stream: 上游
+  segment: 建材原料
+  ic_code: S000
+- industry: 其他
+  stream: 未分類
+  segment: 其他
+  ic_code: X000

@@ -14,3 +14,12 @@ tags:
   - 面板
   supply: []
 last_enriched: '2026-04-24'
+chain:
+- industry: 印刷電路板
+  stream: 上游
+  segment: 玻璃纖維/玻纖布
+  ic_code: L000
+- industry: 建材營造
+  stream: 上游
+  segment: 建材原料
+  ic_code: S000

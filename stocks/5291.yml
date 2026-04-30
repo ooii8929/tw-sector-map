@@ -15,3 +15,12 @@ tags:
   - 低軌衛星
   supply: []
 last_enriched: '2026-04-19'
+chain:
+- industry: LED照明產業
+  stream: 下游
+  segment: 燈具/應用
+  ic_code: A200
+- industry: 印刷電路板
+  stream: 中游
+  segment: 硬板、軟板、IC載板製造
+  ic_code: L000

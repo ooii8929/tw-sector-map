@@ -12,3 +12,16 @@ tags:
   - CPO
   supply: []
 last_enriched: '2026-04-20'
+chain:
+- industry: 通信網路
+  stream: 下游
+  segment: 無線通訊設備(如行動電話、衛星定位系統、衛星通訊設備、微波通訊設備、數位機上盒)
+  ic_code: I000
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 安全監控系統
+  ic_code: F000
+- industry: 建材營造
+  stream: 中游
+  segment: 建設業
+  ic_code: S000

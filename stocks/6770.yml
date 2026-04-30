@@ -15,3 +15,16 @@ tags:
   - Google供應鏈
   - Meta供應鏈
 last_enriched: '2026-04-19'
+chain:
+- industry: 半導體
+  stream: 中游
+  segment: IC/晶圓製造
+  ic_code: D000
+- industry: 半導體
+  stream: 中游
+  segment: IC/晶圓製造/晶圓製造
+  ic_code: D000
+- industry: 半導體
+  stream: 中游
+  segment: IC/晶圓製造/DRAM製造
+  ic_code: D000

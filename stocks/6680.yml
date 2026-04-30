@@ -10,3 +10,32 @@ tags:
   - 記憶體
   supply: []
 last_enriched: '2026-04-21'
+chain:
+- industry: 人工智慧
+  stream: 應用與服務
+  segment: 智慧設備
+  ic_code: '5300'
+- industry: 人工智慧
+  stream: 運算資源
+  segment: 運算設備
+  ic_code: '5300'
+- industry: 雲端運算
+  stream: 上游
+  segment: 電腦設備
+  ic_code: '5400'
+- industry: 雲端運算
+  stream: 上游
+  segment: 電腦設備/伺服器
+  ic_code: '5400'
+- industry: 雲端運算
+  stream: 上游
+  segment: 電腦設備/儲存
+  ic_code: '5400'
+- industry: 雲端運算
+  stream: 上游
+  segment: 電腦設備/網路
+  ic_code: '5400'
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 工業電腦
+  ic_code: F000

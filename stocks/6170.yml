@@ -18,3 +18,8 @@ tags:
   - 美妝
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 通信網路
+  stream: 下游
+  segment: 電信服務業
+  ic_code: I000

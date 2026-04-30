@@ -8,3 +8,8 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 交通運輸及航運
+  stream: 海陸空大眾運輸
+  segment: 海陸空大眾運輸
+  ic_code: T000

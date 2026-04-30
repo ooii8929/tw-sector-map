@@ -15,3 +15,8 @@ tags:
   - 電商
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 休閒娛樂
+  stream: 高爾夫球具業
+  segment: 高爾夫球具業
+  ic_code: B000

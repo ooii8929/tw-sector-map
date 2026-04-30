@@ -17,3 +17,12 @@ tags:
   - AMD供應鏈
   - 三星供應鏈
 last_enriched: '2026-04-19'
+chain:
+- industry: 半導體
+  stream: 上游
+  segment: IC設計
+  ic_code: D000
+- industry: 半導體
+  stream: 上游
+  segment: IC設計/電源管理IC
+  ic_code: D000

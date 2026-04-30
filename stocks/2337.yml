@@ -15,3 +15,24 @@ tags:
   - 面板
   supply: []
 last_enriched: '2026-04-18'
+chain:
+- industry: 半導體
+  stream: 上游
+  segment: IC設計
+  ic_code: D000
+- industry: 半導體
+  stream: 中游
+  segment: IC/晶圓製造
+  ic_code: D000
+- industry: 半導體
+  stream: 下游
+  segment: IC封裝測試
+  ic_code: D000
+- industry: 半導體
+  stream: 上游
+  segment: IC設計/記憶體IC
+  ic_code: D000
+- industry: 半導體
+  stream: 中游
+  segment: IC/晶圓製造/晶圓製造
+  ic_code: D000

@@ -29,3 +29,28 @@ tags:
   - 博通供應鏈
   - Google供應鏈
 last_enriched: '2026-04-18'
+chain:
+- industry: 半導體
+  stream: 上游
+  segment: IC設計
+  ic_code: D000
+- industry: 半導體
+  stream: 上游
+  segment: IC設計/消費性IC
+  ic_code: D000
+- industry: 半導體
+  stream: 上游
+  segment: IC設計/電源管理IC
+  ic_code: D000
+- industry: 半導體
+  stream: 上游
+  segment: IC設計/網路通訊IC
+  ic_code: D000
+- industry: 半導體
+  stream: 上游
+  segment: IC設計/平面顯示器控制IC
+  ic_code: D000
+- industry: 半導體
+  stream: 上游
+  segment: IC設計/光儲存控制IC
+  ic_code: D000

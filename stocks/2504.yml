@@ -11,3 +11,12 @@ tags:
   supply:
   - NVIDIA供應鏈
 last_enriched: '2026-04-24'
+chain:
+- industry: 水泥
+  stream: 下游
+  segment: 預拌混凝土
+  ic_code: '1000'
+- industry: 建材營造
+  stream: 上游
+  segment: 建材原料
+  ic_code: S000

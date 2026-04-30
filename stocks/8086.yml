@@ -21,3 +21,12 @@ tags:
   - 電池
   supply: []
 last_enriched: '2026-04-19'
+chain:
+- industry: 半導體
+  stream: 中游
+  segment: IC/晶圓製造
+  ic_code: D000
+- industry: 半導體
+  stream: 中游
+  segment: IC/晶圓製造/晶圓製造
+  ic_code: D000

@@ -9,3 +9,20 @@ tags:
   supply:
   - Google供應鏈
 last_enriched: '2026-04-25'
+chain:
+- industry: 軟體服務
+  stream: 應用/系統軟體設計開發
+  segment: 應用/系統軟體設計開發
+  ic_code: R000
+- industry: 軟體服務
+  stream: 系統整合服務
+  segment: 系統整合服務
+  ic_code: R000
+- industry: 軟體服務
+  stream: 資料處理服務
+  segment: 資料處理服務
+  ic_code: R000
+- industry: 軟體服務
+  stream: 通路經銷
+  segment: 通路經銷
+  ic_code: R000

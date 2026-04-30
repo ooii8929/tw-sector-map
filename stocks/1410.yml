@@ -11,3 +11,16 @@ tags:
   - 封測
   supply: []
 last_enriched: '2026-04-23'
+chain:
+- industry: 半導體
+  stream: 下游
+  segment: IC封裝測試
+  ic_code: D000
+- industry: 石化及塑橡膠
+  stream: 下游
+  segment: 塑膠製品
+  ic_code: N000
+- industry: 紡織
+  stream: 下游
+  segment: 染整
+  ic_code: O000

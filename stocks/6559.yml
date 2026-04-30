@@ -12,3 +12,8 @@ tags:
   - Apple供應鏈
   - NVIDIA供應鏈
 last_enriched: '2026-04-20'
+chain:
+- industry: LED照明產業
+  stream: 下游
+  segment: 封裝/模組
+  ic_code: A200

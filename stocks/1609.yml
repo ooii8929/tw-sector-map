@@ -12,3 +12,20 @@ tags:
   - 低軌衛星
   supply: []
 last_enriched: '2026-04-24'
+chain:
+- industry: 太陽能產業
+  stream: 下游
+  segment: 太陽能電廠
+  ic_code: A100
+- industry: 風力發電
+  stream: 上游
+  segment: 電纜
+  ic_code: AB20
+- industry: 智慧電網
+  stream: 中游
+  segment: 高/低壓輸電設施
+  ic_code: AD10
+- industry: 其他
+  stream: 未分類
+  segment: 其他
+  ic_code: X000

@@ -10,3 +10,8 @@ tags:
   - 百貨零售
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 貿易百貨
+  stream: 下游
+  segment: 零售通路
+  ic_code: V000

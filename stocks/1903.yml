@@ -15,3 +15,8 @@ tags:
   supply:
   - NVIDIA供應鏈
 last_enriched: '2026-04-24'
+chain:
+- industry: 造紙
+  stream: 中游
+  segment: 工業用紙
+  ic_code: '2000'

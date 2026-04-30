@@ -14,3 +14,12 @@ tags:
   supply:
   - NVIDIA供應鏈
 last_enriched: '2026-04-18'
+chain:
+- industry: 半導體
+  stream: 中游
+  segment: 生產製程及檢測設備
+  ic_code: D000
+- industry: LED照明產業
+  stream: 下游
+  segment: 燈具/應用
+  ic_code: A200

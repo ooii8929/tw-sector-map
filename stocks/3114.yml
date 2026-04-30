@@ -13,3 +13,28 @@ tags:
   - 連接器
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 半導體
+  stream: 中游
+  segment: 生產製程及檢測設備
+  ic_code: D000
+- industry: LED照明產業
+  stream: 中游
+  segment: 生產製程、檢測設備及原物料
+  ic_code: A200
+- industry: 印刷電路板
+  stream: 中游
+  segment: 硬板、軟板、IC載板製造
+  ic_code: L000
+- industry: 連接器
+  stream: 中游
+  segment: 連接器設計、組裝及製造
+  ic_code: K000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 連接線
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 其他電腦及週邊設備之零組件
+  ic_code: F000

@@ -10,3 +10,8 @@ tags:
   - 塑膠
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 其他
+  stream: 未分類
+  segment: 其他
+  ic_code: X000

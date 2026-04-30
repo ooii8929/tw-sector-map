@@ -16,3 +16,8 @@ tags:
   - 散熱
   supply: []
 last_enriched: '2026-04-20'
+chain:
+- industry: 被動元件
+  stream: 上游
+  segment: 電感器材料(如鐵氧體、導電漿墨)
+  ic_code: J000

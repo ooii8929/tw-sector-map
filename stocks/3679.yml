@@ -11,3 +11,24 @@ tags:
   - 塑膠
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 金屬、塑膠模具
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 其他電腦及週邊設備之零組件
+  ic_code: F000
+- industry: 平面顯示器
+  stream: 上游
+  segment: 其他零組件
+  ic_code: G000
+- industry: 汽車
+  stream: 上游
+  segment: 其他
+  ic_code: '3000'
+- industry: 其他
+  stream: 未分類
+  segment: 其他電子產品及電子服務產業
+  ic_code: X000

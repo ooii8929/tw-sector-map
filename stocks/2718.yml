@@ -11,3 +11,8 @@ tags:
   - 營建
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 建材營造
+  stream: 中游
+  segment: 建設業
+  ic_code: S000

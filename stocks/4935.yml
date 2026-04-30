@@ -11,3 +11,24 @@ tags:
   - 面板
   supply: []
 last_enriched: '2026-04-20'
+chain:
+- industry: LED照明產業
+  stream: 下游
+  segment: 燈具/應用
+  ic_code: A200
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 其他電腦及週邊設備之零組件
+  ic_code: F000
+- industry: 平面顯示器
+  stream: 上游
+  segment: 擴散膜、增亮膜、導光板
+  ic_code: G000
+- industry: 石化及塑橡膠
+  stream: 下游
+  segment: 塑膠製品
+  ic_code: N000
+- industry: 其他
+  stream: 未分類
+  segment: 其他電子產品及電子服務產業
+  ic_code: X000

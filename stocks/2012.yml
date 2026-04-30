@@ -10,3 +10,28 @@ tags:
   - 螺絲螺帽
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 風力發電
+  stream: 上游
+  segment: 其他配件
+  ic_code: AB20
+- industry: 鋼鐵
+  stream: 中游
+  segment: 線材盤元
+  ic_code: Q000
+- industry: 鋼鐵
+  stream: 下游
+  segment: 金屬製品
+  ic_code: Q000
+- industry: 鋼鐵
+  stream: 下游
+  segment: 模具
+  ic_code: Q000
+- industry: 鋼鐵
+  stream: 下游
+  segment: 螺絲螺帽
+  ic_code: Q000
+- industry: 鋼鐵
+  stream: 下游
+  segment: 鋼線鋼纜
+  ic_code: Q000

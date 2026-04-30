@@ -10,3 +10,16 @@ tags:
   - 印刷
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 休閒娛樂
+  stream: 高爾夫球具業
+  segment: 高爾夫球具業
+  ic_code: B000
+- industry: 休閒娛樂
+  stream: 休閒車業
+  segment: 休閒車業
+  ic_code: B000
+- industry: 其他
+  stream: 未分類
+  segment: 其他
+  ic_code: X000

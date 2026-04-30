@@ -11,3 +11,8 @@ tags:
   - 面板
   supply: []
 last_enriched: '2026-04-20'
+chain:
+- industry: 平面顯示器
+  stream: 上游
+  segment: 背光模組
+  ic_code: G000

@@ -8,3 +8,20 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 石化及塑橡膠
+  stream: 下游
+  segment: 塑膠製品
+  ic_code: N000
+- industry: 石化及塑橡膠
+  stream: 下游
+  segment: 人造纖維
+  ic_code: N000
+- industry: 石化及塑橡膠
+  stream: 下游
+  segment: 接著劑(合成樹脂)
+  ic_code: N000
+- industry: 建材營造
+  stream: 中游
+  segment: 建設業
+  ic_code: S000

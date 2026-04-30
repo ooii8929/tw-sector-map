@@ -12,3 +12,32 @@ tags:
   - 雲端服務
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 金融科技
+  stream: 領域應用
+  segment: 數位銀行
+  ic_code: '5200'
+- industry: 人工智慧
+  stream: 應用與服務
+  segment: 系統整合
+  ic_code: '5300'
+- industry: 人工智慧
+  stream: 應用與服務
+  segment: 領域解決方案
+  ic_code: '5300'
+- industry: 雲端運算
+  stream: 下游
+  segment: 系統整合
+  ic_code: '5400'
+- industry: 大數據
+  stream: 應用與服務
+  segment: 系統整合
+  ic_code: '5600'
+- industry: 大數據
+  stream: 應用與服務
+  segment: 領域解決方案
+  ic_code: '5600'
+- industry: 軟體服務
+  stream: 應用/系統軟體設計開發
+  segment: 應用/系統軟體設計開發
+  ic_code: R000

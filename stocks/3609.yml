@@ -12,3 +12,12 @@ tags:
   - LED
   supply: []
 last_enriched: '2026-04-19'
+chain:
+- industry: LED照明產業
+  stream: 下游
+  segment: 燈具/應用
+  ic_code: A200
+- industry: 汽車
+  stream: 下游
+  segment: 銷售、進出口業務
+  ic_code: '3000'

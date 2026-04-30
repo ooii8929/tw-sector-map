@@ -18,3 +18,40 @@ tags:
   - 伺服器
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 半導體
+  stream: 下游
+  segment: IC通路
+  ic_code: D000
+- industry: LED照明產業
+  stream: 下游
+  segment: 封裝/模組
+  ic_code: A200
+- industry: LED照明產業
+  stream: 下游
+  segment: 燈具/應用
+  ic_code: A200
+- industry: 能源元件
+  stream: 下游
+  segment: 電池模組
+  ic_code: E000
+- industry: 被動元件
+  stream: 中游
+  segment: 電容器
+  ic_code: J000
+- industry: 被動元件
+  stream: 中游
+  segment: 濾波器、振盪器
+  ic_code: J000
+- industry: 通信網路
+  stream: 上游
+  segment: 主/被動元件
+  ic_code: I000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 電池
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 其他電腦及週邊設備之零組件
+  ic_code: F000

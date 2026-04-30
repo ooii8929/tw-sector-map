@@ -7,3 +7,12 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 風力發電
+  stream: 中游
+  segment: 風場營造
+  ic_code: AB20
+- industry: 其他
+  stream: 未分類
+  segment: 其他
+  ic_code: X000

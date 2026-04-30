@@ -12,3 +12,8 @@ tags:
   - 不動產
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 休閒娛樂
+  stream: 娛樂服務業
+  segment: 娛樂服務業
+  ic_code: B000

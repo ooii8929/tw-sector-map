@@ -10,3 +10,12 @@ tags:
   - 輪圈
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 電機機械
+  stream: 下游
+  segment: 車用機械傳動設備及零配件
+  ic_code: P000
+- industry: 汽車
+  stream: 上游
+  segment: 鋁合金鋼圈
+  ic_code: '3000'

@@ -9,3 +9,8 @@ tags:
   - 電池
   supply: []
 last_enriched: '2026-04-23'
+chain:
+- industry: 石化及塑橡膠
+  stream: 上游
+  segment: 石化上游原料及相關鑽探設備
+  ic_code: N000

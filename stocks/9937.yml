@@ -11,3 +11,8 @@ tags:
   - EV
   supply: []
 last_enriched: '2026-04-25'
+chain:
+- industry: 油電燃氣
+  stream: 加油站
+  segment: 加油站
+  ic_code: W000

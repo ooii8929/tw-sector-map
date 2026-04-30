@@ -10,3 +10,40 @@ tags:
   supply:
   - Google供應鏈
 last_enriched: '2026-04-25'
+chain:
+- industry: 電子商務
+  stream: 上游
+  segment: 物流倉儲服務
+  ic_code: R300
+- industry: 電子商務
+  stream: 上游
+  segment: 資訊系統建置服務
+  ic_code: R300
+- industry: 電子商務
+  stream: 上游
+  segment: 金流串接處理服務
+  ic_code: R300
+- industry: 電子商務
+  stream: 上游
+  segment: 資料分析處理服務
+  ic_code: R300
+- industry: 電子商務
+  stream: 上游
+  segment: 行銷廣告服務
+  ic_code: R300
+- industry: 電子商務
+  stream: 中游
+  segment: 店點開設管理
+  ic_code: R300
+- industry: 電子商務
+  stream: 中游
+  segment: 資訊聚合
+  ic_code: R300
+- industry: 電子商務
+  stream: 下游
+  segment: 一般零售
+  ic_code: R300
+- industry: 電子商務
+  stream: 下游
+  segment: 票券銷售
+  ic_code: R300

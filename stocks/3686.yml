@@ -14,3 +14,8 @@ tags:
   - 電池
   supply: []
 last_enriched: '2026-04-19'
+chain:
+- industry: 太陽能產業
+  stream: 上游
+  segment: 矽晶圓/矽晶片
+  ic_code: A100

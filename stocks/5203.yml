@@ -16,3 +16,12 @@ tags:
   - Apple供應鏈
   - AMD供應鏈
 last_enriched: '2026-04-21'
+chain:
+- industry: 人工智慧
+  stream: 應用與服務
+  segment: 領域解決方案
+  ic_code: '5300'
+- industry: 軟體服務
+  stream: 應用/系統軟體設計開發
+  segment: 應用/系統軟體設計開發
+  ic_code: R000

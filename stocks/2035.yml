@@ -12,3 +12,8 @@ tags:
   - 不鏽鋼
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 鋼鐵
+  stream: 上游
+  segment: 不鏽鋼胚
+  ic_code: Q000

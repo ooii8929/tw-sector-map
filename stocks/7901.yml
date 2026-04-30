@@ -7,3 +7,8 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 通信網路
+  stream: 下游
+  segment: 電信服務業
+  ic_code: I000

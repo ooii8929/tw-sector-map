@@ -12,3 +12,16 @@ tags:
   - 醫材
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 醫療器材
+  stream: 中游
+  segment: 醫療器材研發、設計、製造
+  ic_code: C200
+- industry: 醫療器材
+  stream: 中游
+  segment: 醫療器材研發、設計、製造/生物檢測
+  ic_code: C200
+- industry: 其他
+  stream: 未分類
+  segment: 農業科技業
+  ic_code: X000

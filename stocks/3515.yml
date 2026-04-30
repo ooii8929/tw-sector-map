@@ -14,3 +14,24 @@ tags:
   supply:
   - AMD供應鏈
 last_enriched: '2026-04-21'
+chain:
+- industry: 區塊鏈
+  stream: 運算資源
+  segment: 元件裝置
+  ic_code: '5100'
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 主機板
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 顯示卡
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 工業電腦
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 伺服器
+  ic_code: F000

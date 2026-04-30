@@ -8,3 +8,12 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 鋼鐵
+  stream: 下游
+  segment: 金屬製品
+  ic_code: Q000
+- industry: 鋼鐵
+  stream: 下游
+  segment: 模具
+  ic_code: Q000

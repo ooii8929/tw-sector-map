@@ -10,3 +10,8 @@ tags:
   - 期貨
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 金融
+  stream: 期貨業
+  segment: 期貨業
+  ic_code: U000

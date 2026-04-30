@@ -13,3 +13,12 @@ tags:
   - 連接器
   supply: []
 last_enriched: '2026-04-21'
+chain:
+- industry: 半導體
+  stream: 下游
+  segment: IC通路
+  ic_code: D000
+- industry: 再生醫療
+  stream: 下游
+  segment: 臨床實驗、移植技術、疾病治療
+  ic_code: C400

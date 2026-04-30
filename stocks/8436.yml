@@ -16,3 +16,8 @@ tags:
   - 美妝
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 食品生技
+  stream: 中游
+  segment: 加工製成品
+  ic_code: C300

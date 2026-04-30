@@ -10,3 +10,24 @@ tags:
   - 面板
   supply: []
 last_enriched: '2026-04-20'
+chain:
+- industry: 自動化
+  stream: 上游
+  segment: 感測器
+  ic_code: '6000'
+- industry: 自動化
+  stream: 上游
+  segment: 控制器
+  ic_code: '6000'
+- industry: 自動化
+  stream: 上游
+  segment: HMI
+  ic_code: '6000'
+- industry: 自動化
+  stream: 下游
+  segment: 自動化機台
+  ic_code: '6000'
+- industry: 觸控面板
+  stream: 中游
+  segment: 觸控面板
+  ic_code: H000

@@ -11,3 +11,8 @@ tags:
   - 記憶體
   supply: []
 last_enriched: '2026-04-19'
+chain:
+- industry: 半導體
+  stream: 上游
+  segment: IP設計/IC設計代工服務
+  ic_code: D000

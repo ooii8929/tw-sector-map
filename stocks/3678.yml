@@ -9,3 +9,8 @@ tags:
   - 矽光子
   supply: []
 last_enriched: '2026-04-20'
+chain:
+- industry: 觸控面板
+  stream: 上游
+  segment: ITO導電薄膜
+  ic_code: H000

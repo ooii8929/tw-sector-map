@@ -11,3 +11,20 @@ tags:
   - 太陽能
   supply: []
 last_enriched: '2026-04-21'
+chain:
+- industry: 太陽能產業
+  stream: 下游
+  segment: 太陽能發電設備/系統及系統工程
+  ic_code: A100
+- industry: 平面顯示器
+  stream: 上游
+  segment: 擴散膜、增亮膜、導光板
+  ic_code: G000
+- industry: 汽車
+  stream: 上游
+  segment: 車燈
+  ic_code: '3000'
+- industry: 汽車
+  stream: 上游
+  segment: 鈑金
+  ic_code: '3000'

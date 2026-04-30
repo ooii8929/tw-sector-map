@@ -14,3 +14,8 @@ tags:
   - 光纖
   supply: []
 last_enriched: '2026-04-20'
+chain:
+- industry: 通信網路
+  stream: 下游
+  segment: 光通訊設備(如光纖電纜、光傳輸設備)
+  ic_code: I000

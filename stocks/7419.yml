@@ -7,3 +7,8 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 印刷電路板
+  stream: 上游
+  segment: 聚亞醯胺樹脂
+  ic_code: L000

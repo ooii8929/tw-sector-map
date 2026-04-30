@@ -13,3 +13,8 @@ tags:
   - EV
   supply: []
 last_enriched: '2026-04-21'
+chain:
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 印表機、傳真機、掃瞄器、多功能事務機、投影機
+  ic_code: F000

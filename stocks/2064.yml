@@ -11,3 +11,16 @@ tags:
   - EV
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 鋼鐵
+  stream: 中游
+  segment: 線材盤元
+  ic_code: Q000
+- industry: 鋼鐵
+  stream: 中游
+  segment: 棒鋼盤元(捲狀條鋼)
+  ic_code: Q000
+- industry: 鋼鐵
+  stream: 中游
+  segment: 不鏽鋼棒線
+  ic_code: Q000

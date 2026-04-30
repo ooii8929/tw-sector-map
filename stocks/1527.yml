@@ -11,3 +11,8 @@ tags:
   - 自行車
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 電機機械
+  stream: 下游
+  segment: 手工具機
+  ic_code: P000

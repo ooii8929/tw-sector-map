@@ -11,3 +11,12 @@ tags:
   - EV
   supply: []
 last_enriched: '2026-04-23'
+chain:
+- industry: 汽車
+  stream: 中游
+  segment: 整車組裝、修理及技術服務
+  ic_code: '3000'
+- industry: 汽車
+  stream: 下游
+  segment: 銷售、進出口業務
+  ic_code: '3000'

@@ -12,3 +12,16 @@ tags:
   - 醫材
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 桌上型電腦
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 工業電腦
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 其他電腦及週邊設備
+  ic_code: F000

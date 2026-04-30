@@ -9,3 +9,20 @@ tags:
   - 儲能
   supply: []
 last_enriched: '2026-04-25'
+chain:
+- industry: 太陽能產業
+  stream: 下游
+  segment: 太陽能發電設備/系統及系統工程
+  ic_code: A100
+- industry: 太陽能產業
+  stream: 下游
+  segment: 太陽能電廠
+  ic_code: A100
+- industry: 金融
+  stream: 租賃業
+  segment: 租賃業
+  ic_code: U000
+- industry: 其他
+  stream: 未分類
+  segment: 其他
+  ic_code: X000

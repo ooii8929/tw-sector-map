@@ -13,3 +13,16 @@ tags:
   - 鋰電池
   supply: []
 last_enriched: '2026-04-21'
+chain:
+- industry: 電動車輛產業
+  stream: 中游
+  segment: 大功率鋰電池芯/模組、電池管理系統、動力馬達等零組件
+  ic_code: A300
+- industry: 能源元件
+  stream: 下游
+  segment: 電池模組
+  ic_code: E000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 電池
+  ic_code: F000

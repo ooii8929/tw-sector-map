@@ -9,3 +9,8 @@ tags:
   - 工具機
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 電機機械
+  stream: 下游
+  segment: 金屬加工用機械
+  ic_code: P000

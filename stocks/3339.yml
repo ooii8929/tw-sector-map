@@ -17,3 +17,24 @@ tags:
   - NVIDIA供應鏈
   - Lumentum供應鏈
 last_enriched: '2026-04-20'
+chain:
+- industry: 半導體
+  stream: 上游
+  segment: IP設計/IC設計代工服務
+  ic_code: D000
+- industry: 半導體
+  stream: 中游
+  segment: 生產製程及檢測設備
+  ic_code: D000
+- industry: 半導體
+  stream: 下游
+  segment: IC模組
+  ic_code: D000
+- industry: 半導體
+  stream: 下游
+  segment: IC通路
+  ic_code: D000
+- industry: LED照明產業
+  stream: 中游
+  segment: 光源/磊晶
+  ic_code: A200

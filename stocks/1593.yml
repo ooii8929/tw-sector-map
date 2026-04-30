@@ -15,3 +15,20 @@ tags:
   - 運動用品
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 醫療器材
+  stream: 上游
+  segment: 電子零組件、塑膠零件、五金零件
+  ic_code: C200
+- industry: 醫療器材
+  stream: 上游
+  segment: 電子零組件、塑膠零件、五金零件/塑化材料
+  ic_code: C200
+- industry: 醫療器材
+  stream: 上游
+  segment: 電子零組件、塑膠零件、五金零件/金屬零件
+  ic_code: C200
+- industry: 運動科技
+  stream: 上游
+  segment: 裝置/器材零組件
+  ic_code: '5800'

@@ -16,3 +16,8 @@ tags:
   supply:
   - Tesla供應鏈
 last_enriched: '2026-04-23'
+chain:
+- industry: 汽車
+  stream: 中游
+  segment: 整車組裝、修理及技術服務
+  ic_code: '3000'

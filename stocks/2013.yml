@@ -10,3 +10,12 @@ tags:
   - 鋼構
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 風力發電
+  stream: 上游
+  segment: 鋼材
+  ic_code: AB20
+- industry: 鋼鐵
+  stream: 下游
+  segment: 金屬製品
+  ic_code: Q000

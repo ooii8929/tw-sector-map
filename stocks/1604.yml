@@ -17,3 +17,12 @@ tags:
   - 物流
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 平面顯示器
+  stream: 下游
+  segment: 電視
+  ic_code: G000
+- industry: 其他
+  stream: 未分類
+  segment: 其他
+  ic_code: X000

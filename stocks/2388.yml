@@ -19,3 +19,28 @@ tags:
   supply:
   - AMD供應鏈
 last_enriched: '2026-04-18'
+chain:
+- industry: 人工智慧
+  stream: 應用與服務
+  segment: 領域解決方案
+  ic_code: '5300'
+- industry: 人工智慧
+  stream: 核心技術
+  segment: 機器學習
+  ic_code: '5300'
+- industry: 人工智慧
+  stream: 核心技術
+  segment: 電腦視覺
+  ic_code: '5300'
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 中央處理器
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 晶片組
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 主機板
+  ic_code: F000

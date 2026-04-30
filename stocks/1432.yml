@@ -12,3 +12,12 @@ tags:
   - 百貨零售
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 休閒娛樂
+  stream: 娛樂服務業
+  segment: 娛樂服務業
+  ic_code: B000
+- industry: 紡織
+  stream: 下游
+  segment: 染整
+  ic_code: O000

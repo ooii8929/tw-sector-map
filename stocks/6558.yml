@@ -14,3 +14,8 @@ tags:
   - 電池
   supply: []
 last_enriched: '2026-04-22'
+chain:
+- industry: 能源元件
+  stream: 中游
+  segment: 電池芯
+  ic_code: E000

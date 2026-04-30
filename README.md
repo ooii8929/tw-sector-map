@@ -2,7 +2,7 @@
 
 TWSE/TPEX sector & theme tag YAML dataset for Taiwan stocks
 
-台股產業分類 × 題材標籤 YAML 資料集 | 2163 stocks × 34 sectors × 822 themes × 3200+ L3 tags
+台股產業分類 × 題材標籤 × 產業鏈位置 YAML 資料集 | 2163 stocks × 34 sectors × 822 themes × 3200+ L3 tags × 47 value chains
 
 ## 資料結構
 
@@ -24,15 +24,39 @@ tags:                         # L3 產業/產品標籤（人+AI 維護）
   supply:                     #   供應鏈歸屬
     - NVIDIA供應鏈
     - Apple供應鏈
+chain:                        # L4 產業價值鏈位置（自動，櫃買中心）
+  - industry: 半導體           #   47 產業之一
+    stream: 中游               #   上游/中游/下游 或產業特定分層
+    segment: IC/晶圓製造       #   子分類
+    ic_code: D000              #   櫃買中心產業代碼
 ```
 
-### 三層標籤
+### 四層標籤
 
 | 層級 | 來源 | 說明 | 範例 |
 |------|------|------|------|
 | L1 `sector` | TWSE/TPEX/ESB 官方 | 34 大產業別 | 半導體業、光電業 |
 | L2 `themes` | MoneyDJ | 800+ 題材分類 | 晶圓代工、MLCC |
 | L3 `tags` | 人+AI | 產品線 + 供應鏈 | CoWoS、Apple供應鏈 |
+| L4 `chain` | 櫃買中心產業價值鏈 | 47 產業 × 上中下游 × 312 子分類 | 半導體/中游/IC晶圓製造 |
+
+### L4 Chain 欄位
+
+來自[櫃買中心產業價值鏈資訊平台](https://ic.tpex.org.tw/)，自動爬取。
+
+| 欄位 | 說明 | 範例 |
+|------|------|------|
+| `industry` | 47 個產業分類 | 半導體、印刷電路板、人工智慧 |
+| `stream` | 產業鏈位置 | 上游/中游/下游（傳統產業）或自定義分層（如 AI: 應用與服務/核心技術/運算資源） |
+| `segment` | 子分類 | IC設計、IC/晶圓製造、IC封裝測試 |
+| `ic_code` | 櫃買中心產業代碼 | D000、L000、5300 |
+
+一家公司可能出現在多條產業鏈（array），例如台達電同時在半導體、自動化、電動車輛產業。
+
+三種 stream 結構：
+- **上中下游**（32 個傳統產業）：半導體、PCB、通信網路...
+- **自定義分層**（5 個前瞻產業）：AI（應用與服務/核心技術/運算資源）、資安（資安產品/資安服務）...
+- **子行業**（10 個 flat 產業）：stream = segment（如金融→金控業/銀行業/保險業）
 
 
 ### 市場涵蓋
@@ -112,6 +136,7 @@ python scripts/enrich_l3.py 30
 - [TPEX 櫃買中心](https://isin.twse.com.tw/isin/C_public.jsp?strMode=4)
 - [ESB 興櫃](https://isin.twse.com.tw/isin/C_public.jsp?strMode=5)
 - [MoneyDJ 題材分類](https://www.moneydj.com/Z/ZH/ZHA/ZHA.djhtm)
+- [櫃買中心產業價值鏈資訊平台](https://ic.tpex.org.tw/) — L4 chain 欄位來源，47 產業 × 312 子分類 × 上中下游位置
 
 ## 應用：族群資金流向（Sector Flow）
 
@@ -136,6 +161,7 @@ institutional（個股每日三大法人）
 
 ## Changelog
 
+- **v4** (2026-04-30) — 新增 L4 `chain` 欄位（櫃買中心產業價值鏈），47 產業 × 312 子分類 × 上中下游，2106 檔股票加入產業鏈位置
 - **v3** (2026-04-17) — 新增 211 檔興櫃股票（ESB，日均量 > 50 張），總數 1952 → 2163
 - **v2** (2026-04-16) — 新增族群資金流向應用（Sector Flow），L3 enricher 覆蓋率 91.4%
 - **v1** (2026-04-15) — 初版，1952 檔上市櫃股票，L1 + L2 + L3 三層標籤

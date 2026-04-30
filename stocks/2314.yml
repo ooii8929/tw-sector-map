@@ -15,3 +15,16 @@ tags:
   - PCB
   supply: []
 last_enriched: '2026-04-20'
+chain:
+- industry: 太空衛星科技
+  stream: 上游
+  segment: 零組件/材料
+  ic_code: '4100'
+- industry: 太空衛星科技
+  stream: 上游
+  segment: 零組件/材料/天線/射頻基頻
+  ic_code: '4100'
+- industry: 通信網路
+  stream: 下游
+  segment: 無線通訊設備(如行動電話、衛星定位系統、衛星通訊設備、微波通訊設備、數位機上盒)
+  ic_code: I000

@@ -10,3 +10,8 @@ tags:
   - PA功率放大器
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 汽車
+  stream: 上游
+  segment: 鈑金
+  ic_code: '3000'

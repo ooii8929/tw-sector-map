@@ -10,3 +10,8 @@ tags:
   - IC設計
   supply: []
 last_enriched: '2026-04-25'
+chain:
+- industry: 建材營造
+  stream: 上游
+  segment: 基礎工程
+  ic_code: S000

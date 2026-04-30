@@ -11,3 +11,24 @@ tags:
   supply:
   - Tesla供應鏈
 last_enriched: '2026-04-23'
+chain:
+- industry: 紡織
+  stream: 中游
+  segment: 人造纖維產品(例如尼龍纖維、聚酯纖維、嫘縈纖維等)
+  ic_code: O000
+- industry: 紡織
+  stream: 中游
+  segment: 天然纖維產品(例如純棉、純羊毛等)
+  ic_code: O000
+- industry: 紡織
+  stream: 中游
+  segment: 紡紗
+  ic_code: O000
+- industry: 紡織
+  stream: 中游
+  segment: 織布
+  ic_code: O000
+- industry: 建材營造
+  stream: 中游
+  segment: 建設業
+  ic_code: S000

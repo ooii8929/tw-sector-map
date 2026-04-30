@@ -7,3 +7,12 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 鋼鐵
+  stream: 上游
+  segment: 不鏽鋼胚
+  ic_code: Q000
+- industry: 鋼鐵
+  stream: 中游
+  segment: 冷熱軋不鏽鋼板捲
+  ic_code: Q000

@@ -13,3 +13,12 @@ tags:
   - 電池
   supply: []
 last_enriched: '2026-04-25'
+chain:
+- industry: 智慧電網
+  stream: 下游
+  segment: 能源管理服務
+  ic_code: AD10
+- industry: 智慧電網
+  stream: 下游
+  segment: 系統整合服務
+  ic_code: AD10

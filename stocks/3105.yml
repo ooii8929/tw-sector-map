@@ -17,3 +17,20 @@ tags:
   - 1.6T
   supply: []
 last_enriched: '2026-04-18'
+chain:
+- industry: 半導體
+  stream: 中游
+  segment: IC/晶圓製造
+  ic_code: D000
+- industry: 半導體
+  stream: 中游
+  segment: IC/晶圓製造/晶圓製造
+  ic_code: D000
+- industry: 太空衛星科技
+  stream: 上游
+  segment: 零組件/材料
+  ic_code: '4100'
+- industry: 太空衛星科技
+  stream: 上游
+  segment: 零組件/材料/天線/射頻基頻
+  ic_code: '4100'

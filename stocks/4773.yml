@@ -7,3 +7,8 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 石化及塑橡膠
+  stream: 下游
+  segment: 塑膠製品
+  ic_code: N000

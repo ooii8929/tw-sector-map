@@ -8,3 +8,8 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 金融科技
+  stream: 領域應用
+  segment: 支付
+  ic_code: '5200'

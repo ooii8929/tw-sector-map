@@ -10,3 +10,8 @@ tags:
   - 化纖
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 紡織
+  stream: 中游
+  segment: 人造纖維產品(例如尼龍纖維、聚酯纖維、嫘縈纖維等)
+  ic_code: O000

@@ -12,3 +12,24 @@ tags:
   - IC設計
   supply: []
 last_enriched: '2026-04-19'
+chain:
+- industry: 半導體
+  stream: 上游
+  segment: IC設計
+  ic_code: D000
+- industry: 半導體
+  stream: 上游
+  segment: IC設計/消費性IC
+  ic_code: D000
+- industry: 資通訊安全
+  stream: 資安產品
+  segment: 端點安全防護
+  ic_code: '5500'
+- industry: 資通訊安全
+  stream: 資安產品
+  segment: 身分認證與訪問管理
+  ic_code: '5500'
+- industry: 軟體服務
+  stream: 應用/系統軟體設計開發
+  segment: 應用/系統軟體設計開發
+  ic_code: R000

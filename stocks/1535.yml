@@ -16,3 +16,8 @@ tags:
   - 環保
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 電機機械
+  stream: 下游
+  segment: 機電系統工程
+  ic_code: P000

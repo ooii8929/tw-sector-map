@@ -13,3 +13,16 @@ tags:
   - 低軌衛星
   supply: []
 last_enriched: '2026-04-19'
+chain:
+- industry: 電動車輛產業
+  stream: 中游
+  segment: 大功率鋰電池芯/模組、電池管理系統、動力馬達等零組件
+  ic_code: A300
+- industry: 印刷電路板
+  stream: 中游
+  segment: 硬板、軟板、IC載板製造
+  ic_code: L000
+- industry: 通信網路
+  stream: 上游
+  segment: 印刷電路板
+  ic_code: I000

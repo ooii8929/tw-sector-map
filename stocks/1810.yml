@@ -11,3 +11,8 @@ tags:
   - 衛浴
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 建材營造
+  stream: 上游
+  segment: 建材原料
+  ic_code: S000

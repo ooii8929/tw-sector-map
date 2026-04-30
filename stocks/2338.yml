@@ -12,3 +12,8 @@ tags:
   - 先進封裝
   supply: []
 last_enriched: '2026-04-18'
+chain:
+- industry: 半導體
+  stream: 中游
+  segment: 光罩
+  ic_code: D000

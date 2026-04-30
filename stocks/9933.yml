@@ -8,3 +8,16 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 汽電共生
+  stream: 中游
+  segment: 營造設置
+  ic_code: AB10
+- industry: 風力發電
+  stream: 上游
+  segment: 其他配件
+  ic_code: AB20
+- industry: 建材營造
+  stream: 中游
+  segment: 工程承攬
+  ic_code: S000

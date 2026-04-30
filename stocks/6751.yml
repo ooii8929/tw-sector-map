@@ -11,3 +11,8 @@ tags:
   - 軟體
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 軟體服務
+  stream: 系統整合服務
+  segment: 系統整合服務
+  ic_code: R000

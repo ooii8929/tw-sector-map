@@ -13,3 +13,8 @@ tags:
   - 記憶體
   supply: []
 last_enriched: '2026-04-23'
+chain:
+- industry: 汽車
+  stream: 上游
+  segment: 車燈
+  ic_code: '3000'

@@ -10,3 +10,16 @@ tags:
   - EV
   supply: []
 last_enriched: '2026-04-24'
+chain:
+- industry: LED照明產業
+  stream: 下游
+  segment: 封裝/模組
+  ic_code: A200
+- industry: 建材營造
+  stream: 上游
+  segment: 建材原料
+  ic_code: S000
+- industry: 建材營造
+  stream: 下游
+  segment: 個人、民間企業、政府機構
+  ic_code: S000

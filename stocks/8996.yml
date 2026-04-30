@@ -13,3 +13,8 @@ tags:
   supply:
   - NVIDIA供應鏈
 last_enriched: '2026-04-22'
+chain:
+- industry: 電機機械
+  stream: 上游
+  segment: 油空壓元件
+  ic_code: P000

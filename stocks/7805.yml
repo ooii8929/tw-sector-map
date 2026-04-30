@@ -8,3 +8,20 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 雲端運算
+  stream: 上游
+  segment: 電腦設備
+  ic_code: '5400'
+- industry: 雲端運算
+  stream: 上游
+  segment: 電腦設備/伺服器
+  ic_code: '5400'
+- industry: 雲端運算
+  stream: 上游
+  segment: 電腦設備/儲存
+  ic_code: '5400'
+- industry: 雲端運算
+  stream: 上游
+  segment: 電腦設備/網路
+  ic_code: '5400'

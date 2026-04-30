@@ -9,3 +9,8 @@ tags:
   supply:
   - Tesla供應鏈
 last_enriched: '2026-04-20'
+chain:
+- industry: 連接器
+  stream: 中游
+  segment: 連接器設計、組裝及製造
+  ic_code: K000

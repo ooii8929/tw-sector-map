@@ -12,3 +12,12 @@ tags:
   - 營建
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 工業電腦
+  ic_code: F000
+- industry: 建材營造
+  stream: 中游
+  segment: 建設業
+  ic_code: S000

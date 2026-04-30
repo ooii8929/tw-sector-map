@@ -9,3 +9,12 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 半導體
+  stream: 中游
+  segment: IC/晶圓製造
+  ic_code: D000
+- industry: 半導體
+  stream: 中游
+  segment: IC/晶圓製造/晶圓製造
+  ic_code: D000

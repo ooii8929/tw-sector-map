@@ -13,3 +13,16 @@ tags:
   - 伺服器
   supply: []
 last_enriched: '2026-04-20'
+chain:
+- industry: 電動車輛產業
+  stream: 中游
+  segment: 大功率鋰電池芯/模組、電池管理系統、動力馬達等零組件
+  ic_code: A300
+- industry: 電機機械
+  stream: 上游
+  segment: 電控元件
+  ic_code: P000
+- industry: 汽車
+  stream: 上游
+  segment: 其他
+  ic_code: '3000'

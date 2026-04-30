@@ -13,3 +13,8 @@ tags:
   - 液冷散熱
   supply: []
 last_enriched: '2026-04-20'
+chain:
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 機構樞紐
+  ic_code: F000

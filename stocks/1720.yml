@@ -13,3 +13,12 @@ tags:
   - CDMO
   supply: []
 last_enriched: '2026-04-22'
+chain:
+- industry: 製藥
+  stream: 下游
+  segment: 中、西藥製劑
+  ic_code: C100
+- industry: 食品生技
+  stream: 下游
+  segment: 保健食品代理銷售及通路
+  ic_code: C300

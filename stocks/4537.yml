@@ -9,3 +9,16 @@ tags:
   - CoWoS
   supply: []
 last_enriched: '2026-04-20'
+chain:
+- industry: 半導體
+  stream: 中游
+  segment: 生產製程及檢測設備
+  ic_code: D000
+- industry: 平面顯示器
+  stream: 中游
+  segment: 生產製程及檢測設備
+  ic_code: G000
+- industry: 電機機械
+  stream: 下游
+  segment: 專用機械(如紡織成衣生產用機械、食品飲料生產用機械、農林用機械等)
+  ic_code: P000

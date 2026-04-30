@@ -13,3 +13,8 @@ tags:
   - 光通訊
   supply: []
 last_enriched: '2026-04-22'
+chain:
+- industry: 其他
+  stream: 未分類
+  segment: 其他電子產品及電子服務產業
+  ic_code: X000

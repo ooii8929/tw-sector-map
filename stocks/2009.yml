@@ -10,3 +10,8 @@ tags:
   - 被動元件
   supply: []
 last_enriched: '2026-04-23'
+chain:
+- industry: 鋼鐵
+  stream: 中游
+  segment: 冷熱軋鋼板捲
+  ic_code: Q000

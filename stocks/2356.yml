@@ -17,3 +17,8 @@ tags:
   - Google供應鏈
   - Meta供應鏈
 last_enriched: '2026-04-21'
+chain:
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 筆記型電腦
+  ic_code: F000

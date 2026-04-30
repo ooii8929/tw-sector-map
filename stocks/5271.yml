@@ -7,3 +7,8 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 連接器
+  stream: 中游
+  segment: 連接器設計、組裝及製造
+  ic_code: K000

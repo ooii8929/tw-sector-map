@@ -9,3 +9,32 @@ tags:
   supply:
   - NVIDIA供應鏈
 last_enriched: '2026-04-21'
+chain:
+- industry: 智慧電網
+  stream: 下游
+  segment: 系統整合服務
+  ic_code: AD10
+- industry: 雲端運算
+  stream: 下游
+  segment: 雲端應用服務
+  ic_code: '5400'
+- industry: 雲端運算
+  stream: 下游
+  segment: 雲端應用服務/IaaS
+  ic_code: '5400'
+- industry: 雲端運算
+  stream: 下游
+  segment: 雲端應用服務/PaaS
+  ic_code: '5400'
+- industry: 雲端運算
+  stream: 下游
+  segment: 雲端應用服務/SaaS
+  ic_code: '5400'
+- industry: 運動科技
+  stream: 上游
+  segment: 軟體開發
+  ic_code: '5800'
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 工業電腦
+  ic_code: F000

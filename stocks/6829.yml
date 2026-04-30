@@ -14,3 +14,16 @@ tags:
   - 面板
   supply: []
 last_enriched: '2026-04-19'
+chain:
+- industry: 半導體
+  stream: 中游
+  segment: 生產製程及檢測設備
+  ic_code: D000
+- industry: 平面顯示器
+  stream: 上游
+  segment: 其他零組件
+  ic_code: G000
+- industry: 電機機械
+  stream: 下游
+  segment: 金屬加工處理
+  ic_code: P000

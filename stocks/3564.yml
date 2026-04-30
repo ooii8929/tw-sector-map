@@ -13,3 +13,16 @@ tags:
   - 液冷散熱
   supply: []
 last_enriched: '2026-04-20'
+chain:
+- industry: 資通訊安全
+  stream: 資安產品
+  segment: 網路基礎設施
+  ic_code: '5500'
+- industry: 通信網路
+  stream: 下游
+  segment: 網路設備(如數據機、網路卡、閘道器、路由器、網路電話)
+  ic_code: I000
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 其他電腦及週邊設備
+  ic_code: F000

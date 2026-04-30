@@ -10,3 +10,28 @@ tags:
   - 電商
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 電子商務
+  stream: 上游
+  segment: 物流倉儲服務
+  ic_code: R300
+- industry: 電子商務
+  stream: 中游
+  segment: 店點開設管理
+  ic_code: R300
+- industry: 電子商務
+  stream: 下游
+  segment: 一般零售
+  ic_code: R300
+- industry: 電子商務
+  stream: 下游
+  segment: 票券銷售
+  ic_code: R300
+- industry: 貿易百貨
+  stream: 中游
+  segment: 貿易商、代理商、經銷商
+  ic_code: V000
+- industry: 文化創意業
+  stream: 廣播電視/電影產業
+  segment: 廣播電視/電影產業
+  ic_code: Y000

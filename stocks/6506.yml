@@ -12,3 +12,12 @@ tags:
   - 織布
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 石化及塑橡膠
+  stream: 下游
+  segment: 接著劑(合成樹脂)
+  ic_code: N000
+- industry: 紡織
+  stream: 下游
+  segment: 成衣及其它家居紡織類品
+  ic_code: O000

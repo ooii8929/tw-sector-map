@@ -12,3 +12,52 @@ tags:
   - 先進封裝
   supply: []
 last_enriched: '2026-04-23'
+chain:
+- industry: 製藥
+  stream: 上游
+  segment: 原材料
+  ic_code: C100
+- industry: 製藥
+  stream: 下游
+  segment: 中、西藥製劑
+  ic_code: C100
+- industry: 電動車輛產業
+  stream: 中游
+  segment: 大功率鋰電池芯/模組、電池管理系統、動力馬達等零組件
+  ic_code: A300
+- industry: 能源元件
+  stream: 上游
+  segment: 原材料
+  ic_code: E000
+- industry: 能源元件
+  stream: 中游
+  segment: 電池芯
+  ic_code: E000
+- industry: 能源元件
+  stream: 下游
+  segment: 電池模組
+  ic_code: E000
+- industry: 印刷電路板
+  stream: 中游
+  segment: 銅箔基板
+  ic_code: L000
+- industry: 石化及塑橡膠
+  stream: 下游
+  segment: 清潔用品
+  ic_code: N000
+- industry: 石化及塑橡膠
+  stream: 下游
+  segment: 顏染料
+  ic_code: N000
+- industry: 石化及塑橡膠
+  stream: 下游
+  segment: 農藥
+  ic_code: N000
+- industry: 造紙
+  stream: 中游
+  segment: 文化用紙
+  ic_code: '2000'
+- industry: 造紙
+  stream: 中游
+  segment: 工業用紙
+  ic_code: '2000'

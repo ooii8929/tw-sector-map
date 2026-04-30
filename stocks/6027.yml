@@ -7,3 +7,8 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 金融
+  stream: 證券業
+  segment: 證券業
+  ic_code: U000

@@ -9,3 +9,8 @@ tags:
   - 工業電腦
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 工業電腦
+  ic_code: F000

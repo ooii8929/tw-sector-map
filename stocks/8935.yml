@@ -11,3 +11,8 @@ tags:
   supply:
   - Tesla供應鏈
 last_enriched: '2026-04-25'
+chain:
+- industry: 石化及塑橡膠
+  stream: 下游
+  segment: 塑膠製品
+  ic_code: N000

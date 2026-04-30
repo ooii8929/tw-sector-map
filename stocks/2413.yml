@@ -20,3 +20,16 @@ tags:
   - 毫米波
   supply: []
 last_enriched: '2026-04-19'
+chain:
+- industry: 被動元件
+  stream: 中游
+  segment: 電容器
+  ic_code: J000
+- industry: 通信網路
+  stream: 下游
+  segment: 光通訊設備(如光纖電纜、光傳輸設備)
+  ic_code: I000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 電源供應器
+  ic_code: F000

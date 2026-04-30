@@ -10,3 +10,16 @@ tags:
   - 散熱
   supply: []
 last_enriched: '2026-04-20'
+chain:
+- industry: 通信網路
+  stream: 上游
+  segment: 塑膠/金屬機殼
+  ic_code: I000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 機殼
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 金屬、塑膠模具
+  ic_code: F000

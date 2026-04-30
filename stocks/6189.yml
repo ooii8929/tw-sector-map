@@ -12,3 +12,28 @@ tags:
   - 電子通路
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 半導體
+  stream: 下游
+  segment: IC通路
+  ic_code: D000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 晶片組
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 面板
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 顯示器模組
+  ic_code: F000
+- industry: 平面顯示器
+  stream: 中游
+  segment: 面板
+  ic_code: G000
+- industry: 平面顯示器
+  stream: 中游
+  segment: 顯示器模組
+  ic_code: G000

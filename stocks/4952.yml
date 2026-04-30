@@ -17,3 +17,36 @@ tags:
   - 車用電子
   supply: []
 last_enriched: '2026-04-19'
+chain:
+- industry: 半導體
+  stream: 上游
+  segment: IC設計
+  ic_code: D000
+- industry: 半導體
+  stream: 上游
+  segment: IC設計/消費性IC
+  ic_code: D000
+- industry: 半導體
+  stream: 上游
+  segment: IC設計/微控制器IC
+  ic_code: D000
+- industry: 半導體
+  stream: 上游
+  segment: IC設計/電源管理IC
+  ic_code: D000
+- industry: 半導體
+  stream: 上游
+  segment: IC設計/平面顯示器控制IC
+  ic_code: D000
+- industry: 電動車輛產業
+  stream: 下游
+  segment: 電動汽車、電動機車、電動自行車
+  ic_code: A300
+- industry: 人工智慧
+  stream: 核心技術
+  segment: 機器學習
+  ic_code: '5300'
+- industry: 人工智慧
+  stream: 核心技術
+  segment: 電腦視覺
+  ic_code: '5300'

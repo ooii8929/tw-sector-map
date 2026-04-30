@@ -9,3 +9,8 @@ tags:
   supply:
   - NVIDIA供應鏈
 last_enriched: '2026-04-22'
+chain:
+- industry: 汽車
+  stream: 上游
+  segment: 其他
+  ic_code: '3000'

@@ -11,3 +11,16 @@ tags:
   - 連接器
   supply: []
 last_enriched: '2026-04-19'
+chain:
+- industry: 通信網路
+  stream: 上游
+  segment: 線材
+  ic_code: I000
+- industry: 連接器
+  stream: 中游
+  segment: 連接器設計、組裝及製造
+  ic_code: K000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 連接線
+  ic_code: F000

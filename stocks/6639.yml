@@ -7,3 +7,16 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 汽電共生
+  stream: 中游
+  segment: 規劃設計
+  ic_code: AB10
+- industry: 汽電共生
+  stream: 中游
+  segment: 系統整合
+  ic_code: AB10
+- industry: 汽電共生
+  stream: 下游
+  segment: 發電營運
+  ic_code: AB10

@@ -16,3 +16,16 @@ tags:
   - 成衣
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 石化及塑橡膠
+  stream: 下游
+  segment: 塑膠製品
+  ic_code: N000
+- industry: 紡織
+  stream: 下游
+  segment: 成衣及其它家居紡織類品
+  ic_code: O000
+- industry: 電機機械
+  stream: 下游
+  segment: 手工具機
+  ic_code: P000

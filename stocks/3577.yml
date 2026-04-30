@@ -10,3 +10,12 @@ tags:
   - TPU
   supply: []
 last_enriched: '2026-04-21'
+chain:
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 輸出入模組/介面卡
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 工業電腦
+  ic_code: F000

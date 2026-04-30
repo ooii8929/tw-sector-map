@@ -23,3 +23,40 @@ tags:
   - 資料中心
   supply: []
 last_enriched: '2026-04-21'
+chain:
+- industry: 電動車輛產業
+  stream: 中游
+  segment: 大功率鋰電池芯/模組、電池管理系統、動力馬達等零組件
+  ic_code: A300
+- industry: 風力發電
+  stream: 上游
+  segment: 監控系統
+  ic_code: AB20
+- industry: 風力發電
+  stream: 上游
+  segment: 電力系統
+  ic_code: AB20
+- industry: 人工智慧
+  stream: 核心技術
+  segment: 移動控制
+  ic_code: '5300'
+- industry: 電機機械
+  stream: 上游
+  segment: 傳動元件
+  ic_code: P000
+- industry: 電機機械
+  stream: 上游
+  segment: 電控元件
+  ic_code: P000
+- industry: 電機機械
+  stream: 下游
+  segment: 冷凍空調設備及零件
+  ic_code: P000
+- industry: 電機機械
+  stream: 下游
+  segment: 機電系統工程
+  ic_code: P000
+- industry: 建材營造
+  stream: 上游
+  segment: 機電工程
+  ic_code: S000

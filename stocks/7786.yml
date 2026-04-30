@@ -10,3 +10,16 @@ tags:
   - 風電
   supply: []
 last_enriched: '2026-04-25'
+chain:
+- industry: 風力發電
+  stream: 中游
+  segment: 風場規劃
+  ic_code: AB20
+- industry: 風力發電
+  stream: 中游
+  segment: 風場營造
+  ic_code: AB20
+- industry: 風力發電
+  stream: 中游
+  segment: 風機維護
+  ic_code: AB20

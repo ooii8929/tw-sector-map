@@ -11,3 +11,8 @@ tags:
   - 影音平台
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 文化創意業
+  stream: 廣播電視/電影產業
+  segment: 廣播電視/電影產業
+  ic_code: Y000

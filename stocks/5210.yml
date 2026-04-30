@@ -11,3 +11,16 @@ tags:
   - 軟體
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 太陽能產業
+  stream: 下游
+  segment: 太陽能發電設備/系統及系統工程
+  ic_code: A100
+- industry: 軟體服務
+  stream: 應用/系統軟體設計開發
+  segment: 應用/系統軟體設計開發
+  ic_code: R000
+- industry: 軟體服務
+  stream: 系統整合服務
+  segment: 系統整合服務
+  ic_code: R000

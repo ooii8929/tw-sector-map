@@ -11,3 +11,24 @@ tags:
   - 織布
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 紡織
+  stream: 中游
+  segment: 人造纖維產品(例如尼龍纖維、聚酯纖維、嫘縈纖維等)
+  ic_code: O000
+- industry: 紡織
+  stream: 中游
+  segment: 化學助劑
+  ic_code: O000
+- industry: 紡織
+  stream: 中游
+  segment: 織布
+  ic_code: O000
+- industry: 紡織
+  stream: 下游
+  segment: 染整
+  ic_code: O000
+- industry: 紡織
+  stream: 下游
+  segment: 成衣及其它家居紡織類品
+  ic_code: O000

@@ -12,3 +12,12 @@ tags:
   - 家電
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 貿易百貨
+  stream: 中游
+  segment: 貿易商、代理商、經銷商
+  ic_code: V000
+- industry: 其他
+  stream: 未分類
+  segment: 其他
+  ic_code: X000

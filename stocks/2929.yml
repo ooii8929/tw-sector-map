@@ -8,3 +8,12 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 紡織
+  stream: 下游
+  segment: 成衣及其它家居紡織類品
+  ic_code: O000
+- industry: 貿易百貨
+  stream: 上游
+  segment: 製造商
+  ic_code: V000

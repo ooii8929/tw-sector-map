@@ -10,3 +10,12 @@ tags:
   - 不鏽鋼
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 鋼鐵
+  stream: 中游
+  segment: 冷熱軋不鏽鋼板捲
+  ic_code: Q000
+- industry: 鋼鐵
+  stream: 中游
+  segment: 裁剪加工
+  ic_code: Q000

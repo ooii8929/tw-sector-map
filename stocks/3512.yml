@@ -12,3 +12,12 @@ tags:
   - 液冷散熱
   supply: []
 last_enriched: '2026-04-24'
+chain:
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 散熱片、風扇馬達、散熱模組
+  ic_code: F000
+- industry: 建材營造
+  stream: 中游
+  segment: 建設業
+  ic_code: S000

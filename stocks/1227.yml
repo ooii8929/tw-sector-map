@@ -16,3 +16,8 @@ tags:
   - 烘焙
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 食品
+  stream: 下游
+  segment: 營養食品
+  ic_code: M000

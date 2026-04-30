@@ -7,3 +7,8 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 食品
+  stream: 中游
+  segment: 加工食品
+  ic_code: M000

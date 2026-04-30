@@ -14,3 +14,8 @@ tags:
   - 連接器
   supply: []
 last_enriched: '2026-04-19'
+chain:
+- industry: 連接器
+  stream: 中游
+  segment: 連接器設計、組裝及製造
+  ic_code: K000

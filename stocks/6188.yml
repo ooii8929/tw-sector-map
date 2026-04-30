@@ -11,3 +11,8 @@ tags:
   - 機器人
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 其他電腦及週邊設備
+  ic_code: F000

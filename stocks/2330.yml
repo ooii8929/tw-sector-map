@@ -14,3 +14,12 @@ tags:
   - 晶圓代工
   supply: []
 last_enriched: '2026-04-18'
+chain:
+- industry: 半導體
+  stream: 中游
+  segment: IC/晶圓製造
+  ic_code: D000
+- industry: 半導體
+  stream: 中游
+  segment: IC/晶圓製造/晶圓製造
+  ic_code: D000

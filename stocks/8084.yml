@@ -16,3 +16,12 @@ tags:
   - 記憶體
   supply: []
 last_enriched: '2026-04-21'
+chain:
+- industry: 半導體
+  stream: 下游
+  segment: IC通路
+  ic_code: D000
+- industry: 通信網路
+  stream: 上游
+  segment: 記憶體
+  ic_code: I000

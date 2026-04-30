@@ -8,3 +8,8 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 鋼鐵
+  stream: 中游
+  segment: 鋼筋
+  ic_code: Q000

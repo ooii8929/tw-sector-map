@@ -11,3 +11,24 @@ tags:
   - 伺服器
   supply: []
 last_enriched: '2026-04-21'
+chain:
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 顯示卡
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 其他電腦及週邊設備
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 多功能視訊卡
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 安全監控系統
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 其他電腦及週邊設備之零組件
+  ic_code: F000

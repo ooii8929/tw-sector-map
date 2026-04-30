@@ -13,3 +13,8 @@ tags:
   - PCB
   supply: []
 last_enriched: '2026-04-20'
+chain:
+- industry: 印刷電路板
+  stream: 中游
+  segment: 基板組裝加工及相關製造
+  ic_code: L000

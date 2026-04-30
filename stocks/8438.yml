@@ -11,3 +11,12 @@ tags:
   - 風電
   supply: []
 last_enriched: '2026-04-25'
+chain:
+- industry: 印刷電路板
+  stream: 上游
+  segment: 生產製程及檢測設備
+  ic_code: L000
+- industry: 其他
+  stream: 未分類
+  segment: 其他
+  ic_code: X000

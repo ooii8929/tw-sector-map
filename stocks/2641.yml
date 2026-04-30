@@ -11,3 +11,8 @@ tags:
   - 散裝航運
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 交通運輸及航運
+  stream: 散裝航運
+  segment: 散裝航運
+  ic_code: T000

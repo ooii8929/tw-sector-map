@@ -12,3 +12,20 @@ tags:
   - 5G
   supply: []
 last_enriched: '2026-04-20'
+chain:
+- industry: 通信網路
+  stream: 下游
+  segment: 網路設備(如數據機、網路卡、閘道器、路由器、網路電話)
+  ic_code: I000
+- industry: 通信網路
+  stream: 下游
+  segment: 光通訊設備(如光纖電纜、光傳輸設備)
+  ic_code: I000
+- industry: 通信網路
+  stream: 下游
+  segment: 有線通訊設備(如電話機、傳真機)
+  ic_code: I000
+- industry: 其他
+  stream: 未分類
+  segment: 其他電子產品及電子服務產業
+  ic_code: X000

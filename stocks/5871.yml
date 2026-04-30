@@ -13,3 +13,12 @@ tags:
   - 租賃
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 太陽能產業
+  stream: 下游
+  segment: 太陽能電廠
+  ic_code: A100
+- industry: 金融
+  stream: 租賃業
+  segment: 租賃業
+  ic_code: U000

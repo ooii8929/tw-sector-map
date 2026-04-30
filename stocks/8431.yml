@@ -13,3 +13,12 @@ tags:
   - 液冷散熱
   supply: []
 last_enriched: '2026-04-22'
+chain:
+- industry: 連接器
+  stream: 上游
+  segment: 電鍍材料
+  ic_code: K000
+- industry: 其他
+  stream: 未分類
+  segment: 其他
+  ic_code: X000

@@ -9,3 +9,16 @@ tags:
   - CoWoS
   supply: []
 last_enriched: '2026-04-20'
+chain:
+- industry: 平面顯示器
+  stream: 中游
+  segment: 面板
+  ic_code: G000
+- industry: 平面顯示器
+  stream: 中游
+  segment: 顯示器模組
+  ic_code: G000
+- industry: 觸控面板
+  stream: 上游
+  segment: PET膜
+  ic_code: H000

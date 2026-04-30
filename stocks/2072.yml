@@ -11,3 +11,8 @@ tags:
   - 資料中心
   supply: []
 last_enriched: '2026-04-24'
+chain:
+- industry: 風力發電
+  stream: 上游
+  segment: 其他配件
+  ic_code: AB20

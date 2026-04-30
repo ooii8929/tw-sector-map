@@ -13,3 +13,40 @@ tags:
   supply:
   - Apple供應鏈
 last_enriched: '2026-04-17'
+chain:
+- industry: 醫療器材
+  stream: 上游
+  segment: 電子零組件、塑膠零件、五金零件
+  ic_code: C200
+- industry: 醫療器材
+  stream: 中游
+  segment: 醫療器材研發、設計、製造
+  ic_code: C200
+- industry: 醫療器材
+  stream: 上游
+  segment: 電子零組件、塑膠零件、五金零件/塑化材料
+  ic_code: C200
+- industry: 醫療器材
+  stream: 中游
+  segment: 醫療器材研發、設計、製造/醫療耗材
+  ic_code: C200
+- industry: 通信網路
+  stream: 上游
+  segment: 塑膠/金屬機殼
+  ic_code: I000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 機殼
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 其他電腦及週邊設備
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 金屬、塑膠模具
+  ic_code: F000
+- industry: 其他
+  stream: 未分類
+  segment: 其他電子產品及電子服務產業
+  ic_code: X000

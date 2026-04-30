@@ -12,3 +12,8 @@ tags:
   - 物流
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 交通運輸及航運
+  stream: 海陸空貨運承攬
+  segment: 海陸空貨運承攬
+  ic_code: T000

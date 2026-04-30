@@ -15,3 +15,48 @@ tags:
   supply:
   - Tesla供應鏈
 last_enriched: '2026-04-20'
+chain:
+- industry: LED照明產業
+  stream: 下游
+  segment: 燈具/應用
+  ic_code: A200
+- industry: 人工智慧
+  stream: 應用與服務
+  segment: 系統整合
+  ic_code: '5300'
+- industry: 人工智慧
+  stream: 應用與服務
+  segment: 顧問諮詢
+  ic_code: '5300'
+- industry: 人工智慧
+  stream: 應用與服務
+  segment: 領域解決方案
+  ic_code: '5300'
+- industry: 人工智慧
+  stream: 應用與服務
+  segment: 智慧設備
+  ic_code: '5300'
+- industry: 人工智慧
+  stream: 核心技術
+  segment: 機器學習
+  ic_code: '5300'
+- industry: 人工智慧
+  stream: 核心技術
+  segment: 電腦視覺
+  ic_code: '5300'
+- industry: 人工智慧
+  stream: 運算資源
+  segment: 運算設備
+  ic_code: '5300'
+- industry: 人工智慧
+  stream: 運算資源
+  segment: 雲端平台
+  ic_code: '5300'
+- industry: 人工智慧
+  stream: 運算資源
+  segment: 資料處理
+  ic_code: '5300'
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 電源供應器
+  ic_code: F000

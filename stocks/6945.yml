@@ -7,3 +7,8 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 製藥
+  stream: 上游
+  segment: 原材料
+  ic_code: C100

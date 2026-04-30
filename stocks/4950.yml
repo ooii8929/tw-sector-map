@@ -11,3 +11,12 @@ tags:
   - 面板
   supply: []
 last_enriched: '2026-04-23'
+chain:
+- industry: 鋼鐵
+  stream: 中游
+  segment: 不鏽鋼棒線
+  ic_code: Q000
+- industry: 鋼鐵
+  stream: 中游
+  segment: 裁剪加工
+  ic_code: Q000

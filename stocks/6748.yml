@@ -7,3 +7,24 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 醫療器材
+  stream: 中游
+  segment: 醫療器材研發、設計、製造
+  ic_code: C200
+- industry: 醫療器材
+  stream: 中游
+  segment: 醫療器材研發、設計、製造/醫療耗材
+  ic_code: C200
+- industry: 醫療器材
+  stream: 中游
+  segment: 醫療器材研發、設計、製造/其他
+  ic_code: C200
+- industry: 再生醫療
+  stream: 中游
+  segment: 幹細胞開發
+  ic_code: C400
+- industry: 再生醫療
+  stream: 下游
+  segment: 臨床實驗、移植技術、疾病治療
+  ic_code: C400

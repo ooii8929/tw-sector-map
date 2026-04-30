@@ -13,3 +13,32 @@ tags:
   supply:
   - Apple供應鏈
 last_enriched: '2026-04-20'
+chain:
+- industry: 體驗科技
+  stream: 關鍵硬體零組件
+  segment: 近眼顯示(Dear-Eye Display)
+  ic_code: '5700'
+- industry: 體驗科技
+  stream: 關鍵硬體零組件
+  segment: 感測器/模組
+  ic_code: '5700'
+- industry: 體驗科技
+  stream: 關鍵硬體零組件
+  segment: 近眼顯示(Dear-Eye Display)/光學元件/模組
+  ic_code: '5700'
+- industry: 體驗科技
+  stream: 關鍵硬體零組件
+  segment: 感測器/模組/環境感知
+  ic_code: '5700'
+- industry: 體驗科技
+  stream: 關鍵硬體零組件
+  segment: 感測器/模組/深度感測
+  ic_code: '5700'
+- industry: 體驗科技
+  stream: 關鍵硬體零組件
+  segment: 感測器/模組/視覺
+  ic_code: '5700'
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 光學鏡片、鏡頭
+  ic_code: F000

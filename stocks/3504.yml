@@ -17,3 +17,24 @@ tags:
   supply:
   - Apple供應鏈
 last_enriched: '2026-04-20'
+chain:
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 光學鏡片、鏡頭
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 金屬、塑膠模具
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 其他電腦及週邊設備之零組件
+  ic_code: F000
+- industry: 平面顯示器
+  stream: 上游
+  segment: 稜鏡片
+  ic_code: G000
+- industry: 平面顯示器
+  stream: 上游
+  segment: 其他零組件
+  ic_code: G000

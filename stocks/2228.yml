@@ -18,3 +18,8 @@ tags:
   - 散熱
   supply: []
 last_enriched: '2026-04-23'
+chain:
+- industry: 汽車
+  stream: 上游
+  segment: 其他
+  ic_code: '3000'

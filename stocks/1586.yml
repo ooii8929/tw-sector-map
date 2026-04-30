@@ -14,3 +14,20 @@ tags:
   - 車用電子
   supply: []
 last_enriched: '2026-04-21'
+chain:
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 金屬、塑膠模具
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 其他電腦及週邊設備之零組件
+  ic_code: F000
+- industry: 電機機械
+  stream: 上游
+  segment: 機械設備之沖壓零組件
+  ic_code: P000
+- industry: 電機機械
+  stream: 下游
+  segment: 車用機械傳動設備及零配件
+  ic_code: P000

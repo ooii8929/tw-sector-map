@@ -8,3 +8,32 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 通信網路
+  stream: 下游
+  segment: 無線通訊設備(如行動電話、衛星定位系統、衛星通訊設備、微波通訊設備、數位機上盒)
+  ic_code: I000
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 筆記型電腦
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 桌上型電腦
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 工業電腦
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 精簡型電腦
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 印表機、傳真機、掃瞄器、多功能事務機、投影機
+  ic_code: F000
+- industry: 其他
+  stream: 未分類
+  segment: 其他電子產品及電子服務產業
+  ic_code: X000

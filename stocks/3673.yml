@@ -16,3 +16,8 @@ tags:
   supply:
   - Apple供應鏈
 last_enriched: '2026-04-20'
+chain:
+- industry: 觸控面板
+  stream: 中游
+  segment: 觸控面板
+  ic_code: H000

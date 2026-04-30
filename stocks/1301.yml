@@ -20,3 +20,16 @@ tags:
   - 伺服器
   supply: []
 last_enriched: '2026-04-23'
+chain:
+- industry: 石化及塑橡膠
+  stream: 下游
+  segment: 塑膠製品
+  ic_code: N000
+- industry: 石化及塑橡膠
+  stream: 下游
+  segment: 人造纖維
+  ic_code: N000
+- industry: 紡織
+  stream: 上游
+  segment: 石化原料(例如純對苯二甲酸、乙二醇、己內醯胺、丙烯&#33096;等)
+  ic_code: O000

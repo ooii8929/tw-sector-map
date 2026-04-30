@@ -14,3 +14,8 @@ tags:
   - LED
   supply: []
 last_enriched: '2026-04-20'
+chain:
+- industry: LED照明產業
+  stream: 中游
+  segment: 光源/磊晶
+  ic_code: A200

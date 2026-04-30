@@ -12,3 +12,20 @@ tags:
   - 電子通路
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 電機機械
+  stream: 上游
+  segment: 傳動元件
+  ic_code: P000
+- industry: 電機機械
+  stream: 上游
+  segment: 五金元件及零配件
+  ic_code: P000
+- industry: 電機機械
+  stream: 上游
+  segment: 電控元件
+  ic_code: P000
+- industry: 電機機械
+  stream: 上游
+  segment: 油空壓元件
+  ic_code: P000

@@ -9,3 +9,8 @@ tags:
   - 風電
   supply: []
 last_enriched: '2026-04-25'
+chain:
+- industry: 風力發電
+  stream: 上游
+  segment: 其他配件
+  ic_code: AB20

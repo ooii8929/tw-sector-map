@@ -13,3 +13,48 @@ tags:
   supply:
   - NVIDIA供應鏈
 last_enriched: '2026-04-22'
+chain:
+- industry: 半導體
+  stream: 中游
+  segment: 生產製程及檢測設備
+  ic_code: D000
+- industry: 電動車輛產業
+  stream: 中游
+  segment: 大功率鋰電池芯/模組、電池管理系統、動力馬達等零組件
+  ic_code: A300
+- industry: LED照明產業
+  stream: 中游
+  segment: 生產製程、檢測設備及原物料
+  ic_code: A200
+- industry: 能源元件
+  stream: 中游
+  segment: 電池芯
+  ic_code: E000
+- industry: 能源元件
+  stream: 下游
+  segment: 電池模組
+  ic_code: E000
+- industry: 智慧電網
+  stream: 中游
+  segment: 高/低壓輸電設施
+  ic_code: AD10
+- industry: 智慧電網
+  stream: 中游
+  segment: 配電管理設施
+  ic_code: AD10
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 電源供應器
+  ic_code: F000
+- industry: 平面顯示器
+  stream: 中游
+  segment: 生產製程及檢測設備
+  ic_code: G000
+- industry: 軟體服務
+  stream: 系統整合服務
+  segment: 系統整合服務
+  ic_code: R000
+- industry: 其他
+  stream: 未分類
+  segment: 其他電子產品及電子服務產業
+  ic_code: X000

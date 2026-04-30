@@ -9,3 +9,8 @@ tags:
   - EV
   supply: []
 last_enriched: '2026-04-23'
+chain:
+- industry: 石化及塑橡膠
+  stream: 下游
+  segment: 顏染料
+  ic_code: N000

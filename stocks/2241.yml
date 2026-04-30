@@ -11,3 +11,40 @@ tags:
   - 伺服器
   supply: []
 last_enriched: '2026-04-23'
+chain:
+- industry: 汽車
+  stream: 上游
+  segment: 車燈
+  ic_code: '3000'
+- industry: 汽車
+  stream: 上游
+  segment: 輪胎
+  ic_code: '3000'
+- industry: 汽車
+  stream: 上游
+  segment: 鈑金
+  ic_code: '3000'
+- industry: 汽車
+  stream: 上游
+  segment: 鋁合金鋼圈
+  ic_code: '3000'
+- industry: 汽車
+  stream: 上游
+  segment: 引擎蓋
+  ic_code: '3000'
+- industry: 汽車
+  stream: 上游
+  segment: 保險桿
+  ic_code: '3000'
+- industry: 汽車
+  stream: 上游
+  segment: 其他
+  ic_code: '3000'
+- industry: 汽車
+  stream: 中游
+  segment: 整車組裝、修理及技術服務
+  ic_code: '3000'
+- industry: 汽車
+  stream: 下游
+  segment: 銷售、進出口業務
+  ic_code: '3000'

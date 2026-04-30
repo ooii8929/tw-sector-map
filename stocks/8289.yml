@@ -13,3 +13,8 @@ tags:
   - 石英振盪器
   supply: []
 last_enriched: '2026-04-20'
+chain:
+- industry: 被動元件
+  stream: 中游
+  segment: 濾波器、振盪器
+  ic_code: J000

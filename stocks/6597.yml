@@ -12,3 +12,16 @@ tags:
   - 散熱
   supply: []
 last_enriched: '2026-04-20'
+chain:
+- industry: LED照明產業
+  stream: 中游
+  segment: 生產製程、檢測設備及原物料
+  ic_code: A200
+- industry: 印刷電路板
+  stream: 中游
+  segment: 硬板、軟板、IC載板製造
+  ic_code: L000
+- industry: 通信網路
+  stream: 上游
+  segment: 其他零組件
+  ic_code: I000

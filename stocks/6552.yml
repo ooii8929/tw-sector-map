@@ -14,3 +14,8 @@ tags:
   - 面板
   supply: []
 last_enriched: '2026-04-19'
+chain:
+- industry: 半導體
+  stream: 下游
+  segment: 基板
+  ic_code: D000

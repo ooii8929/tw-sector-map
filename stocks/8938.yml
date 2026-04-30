@@ -13,3 +13,8 @@ tags:
   - 車用電子
   supply: []
 last_enriched: '2026-04-25'
+chain:
+- industry: 休閒娛樂
+  stream: 高爾夫球具業
+  segment: 高爾夫球具業
+  ic_code: B000

@@ -20,3 +20,12 @@ tags:
   - 車用電子
   supply: []
 last_enriched: '2026-04-20'
+chain:
+- industry: 太陽能產業
+  stream: 上游
+  segment: 矽晶圓/矽晶片
+  ic_code: A100
+- industry: 平面顯示器
+  stream: 中游
+  segment: 面板
+  ic_code: G000

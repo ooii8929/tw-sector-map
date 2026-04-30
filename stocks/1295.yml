@@ -10,3 +10,8 @@ tags:
   - 食品
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 食品
+  stream: 上游
+  segment: 原物料
+  ic_code: M000

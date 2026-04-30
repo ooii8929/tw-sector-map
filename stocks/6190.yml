@@ -11,3 +11,8 @@ tags:
   - 資料中心
   supply: []
 last_enriched: '2026-04-20'
+chain:
+- industry: 通信網路
+  stream: 上游
+  segment: 線材
+  ic_code: I000

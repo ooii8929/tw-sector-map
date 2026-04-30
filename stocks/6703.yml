@@ -13,3 +13,16 @@ tags:
   - 電商
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 食品生技
+  stream: 下游
+  segment: 保健食品代理銷售及通路
+  ic_code: C300
+- industry: 電子商務
+  stream: 下游
+  segment: 自有產品(服務)銷售
+  ic_code: R300
+- industry: 電子商務
+  stream: 下游
+  segment: 一般零售
+  ic_code: R300

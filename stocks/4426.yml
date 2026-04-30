@@ -11,3 +11,8 @@ tags:
   - CoWoS
   supply: []
 last_enriched: '2026-04-24'
+chain:
+- industry: 紡織
+  stream: 中游
+  segment: 織布
+  ic_code: O000

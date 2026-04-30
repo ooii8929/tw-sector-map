@@ -12,3 +12,16 @@ tags:
   - 車用電子
   supply: []
 last_enriched: '2026-04-21'
+chain:
+- industry: 電機機械
+  stream: 上游
+  segment: 五金元件及零配件
+  ic_code: P000
+- industry: 電機機械
+  stream: 下游
+  segment: 冷凍空調設備及零件
+  ic_code: P000
+- industry: 電機機械
+  stream: 下游
+  segment: 金屬加工處理
+  ic_code: P000

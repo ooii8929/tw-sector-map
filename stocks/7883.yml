@@ -7,3 +7,8 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 食品
+  stream: 下游
+  segment: 餐飲連鎖
+  ic_code: M000

@@ -12,3 +12,56 @@ tags:
   - 電源供應器
   supply: []
 last_enriched: '2026-04-20'
+chain:
+- industry: 半導體
+  stream: 下游
+  segment: IC封裝測試
+  ic_code: D000
+- industry: 醫療器材
+  stream: 上游
+  segment: 電子零組件、塑膠零件、五金零件
+  ic_code: C200
+- industry: 醫療器材
+  stream: 上游
+  segment: 電子零組件、塑膠零件、五金零件/塑化材料
+  ic_code: C200
+- industry: 醫療器材
+  stream: 上游
+  segment: 電子零組件、塑膠零件、五金零件/金屬零件
+  ic_code: C200
+- industry: 電動車輛產業
+  stream: 中游
+  segment: 大功率鋰電池芯/模組、電池管理系統、動力馬達等零組件
+  ic_code: A300
+- industry: LED照明產業
+  stream: 中游
+  segment: 生產製程、檢測設備及原物料
+  ic_code: A200
+- industry: 太陽能產業
+  stream: 中游
+  segment: 太陽能電池模組
+  ic_code: A100
+- industry: 太陽能產業
+  stream: 下游
+  segment: 太陽能發電設備/系統及系統工程
+  ic_code: A100
+- industry: 能源元件
+  stream: 下游
+  segment: 電池模組
+  ic_code: E000
+- industry: 通信網路
+  stream: 上游
+  segment: 其他零組件
+  ic_code: I000
+- industry: 電機機械
+  stream: 上游
+  segment: 電控元件
+  ic_code: P000
+- industry: 交通運輸及航運
+  stream: 海陸空大眾運輸
+  segment: 海陸空大眾運輸
+  ic_code: T000
+- industry: 其他
+  stream: 未分類
+  segment: 其他電子產品及電子服務產業
+  ic_code: X000

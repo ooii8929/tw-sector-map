@@ -12,3 +12,28 @@ tags:
   supply:
   - NVIDIA供應鏈
 last_enriched: '2026-04-21'
+chain:
+- industry: 觸控面板
+  stream: 下游
+  segment: 金融提款機(ATM)
+  ic_code: H000
+- industry: 觸控面板
+  stream: 下游
+  segment: 自動售票機
+  ic_code: H000
+- industry: 軟體服務
+  stream: 應用/系統軟體設計開發
+  segment: 應用/系統軟體設計開發
+  ic_code: R000
+- industry: 軟體服務
+  stream: 系統整合服務
+  segment: 系統整合服務
+  ic_code: R000
+- industry: 軟體服務
+  stream: 資料處理服務
+  segment: 資料處理服務
+  ic_code: R000
+- industry: 軟體服務
+  stream: 通路經銷
+  segment: 通路經銷
+  ic_code: R000

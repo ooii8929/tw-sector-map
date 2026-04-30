@@ -12,3 +12,12 @@ tags:
   - 伺服器
   supply: []
 last_enriched: '2026-04-19'
+chain:
+- industry: 通信網路
+  stream: 上游
+  segment: 塑膠/金屬機殼
+  ic_code: I000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 機殼
+  ic_code: F000

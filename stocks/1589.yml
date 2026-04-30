@@ -9,3 +9,24 @@ tags:
   - 風電
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 風力發電
+  stream: 上游
+  segment: 齒輪箱
+  ic_code: AB20
+- industry: 風力發電
+  stream: 上游
+  segment: 其他配件
+  ic_code: AB20
+- industry: 風力發電
+  stream: 下游
+  segment: 風場開發
+  ic_code: AB20
+- industry: 能源元件
+  stream: 上游
+  segment: 原材料
+  ic_code: E000
+- industry: 電機機械
+  stream: 上游
+  segment: 鋼鑄鐵元件
+  ic_code: P000

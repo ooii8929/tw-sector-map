@@ -11,3 +11,16 @@ tags:
   - CPO
   supply: []
 last_enriched: '2026-04-20'
+chain:
+- industry: 人工智慧
+  stream: 核心技術
+  segment: 電腦視覺
+  ic_code: '5300'
+- industry: 通信網路
+  stream: 下游
+  segment: 光通訊設備(如光纖電纜、光傳輸設備)
+  ic_code: I000
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 其他電腦及週邊設備
+  ic_code: F000

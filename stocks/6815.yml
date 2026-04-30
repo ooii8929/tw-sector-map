@@ -7,3 +7,24 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 醫療器材
+  stream: 下游
+  segment: 醫療器材代理銷售及通路
+  ic_code: C200
+- industry: 醫療器材
+  stream: 下游
+  segment: 醫療器材代理銷售及通路/醫療器材代理
+  ic_code: C200
+- industry: 醫療器材
+  stream: 下游
+  segment: 醫療器材代理銷售及通路/醫療院所、醫療器材專賣店、藥局等通路
+  ic_code: C200
+- industry: 電子商務
+  stream: 下游
+  segment: 自有產品(服務)銷售
+  ic_code: R300
+- industry: 電子商務
+  stream: 下游
+  segment: 一般零售
+  ic_code: R300

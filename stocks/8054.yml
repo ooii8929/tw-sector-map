@@ -16,3 +16,36 @@ tags:
   - 記憶體
   supply: []
 last_enriched: '2026-04-19'
+chain:
+- industry: 半導體
+  stream: 上游
+  segment: IP設計/IC設計代工服務
+  ic_code: D000
+- industry: 半導體
+  stream: 上游
+  segment: IC設計
+  ic_code: D000
+- industry: 半導體
+  stream: 下游
+  segment: IC模組
+  ic_code: D000
+- industry: 半導體
+  stream: 上游
+  segment: IC設計/消費性IC
+  ic_code: D000
+- industry: 半導體
+  stream: 上游
+  segment: IC設計/輸出入介面IC
+  ic_code: D000
+- industry: 雲端運算
+  stream: 上游
+  segment: 電腦設備
+  ic_code: '5400'
+- industry: 雲端運算
+  stream: 上游
+  segment: 電腦設備/儲存
+  ic_code: '5400'
+- industry: 大數據
+  stream: 基礎資源
+  segment: 儲存處理
+  ic_code: '5600'

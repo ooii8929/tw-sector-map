@@ -14,3 +14,64 @@ tags:
   - LED
   supply: []
 last_enriched: '2026-04-20'
+chain:
+- industry: 人工智慧
+  stream: 應用與服務
+  segment: 系統整合
+  ic_code: '5300'
+- industry: 人工智慧
+  stream: 應用與服務
+  segment: 領域解決方案
+  ic_code: '5300'
+- industry: 體驗科技
+  stream: 關鍵硬體零組件
+  segment: 近眼顯示(Dear-Eye Display)
+  ic_code: '5700'
+- industry: 體驗科技
+  stream: 應用軟體&amp;內容
+  segment: 組裝廠
+  ic_code: '5700'
+- industry: 體驗科技
+  stream: 應用軟體&amp;內容
+  segment: 垂直應用方案
+  ic_code: '5700'
+- industry: 體驗科技
+  stream: 關鍵硬體零組件
+  segment: 近眼顯示(Dear-Eye Display)/顯示技術
+  ic_code: '5700'
+- industry: 體驗科技
+  stream: 關鍵硬體零組件
+  segment: 近眼顯示(Dear-Eye Display)/光學元件/模組
+  ic_code: '5700'
+- industry: 體驗科技
+  stream: 關鍵硬體零組件
+  segment: 近眼顯示(Dear-Eye Display)/LCoS
+  ic_code: '5700'
+- industry: 體驗科技
+  stream: 關鍵硬體零組件
+  segment: 近眼顯示(Dear-Eye Display)/OLED
+  ic_code: '5700'
+- industry: 體驗科技
+  stream: 關鍵硬體零組件
+  segment: 近眼顯示(Dear-Eye Display)/Micro LED
+  ic_code: '5700'
+- industry: 體驗科技
+  stream: 關鍵硬體零組件
+  segment: 近眼顯示(Dear-Eye Display)/微型顯示器/光機引擎(Light Engine)
+  ic_code: '5700'
+- industry: 體驗科技
+  stream: 應用軟體&amp;內容
+  segment: 組裝廠/ODM/OEM
+  ic_code: '5700'
+- industry: 自動化
+  stream: 下游
+  segment: 整體解決方案
+  ic_code: '6000'
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 印表機、傳真機、掃瞄器、多功能事務機、投影機
+  ic_code: F000
+- industry: 平面顯示器
+  stream: 上游
+  segment: 背光模組
+  ic_code: G000

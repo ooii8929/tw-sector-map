@@ -13,3 +13,12 @@ tags:
   - 建設
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 建材營造
+  stream: 中游
+  segment: 營造業
+  ic_code: S000
+- industry: 建材營造
+  stream: 中游
+  segment: 建設業
+  ic_code: S000

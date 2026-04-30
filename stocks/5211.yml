@@ -13,3 +13,8 @@ tags:
   - PCB
   supply: []
 last_enriched: '2026-04-21'
+chain:
+- industry: 軟體服務
+  stream: 應用/系統軟體設計開發
+  segment: 應用/系統軟體設計開發
+  ic_code: R000

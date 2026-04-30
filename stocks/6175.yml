@@ -11,3 +11,8 @@ tags:
   - 被動元件
   supply: []
 last_enriched: '2026-04-19'
+chain:
+- industry: 被動元件
+  stream: 上游
+  segment: 電容器材料(如電蝕／化成鋁箔、介面瓷粉)
+  ic_code: J000

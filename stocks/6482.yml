@@ -11,3 +11,8 @@ tags:
   - 遊戲
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 文化創意業
+  stream: 數位內容產業
+  segment: 數位內容產業
+  ic_code: Y000

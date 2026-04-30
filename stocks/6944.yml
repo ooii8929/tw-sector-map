@@ -13,3 +13,12 @@ tags:
   - 記憶體
   supply: []
 last_enriched: '2026-04-25'
+chain:
+- industry: 其他
+  stream: 未分類
+  segment: 環保潔能服務產業
+  ic_code: X000
+- industry: 其他
+  stream: 未分類
+  segment: 其他電子產品及電子服務產業
+  ic_code: X000

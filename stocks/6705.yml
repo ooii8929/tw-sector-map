@@ -9,3 +9,12 @@ tags:
   - 伺服器
   supply: []
 last_enriched: '2026-04-22'
+chain:
+- industry: 電機機械
+  stream: 上游
+  segment: 鋼鑄鐵元件
+  ic_code: P000
+- industry: 電機機械
+  stream: 上游
+  segment: 五金元件及零配件
+  ic_code: P000

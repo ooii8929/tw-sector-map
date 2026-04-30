@@ -20,3 +20,12 @@ tags:
   - 伺服器
   supply: []
 last_enriched: '2026-04-22'
+chain:
+- industry: 自動化
+  stream: 下游
+  segment: 自動化機台
+  ic_code: '6000'
+- industry: 平面顯示器
+  stream: 中游
+  segment: 生產製程及檢測設備
+  ic_code: G000

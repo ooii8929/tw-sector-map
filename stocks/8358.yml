@@ -13,3 +13,12 @@ tags:
   - 伺服器
   supply: []
 last_enriched: '2026-04-20'
+chain:
+- industry: 電動車輛產業
+  stream: 上游
+  segment: 鋰電池材料
+  ic_code: A300
+- industry: 印刷電路板
+  stream: 上游
+  segment: 銅箔
+  ic_code: L000

@@ -11,3 +11,8 @@ tags:
   supply:
   - Apple供應鏈
 last_enriched: '2026-04-24'
+chain:
+- industry: 其他
+  stream: 未分類
+  segment: 其他
+  ic_code: X000

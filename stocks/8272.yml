@@ -10,3 +10,32 @@ tags:
   - 軟體
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 資通訊安全
+  stream: 資安產品
+  segment: 資料安全
+  ic_code: '5500'
+- industry: 資通訊安全
+  stream: 資安產品
+  segment: 雲端安全
+  ic_code: '5500'
+- industry: 資通訊安全
+  stream: 資安產品
+  segment: 網路安全防護
+  ic_code: '5500'
+- industry: 資通訊安全
+  stream: 資安產品
+  segment: 物聯網安全
+  ic_code: '5500'
+- industry: 資通訊安全
+  stream: 資安產品
+  segment: 端點安全防護
+  ic_code: '5500'
+- industry: 資通訊安全
+  stream: 資安產品
+  segment: 身分認證與訪問管理
+  ic_code: '5500'
+- industry: 資通訊安全
+  stream: 資安產品
+  segment: 行動安全
+  ic_code: '5500'

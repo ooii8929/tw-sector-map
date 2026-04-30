@@ -13,3 +13,24 @@ tags:
   - 低軌衛星
   supply: []
 last_enriched: '2026-04-19'
+chain:
+- industry: 半導體
+  stream: 中游
+  segment: IC/晶圓製造
+  ic_code: D000
+- industry: 半導體
+  stream: 中游
+  segment: IC/晶圓製造/晶圓製造
+  ic_code: D000
+- industry: 太陽能產業
+  stream: 上游
+  segment: 矽晶圓/矽晶片
+  ic_code: A100
+- industry: 太陽能產業
+  stream: 中游
+  segment: 太陽能電池
+  ic_code: A100
+- industry: 太陽能產業
+  stream: 中游
+  segment: 太陽能電池模組
+  ic_code: A100

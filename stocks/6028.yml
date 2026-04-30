@@ -8,3 +8,8 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 金融
+  stream: 金控業/銀行業/保險業
+  segment: 金控業/銀行業/保險業
+  ic_code: U000

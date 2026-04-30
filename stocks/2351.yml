@@ -15,3 +15,20 @@ tags:
   - 封測
   supply: []
 last_enriched: '2026-04-18'
+chain:
+- industry: 半導體
+  stream: 下游
+  segment: 導線架
+  ic_code: D000
+- industry: 石化及塑橡膠
+  stream: 下游
+  segment: 塑膠製品
+  ic_code: N000
+- industry: 鋼鐵
+  stream: 下游
+  segment: 金屬製品
+  ic_code: Q000
+- industry: 鋼鐵
+  stream: 下游
+  segment: 模具
+  ic_code: Q000

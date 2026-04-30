@@ -13,3 +13,12 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 通信網路
+  stream: 下游
+  segment: 無線通訊設備(如行動電話、衛星定位系統、衛星通訊設備、微波通訊設備、數位機上盒)
+  ic_code: I000
+- industry: 平面顯示器
+  stream: 上游
+  segment: 其他零組件
+  ic_code: G000

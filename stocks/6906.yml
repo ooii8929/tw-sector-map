@@ -10,3 +10,44 @@ tags:
   - 軟體
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 人工智慧
+  stream: 運算資源
+  segment: 雲端平台
+  ic_code: '5300'
+- industry: 人工智慧
+  stream: 運算資源
+  segment: 資料處理
+  ic_code: '5300'
+- industry: 大數據
+  stream: 應用與服務
+  segment: 領域解決方案
+  ic_code: '5600'
+- industry: 大數據
+  stream: 軟體暨工具
+  segment: 資料庫
+  ic_code: '5600'
+- industry: 大數據
+  stream: 軟體暨工具
+  segment: 分析工具
+  ic_code: '5600'
+- industry: 大數據
+  stream: 軟體暨工具
+  segment: 應用軟體
+  ic_code: '5600'
+- industry: 大數據
+  stream: 基礎資源
+  segment: 雲端平台
+  ic_code: '5600'
+- industry: 大數據
+  stream: 基礎資源
+  segment: 儲存處理
+  ic_code: '5600'
+- industry: 軟體服務
+  stream: 應用/系統軟體設計開發
+  segment: 應用/系統軟體設計開發
+  ic_code: R000
+- industry: 軟體服務
+  stream: 資料處理服務
+  segment: 資料處理服務
+  ic_code: R000

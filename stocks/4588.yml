@@ -10,3 +10,20 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 智慧電網
+  stream: 中游
+  segment: 低壓AMI
+  ic_code: AD10
+- industry: 智慧電網
+  stream: 下游
+  segment: 能源管理服務
+  ic_code: AD10
+- industry: 智慧電網
+  stream: 下游
+  segment: 系統整合服務
+  ic_code: AD10
+- industry: 其他
+  stream: 未分類
+  segment: 其他電子產品及電子服務產業
+  ic_code: X000

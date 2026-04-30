@@ -13,3 +13,44 @@ tags:
   - 醫材
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 製藥
+  stream: 上游
+  segment: 原材料
+  ic_code: C100
+- industry: 製藥
+  stream: 中游
+  segment: 中藥材、西藥原料藥
+  ic_code: C100
+- industry: 製藥
+  stream: 下游
+  segment: 中、西藥製劑
+  ic_code: C100
+- industry: 製藥
+  stream: 下游
+  segment: 藥品代理銷售及通路
+  ic_code: C100
+- industry: 製藥
+  stream: 下游
+  segment: 醫療院所
+  ic_code: C100
+- industry: 醫療器材
+  stream: 中游
+  segment: 醫療器材研發、設計、製造
+  ic_code: C200
+- industry: 醫療器材
+  stream: 下游
+  segment: 醫療器材代理銷售及通路
+  ic_code: C200
+- industry: 醫療器材
+  stream: 中游
+  segment: 醫療器材研發、設計、製造/醫療耗材
+  ic_code: C200
+- industry: 醫療器材
+  stream: 中游
+  segment: 醫療器材研發、設計、製造/生物檢測
+  ic_code: C200
+- industry: 醫療器材
+  stream: 下游
+  segment: 醫療器材代理銷售及通路/醫療器材代理
+  ic_code: C200

@@ -13,3 +13,8 @@ tags:
   - 伺服器
   supply: []
 last_enriched: '2026-04-24'
+chain:
+- industry: 文化創意業
+  stream: 其他
+  segment: 其他
+  ic_code: Y000

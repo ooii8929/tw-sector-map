@@ -11,3 +11,16 @@ tags:
   - 軟體
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 軟體服務
+  stream: 應用/系統軟體設計開發
+  segment: 應用/系統軟體設計開發
+  ic_code: R000
+- industry: 建材營造
+  stream: 中游
+  segment: 建設業
+  ic_code: S000
+- industry: 其他
+  stream: 未分類
+  segment: 其他
+  ic_code: X000

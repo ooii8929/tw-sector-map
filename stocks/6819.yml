@@ -10,3 +10,20 @@ tags:
   - 太陽能
   supply: []
 last_enriched: '2026-04-19'
+chain:
+- industry: 體驗科技
+  stream: 關鍵硬體零組件
+  segment: 感測器/模組
+  ic_code: '5700'
+- industry: 體驗科技
+  stream: 關鍵硬體零組件
+  segment: 感測器/模組/其他
+  ic_code: '5700'
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 其他電腦及週邊設備之零組件
+  ic_code: F000
+- industry: 其他
+  stream: 未分類
+  segment: 其他電子產品及電子服務產業
+  ic_code: X000

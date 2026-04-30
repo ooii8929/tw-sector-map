@@ -10,3 +10,24 @@ tags:
   - 食品
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 食品生技
+  stream: 上游
+  segment: 原料
+  ic_code: C300
+- industry: 食品生技
+  stream: 中游
+  segment: 加工製成品
+  ic_code: C300
+- industry: 食品
+  stream: 上游
+  segment: 原物料
+  ic_code: M000
+- industry: 食品
+  stream: 中游
+  segment: 加工食品
+  ic_code: M000
+- industry: 食品
+  stream: 下游
+  segment: 營養食品
+  ic_code: M000

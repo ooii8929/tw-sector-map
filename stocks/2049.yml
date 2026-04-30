@@ -10,3 +10,12 @@ tags:
   - 先進封裝
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 自動化
+  stream: 下游
+  segment: 工業型機器人
+  ic_code: '6000'
+- industry: 電機機械
+  stream: 上游
+  segment: 傳動元件
+  ic_code: P000

@@ -15,3 +15,8 @@ tags:
   - 成衣
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 貿易百貨
+  stream: 中游
+  segment: 貿易商、代理商、經銷商
+  ic_code: V000

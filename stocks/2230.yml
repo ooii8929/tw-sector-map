@@ -15,3 +15,12 @@ tags:
   - Apple供應鏈
   - Meta供應鏈
 last_enriched: '2026-04-21'
+chain:
+- industry: 電機機械
+  stream: 下游
+  segment: 車用機械傳動設備及零配件
+  ic_code: P000
+- industry: 貿易百貨
+  stream: 中游
+  segment: 貿易商、代理商、經銷商
+  ic_code: V000

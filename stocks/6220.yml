@@ -10,3 +10,24 @@ tags:
   - 線材
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 電子商務
+  stream: 下游
+  segment: 自有產品(服務)銷售
+  ic_code: R300
+- industry: 電子商務
+  stream: 下游
+  segment: 一般零售
+  ic_code: R300
+- industry: 通信網路
+  stream: 上游
+  segment: 線材
+  ic_code: I000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 電源供應器
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 連接線
+  ic_code: F000

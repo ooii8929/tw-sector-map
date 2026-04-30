@@ -9,3 +9,8 @@ tags:
   - 新藥研發
   supply: []
 last_enriched: '2026-04-23'
+chain:
+- industry: 製藥
+  stream: 上游
+  segment: 原材料
+  ic_code: C100

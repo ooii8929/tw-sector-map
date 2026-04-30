@@ -11,3 +11,32 @@ tags:
   - 伺服器
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 半導體
+  stream: 中游
+  segment: 化學品
+  ic_code: D000
+- industry: 醫療器材
+  stream: 下游
+  segment: 醫療器材代理銷售及通路
+  ic_code: C200
+- industry: 醫療器材
+  stream: 下游
+  segment: 醫療器材代理銷售及通路/醫療器材代理
+  ic_code: C200
+- industry: 平面顯示器
+  stream: 上游
+  segment: 化學品(如光阻劑、靶材等)
+  ic_code: G000
+- industry: 觸控面板
+  stream: 上游
+  segment: ITO導電薄膜
+  ic_code: H000
+- industry: 石化及塑橡膠
+  stream: 下游
+  segment: 接著劑(合成樹脂)
+  ic_code: N000
+- industry: 電機機械
+  stream: 下游
+  segment: 輸送機械及零配件
+  ic_code: P000

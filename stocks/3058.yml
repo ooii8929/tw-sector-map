@@ -16,3 +16,20 @@ tags:
   - 儲能
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 電動車輛產業
+  stream: 中游
+  segment: 大功率鋰電池芯/模組、電池管理系統、動力馬達等零組件
+  ic_code: A300
+- industry: 通信網路
+  stream: 上游
+  segment: 其他零組件
+  ic_code: I000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 電源供應器
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 其他電腦及週邊設備之零組件
+  ic_code: F000

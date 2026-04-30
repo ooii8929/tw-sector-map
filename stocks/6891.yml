@@ -9,3 +9,20 @@ tags:
   - CDMO
   supply: []
 last_enriched: '2026-04-23'
+chain:
+- industry: 製藥
+  stream: 中游
+  segment: 中藥材、西藥原料藥
+  ic_code: C100
+- industry: 製藥
+  stream: 下游
+  segment: 中、西藥製劑
+  ic_code: C100
+- industry: 再生醫療
+  stream: 上游
+  segment: 幹細胞收集儲存
+  ic_code: C400
+- industry: 再生醫療
+  stream: 中游
+  segment: 幹細胞開發
+  ic_code: C400

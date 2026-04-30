@@ -10,3 +10,20 @@ tags:
   - ADAS
   supply: []
 last_enriched: '2026-04-21'
+chain:
+- industry: 人工智慧
+  stream: 應用與服務
+  segment: 領域解決方案
+  ic_code: '5300'
+- industry: 大數據
+  stream: 應用與服務
+  segment: 領域解決方案
+  ic_code: '5600'
+- industry: 軟體服務
+  stream: 應用/系統軟體設計開發
+  segment: 應用/系統軟體設計開發
+  ic_code: R000
+- industry: 軟體服務
+  stream: 系統整合服務
+  segment: 系統整合服務
+  ic_code: R000

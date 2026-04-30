@@ -10,3 +10,12 @@ tags:
   - ABF載板
   supply: []
 last_enriched: '2026-04-24'
+chain:
+- industry: 電子商務
+  stream: 中游
+  segment: 交易撮(媒)合
+  ic_code: R300
+- industry: 電子商務
+  stream: 中游
+  segment: 資訊聚合
+  ic_code: R300

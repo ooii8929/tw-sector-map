@@ -11,3 +11,8 @@ tags:
   - CPO
   supply: []
 last_enriched: '2026-04-20'
+chain:
+- industry: 通信網路
+  stream: 下游
+  segment: 網路設備(如數據機、網路卡、閘道器、路由器、網路電話)
+  ic_code: I000

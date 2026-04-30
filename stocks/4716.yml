@@ -11,3 +11,12 @@ tags:
   supply:
   - Apple供應鏈
 last_enriched: '2026-04-23'
+chain:
+- industry: 石化及塑橡膠
+  stream: 中游
+  segment: 石化中間原料(例如乙烯、丙烯、丁二烯、苯、酚等)
+  ic_code: N000
+- industry: 石化及塑橡膠
+  stream: 中游
+  segment: 石化中間原料(例如乙烯、丙烯、丁二烯、苯、酚等)/工業用合成樹脂
+  ic_code: N000

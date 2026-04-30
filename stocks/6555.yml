@@ -11,3 +11,12 @@ tags:
   - 電池
   supply: []
 last_enriched: '2026-04-20'
+chain:
+- industry: 電動車輛產業
+  stream: 上游
+  segment: 鋰電池材料
+  ic_code: A300
+- industry: 能源元件
+  stream: 上游
+  segment: 原材料
+  ic_code: E000

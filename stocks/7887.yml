@@ -9,3 +9,8 @@ tags:
   - HBM
   supply: []
 last_enriched: '2026-04-19'
+chain:
+- industry: 半導體
+  stream: 中游
+  segment: 化學品
+  ic_code: D000

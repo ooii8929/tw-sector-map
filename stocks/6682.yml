@@ -11,3 +11,8 @@ tags:
   supply:
   - NVIDIA供應鏈
 last_enriched: '2026-04-20'
+chain:
+- industry: 太陽能產業
+  stream: 上游
+  segment: 材料
+  ic_code: A100

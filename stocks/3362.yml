@@ -11,3 +11,8 @@ tags:
   supply:
   - Apple供應鏈
 last_enriched: '2026-04-20'
+chain:
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 光學鏡片、鏡頭
+  ic_code: F000

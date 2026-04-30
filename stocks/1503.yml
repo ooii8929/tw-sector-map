@@ -23,3 +23,40 @@ tags:
   - 車用電子
   supply: []
 last_enriched: '2026-04-21'
+chain:
+- industry: 電動車輛產業
+  stream: 中游
+  segment: 大功率鋰電池芯/模組、電池管理系統、動力馬達等零組件
+  ic_code: A300
+- industry: 風力發電
+  stream: 上游
+  segment: 電力系統
+  ic_code: AB20
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 安全監控系統
+  ic_code: F000
+- industry: 電機機械
+  stream: 下游
+  segment: 輸送機械及零配件
+  ic_code: P000
+- industry: 電機機械
+  stream: 下游
+  segment: 車用機械傳動設備及零配件
+  ic_code: P000
+- industry: 電機機械
+  stream: 下游
+  segment: 冷凍空調設備及零件
+  ic_code: P000
+- industry: 電機機械
+  stream: 下游
+  segment: 機電系統工程
+  ic_code: P000
+- industry: 汽車
+  stream: 上游
+  segment: 其他
+  ic_code: '3000'
+- industry: 建材營造
+  stream: 上游
+  segment: 機電工程
+  ic_code: S000

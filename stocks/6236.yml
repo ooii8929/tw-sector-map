@@ -13,3 +13,16 @@ tags:
   - 面板
   supply: []
 last_enriched: '2026-04-24'
+chain:
+- industry: 資通訊安全
+  stream: 資安產品
+  segment: 網路安全防護
+  ic_code: '5500'
+- industry: 資通訊安全
+  stream: 資安產品
+  segment: 端點安全防護
+  ic_code: '5500'
+- industry: 資通訊安全
+  stream: 資安服務
+  segment: 資安防護能力分析與鑑識服務
+  ic_code: '5500'

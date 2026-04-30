@@ -7,3 +7,20 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 醫療器材
+  stream: 中游
+  segment: 醫療器材研發、設計、製造
+  ic_code: C200
+- industry: 醫療器材
+  stream: 中游
+  segment: 醫療器材研發、設計、製造/生物檢測
+  ic_code: C200
+- industry: 人工智慧
+  stream: 應用與服務
+  segment: 領域解決方案
+  ic_code: '5300'
+- industry: 人工智慧
+  stream: 運算資源
+  segment: 雲端平台
+  ic_code: '5300'

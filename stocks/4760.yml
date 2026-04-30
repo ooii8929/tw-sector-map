@@ -14,3 +14,28 @@ tags:
   - 太陽能
   supply: []
 last_enriched: '2026-04-22'
+chain:
+- industry: 半導體
+  stream: 下游
+  segment: IC封裝測試
+  ic_code: D000
+- industry: LED照明產業
+  stream: 下游
+  segment: 封裝/模組
+  ic_code: A200
+- industry: 太陽能產業
+  stream: 上游
+  segment: 材料
+  ic_code: A100
+- industry: 被動元件
+  stream: 上游
+  segment: 電阻器材料(氧化鋁陶瓷基板、導電漿墨)
+  ic_code: J000
+- industry: 被動元件
+  stream: 上游
+  segment: 電容器材料(如電蝕／化成鋁箔、介面瓷粉)
+  ic_code: J000
+- industry: 被動元件
+  stream: 上游
+  segment: 電感器材料(如鐵氧體、導電漿墨)
+  ic_code: J000

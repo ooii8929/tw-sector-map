@@ -17,3 +17,16 @@ tags:
   - 電池
   supply: []
 last_enriched: '2026-04-20'
+chain:
+- industry: 太陽能產業
+  stream: 中游
+  segment: 太陽能電池
+  ic_code: A100
+- industry: 太陽能產業
+  stream: 中游
+  segment: 太陽能電池模組
+  ic_code: A100
+- industry: 太陽能產業
+  stream: 下游
+  segment: 太陽能電廠
+  ic_code: A100

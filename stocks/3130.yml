@@ -12,3 +12,20 @@ tags:
   - 人力資源
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 電子商務
+  stream: 上游
+  segment: 行銷廣告服務
+  ic_code: R300
+- industry: 電子商務
+  stream: 中游
+  segment: 資訊聚合
+  ic_code: R300
+- industry: 軟體服務
+  stream: 應用/系統軟體設計開發
+  segment: 應用/系統軟體設計開發
+  ic_code: R000
+- industry: 軟體服務
+  stream: 系統整合服務
+  segment: 系統整合服務
+  ic_code: R000

@@ -18,3 +18,24 @@ tags:
   - 光通訊
   supply: []
 last_enriched: '2026-04-19'
+chain:
+- industry: 半導體
+  stream: 上游
+  segment: IC設計
+  ic_code: D000
+- industry: 半導體
+  stream: 上游
+  segment: IC設計/光通訊IC
+  ic_code: D000
+- industry: 半導體
+  stream: 上游
+  segment: IC設計/消費性IC
+  ic_code: D000
+- industry: 半導體
+  stream: 上游
+  segment: IC設計/網路通訊IC
+  ic_code: D000
+- industry: 半導體
+  stream: 上游
+  segment: IC設計/輸出入介面IC
+  ic_code: D000

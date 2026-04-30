@@ -13,3 +13,16 @@ tags:
   - 影音平台
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 電子商務
+  stream: 下游
+  segment: 一般零售
+  ic_code: R300
+- industry: 文化創意業
+  stream: 廣播電視/電影產業
+  segment: 廣播電視/電影產業
+  ic_code: Y000
+- industry: 文化創意業
+  stream: 流行音樂及文化內容產業
+  segment: 流行音樂及文化內容產業
+  ic_code: Y000

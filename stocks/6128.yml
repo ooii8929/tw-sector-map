@@ -8,3 +8,12 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 休閒娛樂
+  stream: 旅館服務業
+  segment: 旅館服務業
+  ic_code: B000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 其他電腦及週邊設備之零組件
+  ic_code: F000

@@ -11,3 +11,8 @@ tags:
   - PCB
   supply: []
 last_enriched: '2026-04-19'
+chain:
+- industry: 印刷電路板
+  stream: 上游
+  segment: 銅箔
+  ic_code: L000

@@ -10,3 +10,20 @@ tags:
   - 電線電纜
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 通信網路
+  stream: 上游
+  segment: 線材
+  ic_code: I000
+- industry: 連接器
+  stream: 上游
+  segment: 金屬材料
+  ic_code: K000
+- industry: 電機機械
+  stream: 下游
+  segment: 金屬加工處理
+  ic_code: P000
+- industry: 其他
+  stream: 未分類
+  segment: 其他
+  ic_code: X000

@@ -11,3 +11,36 @@ tags:
   - 光通訊
   supply: []
 last_enriched: '2026-04-20'
+chain:
+- industry: 醫療器材
+  stream: 上游
+  segment: 電子零組件、塑膠零件、五金零件
+  ic_code: C200
+- industry: 醫療器材
+  stream: 上游
+  segment: 電子零組件、塑膠零件、五金零件/塑化材料
+  ic_code: C200
+- industry: 醫療器材
+  stream: 上游
+  segment: 電子零組件、塑膠零件、五金零件/金屬零件
+  ic_code: C200
+- industry: 電動車輛產業
+  stream: 中游
+  segment: 大功率鋰電池芯/模組、電池管理系統、動力馬達等零組件
+  ic_code: A300
+- industry: 通信網路
+  stream: 上游
+  segment: 塑膠/金屬機殼
+  ic_code: I000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 機殼
+  ic_code: F000
+- industry: 電機機械
+  stream: 上游
+  segment: 五金元件及零配件
+  ic_code: P000
+- industry: 汽車
+  stream: 上游
+  segment: 其他
+  ic_code: '3000'

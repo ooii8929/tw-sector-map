@@ -17,3 +17,20 @@ tags:
   - 光纖
   supply: []
 last_enriched: '2026-04-19'
+chain:
+- industry: 半導體
+  stream: 下游
+  segment: 生產製程及檢測設備
+  ic_code: D000
+- industry: 半導體
+  stream: 下游
+  segment: IC封裝測試
+  ic_code: D000
+- industry: LED照明產業
+  stream: 中游
+  segment: 生產製程、檢測設備及原物料
+  ic_code: A200
+- industry: LED照明產業
+  stream: 下游
+  segment: 封裝/模組
+  ic_code: A200

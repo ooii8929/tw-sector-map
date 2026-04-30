@@ -15,3 +15,36 @@ tags:
   - 車用電子
   supply: []
 last_enriched: '2026-04-19'
+chain:
+- industry: 醫療器材
+  stream: 上游
+  segment: 電子零組件、塑膠零件、五金零件
+  ic_code: C200
+- industry: 醫療器材
+  stream: 上游
+  segment: 電子零組件、塑膠零件、五金零件/塑化材料
+  ic_code: C200
+- industry: 通信網路
+  stream: 上游
+  segment: 主/被動元件
+  ic_code: I000
+- industry: 通信網路
+  stream: 上游
+  segment: 塑膠/金屬機殼
+  ic_code: I000
+- industry: 連接器
+  stream: 上游
+  segment: 金屬材料
+  ic_code: K000
+- industry: 連接器
+  stream: 上游
+  segment: 電鍍材料
+  ic_code: K000
+- industry: 連接器
+  stream: 上游
+  segment: 塑膠材料
+  ic_code: K000
+- industry: 平面顯示器
+  stream: 上游
+  segment: 其他零組件
+  ic_code: G000

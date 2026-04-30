@@ -13,3 +13,8 @@ tags:
   supply:
   - Tesla供應鏈
 last_enriched: '2026-04-19'
+chain:
+- industry: 半導體
+  stream: 中游
+  segment: 生產製程及檢測設備
+  ic_code: D000

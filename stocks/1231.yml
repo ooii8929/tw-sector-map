@@ -12,3 +12,8 @@ tags:
   supply:
   - NVIDIA供應鏈
 last_enriched: '2026-04-23'
+chain:
+- industry: 食品
+  stream: 下游
+  segment: 冷凍、罐頭、脫水、醃漬食品
+  ic_code: M000

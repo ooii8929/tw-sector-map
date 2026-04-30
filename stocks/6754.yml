@@ -8,3 +8,12 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 建材營造
+  stream: 下游
+  segment: 裝潢業
+  ic_code: S000
+- industry: 其他
+  stream: 未分類
+  segment: 其他
+  ic_code: X000

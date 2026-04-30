@@ -8,3 +8,8 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 貿易百貨
+  stream: 上游
+  segment: 製造商
+  ic_code: V000

@@ -11,3 +11,8 @@ tags:
   - IC載板
   supply: []
 last_enriched: '2026-04-21'
+chain:
+- industry: 軟體服務
+  stream: 資料處理服務
+  segment: 資料處理服務
+  ic_code: R000

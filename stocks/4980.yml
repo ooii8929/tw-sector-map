@@ -13,3 +13,68 @@ tags:
   - Google供應鏈
   - Meta供應鏈
 last_enriched: '2026-04-19'
+chain:
+- industry: 體驗科技
+  stream: 關鍵硬體零組件
+  segment: 近眼顯示(Dear-Eye Display)
+  ic_code: '5700'
+- industry: 體驗科技
+  stream: 關鍵硬體零組件
+  segment: 感測器/模組
+  ic_code: '5700'
+- industry: 體驗科技
+  stream: 開發引擎/編輯工具
+  segment: 頭顯裝置品牌廠
+  ic_code: '5700'
+- industry: 體驗科技
+  stream: 開發引擎/編輯工具
+  segment: 硬體開發工具
+  ic_code: '5700'
+- industry: 體驗科技
+  stream: 開發引擎/編輯工具
+  segment: 軟體開發工具
+  ic_code: '5700'
+- industry: 體驗科技
+  stream: 應用軟體&amp;內容
+  segment: 垂直應用方案
+  ic_code: '5700'
+- industry: 體驗科技
+  stream: 關鍵硬體零組件
+  segment: 近眼顯示(Dear-Eye Display)/顯示技術
+  ic_code: '5700'
+- industry: 體驗科技
+  stream: 關鍵硬體零組件
+  segment: 近眼顯示(Dear-Eye Display)/光學元件/模組
+  ic_code: '5700'
+- industry: 體驗科技
+  stream: 關鍵硬體零組件
+  segment: 近眼顯示(Dear-Eye Display)/微型顯示器/光機引擎(Light Engine)
+  ic_code: '5700'
+- industry: 體驗科技
+  stream: 關鍵硬體零組件
+  segment: 感測器/模組/環境感知
+  ic_code: '5700'
+- industry: 體驗科技
+  stream: 關鍵硬體零組件
+  segment: 感測器/模組/深度感測
+  ic_code: '5700'
+- industry: 體驗科技
+  stream: 關鍵硬體零組件
+  segment: 感測器/模組/SLAM
+  ic_code: '5700'
+- industry: 體驗科技
+  stream: 關鍵硬體零組件
+  segment: 感測器/模組/使用者感知
+  ic_code: '5700'
+- industry: 體驗科技
+  stream: 關鍵硬體零組件
+  segment: 感測器/模組/視覺
+  ic_code: '5700'
+- industry: 體驗科技
+  stream: 關鍵硬體零組件
+  segment: 感測器/模組/手勢/動作
+  ic_code: '5700'
+- industry: 通信網路
+  stream: 上游
+  segment: 其他零組件
+  ic_code: I000

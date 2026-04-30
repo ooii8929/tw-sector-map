@@ -13,3 +13,8 @@ tags:
   - 先進封裝
   supply: []
 last_enriched: '2026-04-19'
+chain:
+- industry: 印刷電路板
+  stream: 上游
+  segment: 聚亞醯胺樹脂
+  ic_code: L000

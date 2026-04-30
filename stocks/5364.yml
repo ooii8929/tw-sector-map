@@ -16,3 +16,8 @@ tags:
   - 電池
   supply: []
 last_enriched: '2026-04-24'
+chain:
+- industry: 休閒娛樂
+  stream: 旅館服務業
+  segment: 旅館服務業
+  ic_code: B000

@@ -19,3 +19,56 @@ tags:
   - 散熱
   supply: []
 last_enriched: '2026-04-21'
+chain:
+- industry: 電動車輛產業
+  stream: 中游
+  segment: 大功率鋰電池芯/模組、電池管理系統、動力馬達等零組件
+  ic_code: A300
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 顯示器模組
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 主機板
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 機殼
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 電源供應器
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 散熱片、風扇馬達、散熱模組
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 顯示卡
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 筆記型電腦
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 桌上型電腦
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 工業電腦
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 精簡型電腦
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 伺服器
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 其他電腦及週邊設備
+  ic_code: F000

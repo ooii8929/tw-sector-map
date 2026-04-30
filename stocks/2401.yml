@@ -17,3 +17,36 @@ tags:
   - 記憶體
   supply: []
 last_enriched: '2026-04-18'
+chain:
+- industry: 半導體
+  stream: 上游
+  segment: IP設計/IC設計代工服務
+  ic_code: D000
+- industry: 半導體
+  stream: 上游
+  segment: IC設計
+  ic_code: D000
+- industry: 半導體
+  stream: 上游
+  segment: IC設計/消費性IC
+  ic_code: D000
+- industry: 半導體
+  stream: 上游
+  segment: IC設計/磁碟儲存控制器IC
+  ic_code: D000
+- industry: 半導體
+  stream: 上游
+  segment: IC設計/輸出入介面IC
+  ic_code: D000
+- industry: 半導體
+  stream: 上游
+  segment: IC設計/光儲存控制IC
+  ic_code: D000
+- industry: 半導體
+  stream: 上游
+  segment: IC設計/影像感測IC
+  ic_code: D000
+- industry: 電動車輛產業
+  stream: 中游
+  segment: 大功率鋰電池芯/模組、電池管理系統、動力馬達等零組件
+  ic_code: A300

@@ -11,3 +11,16 @@ tags:
   - PCB
   supply: []
 last_enriched: '2026-04-20'
+chain:
+- industry: 半導體
+  stream: 中游
+  segment: 生產製程及檢測設備
+  ic_code: D000
+- industry: LED照明產業
+  stream: 中游
+  segment: 生產製程、檢測設備及原物料
+  ic_code: A200
+- industry: 印刷電路板
+  stream: 上游
+  segment: 生產製程及檢測設備
+  ic_code: L000

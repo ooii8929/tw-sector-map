@@ -8,3 +8,8 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 油電燃氣
+  stream: 天然瓦斯供應
+  segment: 天然瓦斯供應
+  ic_code: W000

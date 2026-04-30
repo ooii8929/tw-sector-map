@@ -9,3 +9,8 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 紡織
+  stream: 中游
+  segment: 化學助劑
+  ic_code: O000

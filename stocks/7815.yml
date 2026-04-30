@@ -7,3 +7,8 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 半導體
+  stream: 下游
+  segment: 生產製程及檢測設備
+  ic_code: D000

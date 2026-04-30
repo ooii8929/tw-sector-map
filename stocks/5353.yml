@@ -19,3 +19,20 @@ tags:
   - 車用電子
   supply: []
 last_enriched: '2026-04-20'
+chain:
+- industry: 通信網路
+  stream: 下游
+  segment: 網路設備(如數據機、網路卡、閘道器、路由器、網路電話)
+  ic_code: I000
+- industry: 通信網路
+  stream: 下游
+  segment: 無線通訊設備(如行動電話、衛星定位系統、衛星通訊設備、微波通訊設備、數位機上盒)
+  ic_code: I000
+- industry: 通信網路
+  stream: 下游
+  segment: 有線通訊設備(如電話機、傳真機)
+  ic_code: I000
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 工業電腦
+  ic_code: F000

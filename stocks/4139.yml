@@ -8,3 +8,8 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 製藥
+  stream: 下游
+  segment: 醫療院所
+  ic_code: C100

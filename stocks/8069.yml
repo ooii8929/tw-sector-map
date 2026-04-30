@@ -13,3 +13,12 @@ tags:
   - LED
   supply: []
 last_enriched: '2026-04-20'
+chain:
+- industry: 平面顯示器
+  stream: 中游
+  segment: 面板
+  ic_code: G000
+- industry: 平面顯示器
+  stream: 下游
+  segment: 電子書
+  ic_code: G000

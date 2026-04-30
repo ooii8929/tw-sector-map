@@ -18,3 +18,24 @@ tags:
   - 造紙
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 造紙
+  stream: 中游
+  segment: 文化用紙
+  ic_code: '2000'
+- industry: 造紙
+  stream: 中游
+  segment: 工業用紙
+  ic_code: '2000'
+- industry: 造紙
+  stream: 中游
+  segment: 家庭用紙
+  ic_code: '2000'
+- industry: 造紙
+  stream: 下游
+  segment: 銷售、進出口業務
+  ic_code: '2000'
+- industry: 其他
+  stream: 未分類
+  segment: 文化印刷業
+  ic_code: X000

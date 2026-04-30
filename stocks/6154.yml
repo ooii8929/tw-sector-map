@@ -10,3 +10,48 @@ tags:
   - 電子通路
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 筆記型電腦
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 桌上型電腦
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 工業電腦
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 精簡型電腦
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 伺服器
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 印表機、傳真機、掃瞄器、多功能事務機、投影機
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 下游
+  segment: 安全監控系統
+  ic_code: F000
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 其他電腦及週邊設備之零組件
+  ic_code: F000
+- industry: 軟體服務
+  stream: 通路經銷
+  segment: 通路經銷
+  ic_code: R000
+- industry: 貿易百貨
+  stream: 下游
+  segment: 零售通路
+  ic_code: V000
+- industry: 其他
+  stream: 未分類
+  segment: 其他電子產品及電子服務產業
+  ic_code: X000

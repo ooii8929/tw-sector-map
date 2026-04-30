@@ -15,3 +15,16 @@ tags:
   supply:
   - NVIDIA供應鏈
 last_enriched: '2026-04-21'
+chain:
+- industry: 汽電共生
+  stream: 上游
+  segment: 配電系統
+  ic_code: AB10
+- industry: 風力發電
+  stream: 上游
+  segment: 電力系統
+  ic_code: AB20
+- industry: 電機機械
+  stream: 下游
+  segment: 機電系統工程
+  ic_code: P000

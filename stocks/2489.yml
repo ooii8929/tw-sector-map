@@ -13,3 +13,12 @@ tags:
   - CPO
   supply: []
 last_enriched: '2026-04-20'
+chain:
+- industry: 平面顯示器
+  stream: 下游
+  segment: 監視器/顯示器
+  ic_code: G000
+- industry: 平面顯示器
+  stream: 下游
+  segment: 電視
+  ic_code: G000

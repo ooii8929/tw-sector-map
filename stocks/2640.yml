@@ -9,3 +9,8 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 電子商務
+  stream: 中游
+  segment: 交易撮(媒)合
+  ic_code: R300

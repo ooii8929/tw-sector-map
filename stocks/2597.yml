@@ -12,3 +12,32 @@ tags:
   - 建設
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 建材營造
+  stream: 上游
+  segment: 建材原料
+  ic_code: S000
+- industry: 建材營造
+  stream: 上游
+  segment: 基礎工程
+  ic_code: S000
+- industry: 建材營造
+  stream: 上游
+  segment: 結構工程
+  ic_code: S000
+- industry: 建材營造
+  stream: 上游
+  segment: 機電工程
+  ic_code: S000
+- industry: 建材營造
+  stream: 上游
+  segment: 工程設計
+  ic_code: S000
+- industry: 建材營造
+  stream: 中游
+  segment: 營造業
+  ic_code: S000
+- industry: 建材營造
+  stream: 下游
+  segment: 裝潢業
+  ic_code: S000

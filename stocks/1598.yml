@@ -11,3 +11,12 @@ tags:
   - 運動用品
   supply: []
 last_enriched: '2026-04-17'
+chain:
+- industry: 運動科技
+  stream: 中游
+  segment: 健身器材
+  ic_code: '5800'
+- industry: 其他
+  stream: 未分類
+  segment: 其他
+  ic_code: X000

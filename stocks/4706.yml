@@ -8,3 +8,16 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 石化及塑橡膠
+  stream: 下游
+  segment: 顏染料
+  ic_code: N000
+- industry: 紡織
+  stream: 中游
+  segment: 化學助劑
+  ic_code: O000
+- industry: 其他
+  stream: 未分類
+  segment: 其他
+  ic_code: X000

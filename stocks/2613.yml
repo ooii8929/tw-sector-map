@@ -10,3 +10,8 @@ tags:
   supply:
   - NVIDIA供應鏈
 last_enriched: '2026-04-24'
+chain:
+- industry: 交通運輸及航運
+  stream: 貨櫃運輸集散及倉儲
+  segment: 貨櫃運輸集散及倉儲
+  ic_code: T000

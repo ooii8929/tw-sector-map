@@ -10,3 +10,8 @@ tags:
   - 低軌衛星
   supply: []
 last_enriched: '2026-04-24'
+chain:
+- industry: 建材營造
+  stream: 下游
+  segment: 裝潢業
+  ic_code: S000

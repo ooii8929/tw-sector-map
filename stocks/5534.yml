@@ -11,3 +11,8 @@ tags:
   supply:
   - NVIDIA供應鏈
 last_enriched: '2026-04-24'
+chain:
+- industry: 建材營造
+  stream: 上游
+  segment: 建材原料
+  ic_code: S000

@@ -12,3 +12,8 @@ tags:
   - PA功率放大器
   supply: []
 last_enriched: '2026-04-23'
+chain:
+- industry: 石化及塑橡膠
+  stream: 下游
+  segment: 塑化劑(可塑劑)
+  ic_code: N000

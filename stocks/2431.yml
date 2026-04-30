@@ -13,3 +13,8 @@ tags:
   - 電源供應器
   supply: []
 last_enriched: '2026-04-19'
+chain:
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 電源供應器
+  ic_code: F000

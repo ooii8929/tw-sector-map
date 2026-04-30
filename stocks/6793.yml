@@ -10,3 +10,8 @@ tags:
   supply:
   - NVIDIA供應鏈
 last_enriched: '2026-04-25'
+chain:
+- industry: 風力發電
+  stream: 上游
+  segment: 葉片
+  ic_code: AB20

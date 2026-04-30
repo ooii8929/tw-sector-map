@@ -11,3 +11,8 @@ tags:
   - 伺服器
   supply: []
 last_enriched: '2026-04-24'
+chain:
+- industry: 金融
+  stream: 證券業
+  segment: 證券業
+  ic_code: U000

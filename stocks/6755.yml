@@ -7,3 +7,8 @@ themes:
 tags:
   tech: []
   supply: []
+chain:
+- industry: 電腦及週邊設備
+  stream: 上游
+  segment: 機構樞紐
+  ic_code: F000
